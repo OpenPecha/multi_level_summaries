@@ -7,6 +7,7 @@ def process_node_recursive(node):
     - If a node is a leaf node, leaves it as is
     - If a node has children, combines all verse_text_excerpt from its descendants
       and adds it to the node with the key "verse_text_excerpt"
+    - Ensures verse_text_excerpt appears before children in the output JSON
     
     Args:
         node (dict): The current node in the outline tree to process.
@@ -31,8 +32,35 @@ def process_node_recursive(node):
         
         # Combine all collected verse texts for this parent node
         if all_verse_texts:
-            node["verse_text_excerpt"] = "\n\n".join(all_verse_texts)
-            return True
+            # Store verse_text_excerpt to add it in the correct position later
+            verse_text = "\n\n".join(all_verse_texts)
+            has_text = True
+        else:
+            verse_text = None
+        
+        # To ensure verse_text_excerpt appears before children in the output,
+        # we need to reorder the node dictionary
+        if has_text:
+            # Create a new ordered dictionary with the desired field order
+            reordered_node = {}
+            
+            # Copy all fields except 'children' and 'verse_text_excerpt'
+            for key, value in node.items():
+                if key != "children" and key != "verse_text_excerpt":
+                    reordered_node[key] = value
+            
+            # Add verse_text_excerpt before children
+            if verse_text:
+                reordered_node["verse_text_excerpt"] = verse_text
+            
+            # Add children at the end
+            if "children" in node:
+                reordered_node["children"] = node["children"]
+            
+            # Replace the node's contents with our reordered version
+            # This is a bit of a hack but works because we're modifying the dict in-place
+            node.clear()
+            node.update(reordered_node)
         
         return has_text
     else:
@@ -60,9 +88,9 @@ def process_outline_json(input_json_data):
     return input_json_data
 
 if __name__ == "__main__":
-    chapter_dir = Path("./data/chapter_two")
-    chapter_outline_file = chapter_dir / "chapter_2_outline.json"
-    output_file_name = chapter_dir / "updated_outline_with_verses.json"
+    chapter_dir = Path("./data/chapter_one")
+    chapter_outline_file = chapter_dir / "chapter_1_outline_bo.json"
+    output_file_name = chapter_dir / "updated_outline_with_verses_bo.json"
     
     try:
         # Read the input JSON file
