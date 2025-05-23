@@ -72,12 +72,14 @@ def process_outline_json(input_json_data):
 
 
 if __name__ =="__main__":
-    outline_data_str = Path('./data/chapter_one/chapter_1_outline.json').read_text()
+    chapter_dir = Path("./data/chapter_one")
+    chapter_outline_file = chapter_dir / "chapter_1_outline.json"
+    outline_data_str = chapter_outline_file.read_text()
     outline_data = json.loads(outline_data_str)
     processed_output = process_outline_json(outline_data)
 
     # Save the processed data to a new JSON file
-    output_file_name = "parent_nodes_with_verses.json"
+    output_file_name = chapter_dir / "parent_nodes_with_verses.json"
     with open(output_file_name, "w") as f:
         json.dump(processed_output, f, indent=2)
 

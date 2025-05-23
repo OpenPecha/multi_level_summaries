@@ -1,6 +1,4 @@
-# README
-
-> **Note:** This readme template is based on one from the [Good Docs Project](https://thegooddocsproject.dev). You can find it and a guide to filling it out [here](https://gitlab.com/tgdp/templates/-/tree/main/readme). (_Erase this note after filling out the readme._)
+# Multi-Level Summaries
 
 <h1 align="center">
   <br>
@@ -8,15 +6,14 @@
   <br>
 </h1>
 
-## _Project Name_
-_The project name should match its code's capability so that new users can easily understand what it does._
+## Multi-Level Summaries
+A tool for extracting hierarchical outlines and summaries from Buddhist texts using root text and commentary.
 
 ## Owner(s)
 
-_Change to the owner(s) of the new repo. (This template's owners are:)_
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
-- [@evanyerburgh](https://github.com/evanyerburgh)
+- [@kaldan007](https://github.com/kaldan007)
+- [@gayche](https://github.com/gayche)
 
 
 ## Table of contents
@@ -33,55 +30,102 @@ _Change to the owner(s) of the new repo. (This template's owners are:)_
 <hr>
 
 ## Project description
-_Use one of these:_
 
-With _Project Name_ you can _verb_ _noun_...
+Multi-Level Summaries is a tool that helps you extract hierarchical outlines and summaries from Buddhist texts using their root text and commentary. The project uses large language models to analyze the structure of texts as explained in their commentaries, and then extracts verse text at different hierarchical levels for summarization and study.
 
-_Project Name_ helps you _verb_ _noun_...
-
+The tool works in two main steps:
+1. **Outline Extraction**: Using a specialized prompt on Gemini, the tool extracts a comprehensive hierarchical outline of the root text based on the structure, divisions, and thematic groupings presented in its commentary.
+2. **Verse Text Processing**: The outline parser script then processes the JSON outline to extract and combine verse text for all nodes in the hierarchy, including parent nodes that don't have direct verse text in the initial extraction.
 
 ## Who this project is for
-This project is intended for _target user_ who wants to _user objective_.
-
+This project is intended for Buddhist scholars, researchers, and practitioners who want to better understand the structure and content of Buddhist texts through their commentaries, and generate multi-level summaries for study and analysis.
 
 ## Project dependencies
-Before using _Project Name_, ensure you have:
-* _Prerequisite 1_
-* _Prerequisite 2_
-* _Prerequisite 3..._
+Before using Multi-Level Summaries, ensure you have:
+* Python 3.7+
+* Access to Gemini API or another capable large language model
+* JSON processing capabilities
 
 
 ## Instructions for use
-Get started with _Project Name_ by _(write the first step a user needs to start using the project. Use a verb to start.)_.
+Get started with Multi-Level Summaries by preparing your root text and commentary files.
 
+### Install Multi-Level Summaries
+1. Clone the repository to your local machine.
 
-### Install _Project Name_
-1. _Write the step here._ 
+    ```bash
+    git clone https://github.com/OpenPecha/multi_level_summaries.git
+    cd multi_level_summaries
+    ```
 
-    _Explanatory text here_ 
+2. Install required dependencies.
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Prepare Your Texts
+1. Prepare your root text file and commentary text file in plain text format.
+2. Organize your files in the `data` directory, following the existing structure.
+
+### Extract Outline Using LLM
+1. Use the outline extractor prompt with Gemini or another capable LLM. The full prompt is available in the project at `data/prompts/outline_extractor_prompt.md`.
+
+    The prompt is designed to generate a comprehensive hierarchical outline of the root text based on the structure presented in its commentary. It instructs the LLM to:
+    - Extract the hierarchical structure (chapters, sections, subsections) from the commentary
+    - Provide verse number spans for each level
+    - Include the exact verse text for leaf nodes only
+    - Use titles derived from the commentary where available
     
-    _(Optional: Include a code sample or screenshot that helps your users complete this step.)_
+    The output will be in JSON format with the following structure:
 
-2. _Write the step here._
- 
-    a. _Substep 1_ 
-    
-    b. _Substep 2_
+    ```json
+    [
+      {
+        "level": "chapter",
+        "number": "1",
+        "title": "[Title derived from Commentary]",
+        "verses_span": "[start]-[end]",
+        "children": [
+          {
+            "level": "section",
+            "number": "1.1",
+            "title": "[Title derived from Commentary]",
+            "verses_span": "[start]-[end]",
+            "children": [
+              {
+                "level": "subsection",
+                "number": "1.1.1",
+                "title": "[Title derived from Commentary]",
+                "verses_span": "[start]-[end]",
+                "verse_text_excerpt": "[Exact text of verses from the Root Text]",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+    ```
 
+2. Save the generated JSON outline to a file (e.g., `chapter_1_outline.json`) in the appropriate data directory.
 
-### Configure _Project Name_
-1. _Write the step here._
-2. _Write the step here._
+### Process the Outline
+1. Run the outline parser script to extract verse text for all nodes in the hierarchy.
 
+    ```bash
+    python outline_parser.py
+    ```
 
-### Run _Project Name_
-1. _Write the step here._
-2. _Write the step here._
+    This script will:
+    - Parse the JSON outline
+    - Extract verse text from leaf nodes
+    - Combine verse text for parent nodes
+    - Generate a new JSON file with verse text for all nodes
 
+2. The processed output will be saved to `parent_nodes_with_verses.json`.
 
-### Troubleshoot _Project Name_
-1. _Write the step here._
-2. _Write the step here._
+### Troubleshoot Multi-Level Summaries
 
 <table>
   <tr>
@@ -94,35 +138,29 @@ Get started with _Project Name_ by _(write the first step a user needs to start 
   </tr>
   <tr>
    <td>
-    _Describe the issue here_
+    LLM output token limit prevents generating the full outline
    </td>
    <td>
-    _Write solution here_
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
+    Only extract text at leaf nodes in the initial prompt, then use the outline_parser.py script to process and combine verse text for parent nodes.
    </td>
   </tr>
   <tr>
    <td>
-    _Describe the issue here_
+    JSON parsing errors
    </td>
    <td>
-    _Write solution here_
+    Ensure the LLM output is valid JSON. You may need to fix formatting issues manually before processing.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Missing verse text in output
+   </td>
+   <td>
+    Check that your root text file contains all verses referenced in the outline and that verse spans are correctly specified.
    </td>
   </tr>
 </table>
-
-
-Other troubleshooting supports:
-* _Link to FAQs_
-* _Link to runbooks_
-* _Link to other relevant support information_
 
 
 ## Contributing guidelines
@@ -145,4 +183,4 @@ For more information:
 
 
 ## Terms of use
-_Project Name_ is licensed under the [MIT License](/LICENSE.md).
+Multi-Level Summaries is licensed under the [MIT License](/LICENSE.md).
