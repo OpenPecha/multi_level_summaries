@@ -1,0 +1,1687 @@
+{
+    "analysis_results": [
+        {
+            "level": "chapter",
+            "number": "1",
+            "title": "The Excellence and Benefits of Bodhichitta",
+            "verses_span": "1-36",
+            "children": [
+                {
+                    "level": "section",
+                    "number": "1.1",
+                    "title": "Introduction and Preliminaries",
+                    "verses_span": "1-3",
+                    "children": [
+                        {
+                            "level": "subsection",
+                            "number": "1.1.1",
+                            "title": "The expression of homage",
+                            "verses_span": "1",
+                            "children": [],
+                            "summary": {
+                                "content_summary": "This unit expresses homage to the Sugatas (Buddhas), the Dharma-body (Dharma Jewel), and the Buddha's heirs (Sangha Jewel), establishing the author's reverence and the scriptural basis for the treatise. The homage aims to dispel obstacles, inspire confidence in the text, and ensure successful transmission.",
+                                "key_concepts": [
+                                    "Sugatas",
+                                    "Dharma-body",
+                                    "Buddha's heirs (Bodhisattvas)",
+                                    "Three Jewels",
+                                    "Homage (Veneration)"
+                                ],
+                                "transformative_goal": "To cultivate respect for the objects of refuge and to establish a sacred context for the composition and reception of the teachings, thereby purifying the mind for engagement with the path.",
+                                "function_in_hierarchy": "Serves as the traditional invocation and statement of purpose, setting the spiritual and authoritative tone for the entire treatise. It establishes the lineage and authenticity of the teachings to be presented.",
+                                "inter_node_relationships": [
+                                    {
+                                        "related_node_title": "Introduction and Preliminaries (Parent)",
+                                        "relationship_type": "contributes_to_parent",
+                                        "conceptual_bridge": "Forms the initial and foundational part of the chapter's introduction, outlining the author's reverential stance before proceeding with the work."
+                                    },
+                                    {
+                                        "related_node_title": "The taking of a humble attitude (Next Sibling)",
+                                        "relationship_type": "precedes_and_sets_context_for",
+                                        "conceptual_bridge": "The act of homage naturally leads to a reflection on the author's own capacity, setting the stage for expressing humility."
+                                    }
+                                ],
+                                "implicit_concepts": [
+                                    "Faith (Shraddha)",
+                                    "Refuge",
+                                    "Blessings for success",
+                                    "Authenticity of Dharma"
+                                ],
+                                "commentary_insights": "The commentary elaborates on the etymology of 'Sugata' (well-gone, gone without return, gone perfectly), linking it to qualities of elimination and realization. It details the three purposes of homage: dispelling obstacles, inspiring confidence, and removing hindrances to transmission. The particle 'tu' (Tibetan) indicates the author will compose after homage.",
+                                "commentary_citation": "Commentary section titled 'The expression of homage', discussing verse 1. Key phrases: 'Shantideva’s objects of homage...', 'The term Sugata is analyzed etymologically...'",
+                                "pedagogical_strategy": "Direct instruction through definition and explanation of homage, modeling reverential conduct.",
+                                "audience_assumptions": "Assumes the audience understands the significance of homage in Buddhist tradition and recognizes the Three Jewels as supreme objects of respect."
+                            },
+                            "functional_transformative_analysis_of_root_text_unit": {
+                                "transformative_goal_of_root_text_unit": "To inspire reverence and faith in the Three Jewels, and to affirm the author's intention to present the Bodhisattva path according to authentic scriptures.",
+                                "knowledge_imparted_by_root_text_unit": [
+                                    "Identification of the objects of homage (Buddhas, Dharma, Sangha).",
+                                    "The author's commitment to describe the Bodhisattva discipline based on scriptures."
+                                ],
+                                "skill_developed_by_root_text_unit": [
+                                    "Cultivating a mind of respect and veneration.",
+                                    "Recognizing the importance of scriptural authority."
+                                ],
+                                "attitude_cultivated_by_root_text_unit": [
+                                    "Reverence",
+                                    "Faith",
+                                    "Humility before the profound teachings."
+                                ]
+                            }
+                        },
+                        {
+                            "level": "subsection",
+                            "number": "1.1.2",
+                            "title": "The taking of a humble attitude",
+                            "verses_span": "2",
+                            "children": [],
+                            "summary": {
+                                "content_summary": "The author, Shantideva, expresses profound humility, stating he offers no new teachings beyond what Buddha and past masters taught, and claims no special literary skill. The purpose of writing is primarily for self-cultivation, to habituate his own mind to Bodhisattva conduct.",
+                                "key_concepts": [
+                                    "Humility",
+                                    "Self-effacement",
+                                    "Composition for self-habituation",
+                                    "Acknowledging past masters"
+                                ],
+                                "transformative_goal": "To cultivate humility by recognizing the depth of existing teachings and one's own limitations, thereby preventing pride and making the mind receptive to Dharma.",
+                                "function_in_hierarchy": "Follows the homage by establishing the author's modest intention, ensuring the audience understands the work is not for self-aggrandizement but for personal practice and potentially inspiring others similarly inclined.",
+                                "inter_node_relationships": [
+                                    {
+                                        "related_node_title": "Introduction and Preliminaries (Parent)",
+                                        "relationship_type": "contributes_to_parent",
+                                        "conceptual_bridge": "Develops the introductory framing by clarifying the author's personal motivation and stance."
+                                    },
+                                    {
+                                        "related_node_title": "The expression of homage (Previous Sibling)",
+                                        "relationship_type": "builds_on",
+                                        "conceptual_bridge": "After expressing reverence to the enlightened, the author reflects on his own contribution with humility."
+                                    },
+                                    {
+                                        "related_node_title": "The stirring up of a joyful and enthusiastic attitude (Next Sibling)",
+                                        "relationship_type": "precedes_and_contrasts_with",
+                                        "conceptual_bridge": "Humility about personal skill is balanced by the subsequent generation of enthusiasm for the practice itself."
+                                    }
+                                ],
+                                "implicit_concepts": [
+                                    "Non-attachment to scholarly reputation",
+                                    "Sincerity of practice",
+                                    "The value of inner transformation over external recognition."
+                                ],
+                                "commentary_insights": "The commentary highlights Vibhutichandra's praise for Shantideva, contrasting it with Shantideva's own modesty. It explains that humility prevents pride ('On the peak of pride, the water of good qualities does not stay') and makes the mind a suitable vessel for Dharma. Composition is deemed more important than teaching and debate by Chandragomin.",
+                                "commentary_citation": "Commentary section titled 'The taking of a humble attitude', discussing verse 2. Key phrases: 'Shantideva says that he has no profound instructions...', 'Vibhutichandra has observed...'",
+                                "pedagogical_strategy": "Modeling humility, direct statement of authorial intent.",
+                                "audience_assumptions": "Assumes the audience values sincerity and recognizes humility as a virtue in a spiritual teacher/author."
+                            },
+                            "functional_transformative_analysis_of_root_text_unit": {
+                                "transformative_goal_of_root_text_unit": "To encourage humility in the practitioner and to clarify that the treatise's primary aim is the author's own familiarization with bodhichitta.",
+                                "knowledge_imparted_by_root_text_unit": [
+                                    "The author's disclaimer of originality and literary skill.",
+                                    "The author's primary motivation: to habituate his own mind."
+                                ],
+                                "skill_developed_by_root_text_unit": [
+                                    "Practicing self-reflection regarding one's abilities and motivations.",
+                                    "Cultivating a non-arrogant approach to learning and teaching."
+                                ],
+                                "attitude_cultivated_by_root_text_unit": [
+                                    "Humility",
+                                    "Sincerity",
+                                    "Focus on inner practice."
+                                ]
+                            }
+                        },
+                        {
+                            "level": "subsection",
+                            "number": "1.1.3",
+                            "title": "The stirring up of a joyful and enthusiastic attitude",
+                            "verses_span": "3",
+                            "children": [],
+                            "summary": {
+                                "content_summary": "This unit expresses the author's intention to strengthen his faith and habituate himself to the virtuous path of Bodhisattvas by composing the text. It also conveys a hope that others of similar karmic fortune might encounter the work and find inspiration to engage in Bodhisattva activities.",
+                                "key_concepts": [
+                                    "Faith",
+                                    "Virtuous way (Bodhisattva conduct)",
+                                    "Enthusiasm",
+                                    "Benefit for self and others",
+                                    "Karmic fortune"
+                                ],
+                                "transformative_goal": "To cultivate joyful effort and enthusiasm for Dharma practice, overcoming mental depression and laziness, and to inspire a similar attitude in others.",
+                                "function_in_hierarchy": "Concludes the preliminary remarks by establishing a positive and motivated mindset for both the author and potential readers, counteracting any potential discouragement from the previous expression of humility.",
+                                "inter_node_relationships": [
+                                    {
+                                        "related_node_title": "Introduction and Preliminaries (Parent)",
+                                        "relationship_type": "contributes_to_parent",
+                                        "conceptual_bridge": "Completes the introductory sequence by shifting to a forward-looking, positive motivation."
+                                    },
+                                    {
+                                        "related_node_title": "The taking of a humble attitude (Previous Sibling)",
+                                        "relationship_type": "balances_and_complements",
+                                        "conceptual_bridge": "Balances the preceding humility with a necessary enthusiasm, showing that modesty does not mean lack of joyful engagement."
+                                    }
+                                ],
+                                "implicit_concepts": [
+                                    "The power of aspiration",
+                                    "Interconnectedness of practitioners",
+                                    "The role of inspiration in Dharma practice."
+                                ],
+                                "commentary_insights": "The commentary explains that composing the text helps intensify bodhichitta through continuous meditation and cultivation. It emphasizes the need to avoid both arrogance and self-denigration, citing the Pitaputrasamagama-sutra. These four prerequisites (homage, promise, humility, enthusiasm) are deemed essential for any successful Dharma activity.",
+                                "commentary_citation": "Commentary section titled 'The stirring up of a joyful and enthusiastic attitude', discussing verse 3. Key phrases: 'Given that it is sufficient to understand the present subject for oneself...', 'Humbling himself once again...'",
+                                "pedagogical_strategy": "Modeling enthusiastic engagement, expressing altruistic hope for others' benefit.",
+                                "audience_assumptions": "Assumes readers might also seek to cultivate virtue and might be receptive to shared inspiration."
+                            },
+                            "functional_transformative_analysis_of_root_text_unit": {
+                                "transformative_goal_of_root_text_unit": "To foster enthusiasm and strengthen faith in the Bodhisattva path, for both the author and like-minded readers.",
+                                "knowledge_imparted_by_root_text_unit": [
+                                    "The author's aim to strengthen his faith and familiarity with virtue.",
+                                    "The hope that others of similar fortune may also benefit."
+                                ],
+                                "skill_developed_by_root_text_unit": [
+                                    "Generating joyful effort in practice.",
+                                    "Connecting one's practice with the potential benefit for others."
+                                ],
+                                "attitude_cultivated_by_root_text_unit": [
+                                    "Joyful enthusiasm (Virya)",
+                                    "Faith (Shraddha)",
+                                    "Altruistic hope."
+                                ]
+                            }
+                        }
+                    ],
+                    "summary": {
+                        "content_summary": "This introductory section (verses 1-3) lays the groundwork for the treatise. It begins with a formal 'expression of homage' (1.1.1) to the Three Jewels, establishing reverence and the work's scriptural basis. This is followed by 'the taking of a humble attitude' (1.1.2), where the author disclaims originality and emphasizes writing for self-cultivation. Finally, it concludes with 'the stirring up of a joyful and enthusiastic attitude' (1.1.3), expressing the aim to strengthen faith and inspire both self and others towards the Bodhisattva path.",
+                        "key_concepts": [
+                            "Homage",
+                            "Humility",
+                            "Enthusiasm",
+                            "Authorial intent",
+                            "Self-cultivation",
+                            "Benefit for others"
+                        ],
+                        "transformative_goal": "To prepare the minds of both author and reader for engaging with the profound teachings on Bodhisattva conduct by establishing reverence, humility, and joyful motivation.",
+                        "function_in_hierarchy": "Serves as the formal opening of the chapter and the entire treatise, fulfilling traditional scholastic requirements and setting the appropriate mental and spiritual disposition for the subsequent teachings on Bodhichitta.",
+                        "inter_node_relationships": [
+                            {
+                                "related_node_title": "The Excellence and Benefits of Bodhichitta (Parent Chapter)",
+                                "relationship_type": "introduces_and_is_part_of",
+                                "conceptual_bridge": "Constitutes the preliminary framing necessary before delving into the main subject of the chapter: the excellence and benefits of Bodhichitta."
+                            },
+                            {
+                                "related_node_title": "The Main Body of the Treatise: The Generation of Bodhichitta Where It Has Not Previously Existed (Next Section)",
+                                "relationship_type": "prepares_for",
+                                "conceptual_bridge": "Establishes the author's credentials, motivation, and the text's purpose, leading into the core teachings of the chapter."
+                            }
+                        ],
+                        "implicit_concepts": [
+                            "The importance of proper motivation in Dharma",
+                            "The traditional structure of a shastra",
+                            "The interplay of reverence, humility, and joyful effort."
+                        ],
+                        "commentary_insights": "The commentary explains these three verses as fulfilling the four prerequisites for composing a treatise: homage, the promise to complete (implied by the homage and subsequent verses), humility, and enthusiasm. These ensure the work proceeds without obstacles and achieves its aim. The commentary also touches upon the fourfold interrelated purpose: subject, immediate purpose, ultimate finality, and connection.",
+                        "commentary_citation": "Commentary sections discussing verses 1-3, specifically under headings 'The expression of homage', 'The taking of a humble attitude', and 'The stirring up of a joyful and enthusiastic attitude'. See also the commentary's concluding remarks on these prerequisites.",
+                        "pedagogical_strategy": "Progressive framing: establishing reverence, then personal stance, then positive motivation.",
+                        "audience_assumptions": "Assumes an audience familiar with or receptive to traditional Buddhist textual introductions and the virtues they embody."
+                    },
+                    "functional_transformative_analysis_of_root_text_unit": {
+                        "transformative_goal_of_root_text_unit": "To establish the proper mental framework for engaging with the treatise by cultivating reverence, humility, and joyful enthusiasm.",
+                        "knowledge_imparted_by_root_text_unit": [
+                            "The objects and purpose of homage.",
+                            "The author's humble motivation focused on self-habituation.",
+                            "The intention to strengthen faith and potentially benefit others."
+                        ],
+                        "skill_developed_by_root_text_unit": [
+                            "Setting a proper motivation for study and practice.",
+                            "Balancing humility with joyful effort."
+                        ],
+                        "attitude_cultivated_by_root_text_unit": [
+                            "Reverence",
+                            "Humility",
+                            "Joyful enthusiasm",
+                            "Sincere motivation."
+                        ]
+                    }
+                },
+                {
+                    "level": "section",
+                    "number": "1.2",
+                    "title": "The Main Body of the Treatise: The Generation of Bodhichitta Where It Has Not Previously Existed",
+                    "verses_span": "4-36",
+                    "children": [
+                        {
+                            "level": "subsection",
+                            "number": "1.2.1",
+                            "title": "The basis required for the generation of bodhichitta",
+                            "verses_span": "4-5",
+                            "children": [
+                                {
+                                    "level": "sub-subsection",
+                                    "number": "1.2.1.1",
+                                    "title": "The human body as a basis for the generation of bodhichitta",
+                                    "verses_span": "4",
+                                    "children": [],
+                                    "summary": {
+                                        "content_summary": "This verse emphasizes the preciousness and rarity of human life, endowed with freedoms and advantages, which provides the unique opportunity to achieve spiritual aims. It warns against squandering this opportunity, as such a chance is exceedingly difficult to obtain again.",
+                                        "key_concepts": [
+                                            "Precious human rebirth",
+                                            "Freedoms and advantages (Kshana-sampad)",
+                                            "Spiritual opportunity",
+                                            "Rarity of human life"
+                                        ],
+                                        "transformative_goal": "To cultivate a profound appreciation for the current human existence and a sense of urgency to utilize it for Dharma practice, recognizing its fleeting and rare nature.",
+                                        "function_in_hierarchy": "Establishes the foundational prerequisite – a conducive rebirth – necessary for generating Bodhichitta, thereby motivating the practitioner to make the most of this life.",
+                                        "inter_node_relationships": [
+                                            {
+                                                "related_node_title": "The basis required for the generation of bodhichitta (Parent)",
+                                                "relationship_type": "contributes_to_parent",
+                                                "conceptual_bridge": "Details the physical basis (human body) required for generating Bodhichitta."
+                                            },
+                                            {
+                                                "related_node_title": "The mind as a basis for bodhichitta (Next Sibling)",
+                                                "relationship_type": "precedes_and_complements",
+                                                "conceptual_bridge": "After establishing the physical basis, it sets the stage for discussing the mental basis for Bodhichitta."
+                                            }
+                                        ],
+                                        "implicit_concepts": [
+                                            "Karma (as cause for rebirth)",
+                                            "Impermanence",
+                                            "The value of spiritual endeavor over mundane pursuits."
+                                        ],
+                                        "commentary_insights": "The commentary elaborates on the 'eight freedoms' and 'ten advantages,' citing Nagarjuna. It explains the difficulty of obtaining human life through causes (ethics, paramitas, aspirations), examples (blind turtle), and numerical comparisons (hell beings vs. humans). It stresses the urgency due to uncertain lifespan and the need to seize the essence of this life, quoting Atisha.",
+                                        "commentary_citation": "Commentary section 'The human body as a basis for the generation of bodhichitta', discussing verse 4. Key phrases: 'When we reflect in terms of causes, examples, or numerical comparison...', 'Nagarjuna gives the following summary...'",
+                                        "pedagogical_strategy": "Contemplation on rarity and preciousness, warning against complacency.",
+                                        "audience_assumptions": "Assumes an understanding of rebirth and the concept that not all life forms offer equal spiritual opportunity."
+                                    },
+                                    "functional_transformative_analysis_of_root_text_unit": {
+                                        "transformative_goal_of_root_text_unit": "To instill a deep appreciation for the precious human life and the urgency to use it for meaningful spiritual practice.",
+                                        "knowledge_imparted_by_root_text_unit": [
+                                            "The difficulty of obtaining a human life with freedoms and advantages.",
+                                            "The potential of such a life for achieving spiritual aims.",
+                                            "A warning against wasting this opportunity."
+                                        ],
+                                        "skill_developed_by_root_text_unit": [
+                                            "Reflecting on the value of one's current life.",
+                                            "Prioritizing spiritual practice."
+                                        ],
+                                        "attitude_cultivated_by_root_text_unit": [
+                                            "Gratitude for human life",
+                                            "Sense of urgency (Samvega)",
+                                            "Renunciation of meaningless activities."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "level": "sub-subsection",
+                                    "number": "1.2.1.2",
+                                    "title": "The mind as a basis for bodhichitta",
+                                    "verses_span": "5",
+                                    "children": [],
+                                    "summary": {
+                                        "content_summary": "This verse uses the analogy of a rare flash of lightning on a dark, cloudy night to illustrate the extreme rarity of virtuous thoughts arising in the minds of ordinary beings, which occurs transiently through the Buddha's power. It underscores the preciousness of any emergent positive mental impulse.",
+                                        "key_concepts": [
+                                            "Virtuous thoughts",
+                                            "Rarity of virtue",
+                                            "Buddha's power (influence/blessings)",
+                                            "Transient nature of positive thoughts",
+                                            "Spiritual darkness (ignorance)"
+                                        ],
+                                        "transformative_goal": "To encourage the practitioner to recognize, cherish, and immediately cultivate any virtuous thought that arises, understanding its rarity and preciousness amidst the prevalence of non-virtue.",
+                                        "function_in_hierarchy": "Complements the previous point on the physical basis by highlighting the mental prerequisite: the fleeting emergence of virtuous inclination, which must be seized upon to generate Bodhichitta.",
+                                        "inter_node_relationships": [
+                                            {
+                                                "related_node_title": "The basis required for the generation of bodhichitta (Parent)",
+                                                "relationship_type": "contributes_to_parent",
+                                                "conceptual_bridge": "Details the mental basis (emergence of virtuous thought) required for generating Bodhichitta."
+                                            },
+                                            {
+                                                "related_node_title": "The human body as a basis for the generation of bodhichitta (Previous Sibling)",
+                                                "relationship_type": "complements_and_builds_upon",
+                                                "conceptual_bridge": "Having a human body is not enough; a virtuous mental impulse, however rare, is also key."
+                                            }
+                                        ],
+                                        "implicit_concepts": [
+                                            "The power of mental cultivation",
+                                            "The pervasiveness of ignorance and negative tendencies",
+                                            "The need for mindfulness to capture positive states."
+                                        ],
+                                        "commentary_insights": "The commentary explains the darkness as ignorance and clouds as the three/five poisons. Virtuous thoughts are due to Buddhas' bodhichitta/aspirations and beings' past merit. It urges one to seize such thoughts like a blind man catching a cow's tail, referencing the Kadampa masters' 'ten innermost riches' and Tsangpa Gyaré's 'three fierce mantras' as examples of resolute practice.",
+                                        "commentary_citation": "Commentary section 'The mind as a basis for bodhichitta', discussing verse 5. Key phrases: 'Here, Shantideva uses the image of the deep darkness...', 'The ten innermost riches...'",
+                                        "pedagogical_strategy": "Metaphor (lightning in darkness), exhortation to seize opportunities.",
+                                        "audience_assumptions": "Assumes an awareness of the mind's general tendency towards non-virtue and the significance of fleeting positive impulses."
+                                    },
+                                    "functional_transformative_analysis_of_root_text_unit": {
+                                        "transformative_goal_of_root_text_unit": "To inspire practitioners to value and cultivate even rare and transient virtuous thoughts, recognizing them as crucial opportunities for spiritual growth.",
+                                        "knowledge_imparted_by_root_text_unit": [
+                                            "The rarity and transient nature of virtuous thoughts in ordinary beings.",
+                                            "The role of the Buddha's power in the arising of such thoughts.",
+                                            "The analogy of lightning illuminating darkness."
+                                        ],
+                                        "skill_developed_by_root_text_unit": [
+                                            "Mindfulness to recognize virtuous thoughts.",
+                                            "Resolve to cultivate and not lose positive mental states."
+                                        ],
+                                        "attitude_cultivated_by_root_text_unit": [
+                                            "Appreciation for virtue",
+                                            "Diligence in cultivating positive thoughts",
+                                            "Awareness of mental obscurations."
+                                        ]
+                                    }
+                                }
+                            ],
+                            "summary": {
+                                "content_summary": "This subsection (verses 4-5) discusses the essential foundations for generating Bodhichitta. First, 'the human body as a basis' (1.2.1.1) highlights the rarity and preciousness of a human life endowed with freedoms and advantages, urging its use for spiritual profit. Second, 'the mind as a basis' (1.2.1.2) uses the lightning analogy to show the rarity of virtuous thoughts arising, emphasizing the need to seize and cultivate such fleeting positive impulses.",
+                                "key_concepts": [
+                                    "Precious human rebirth",
+                                    "Freedoms and advantages",
+                                    "Rarity of virtuous thoughts",
+                                    "Spiritual opportunity",
+                                    "Urgency"
+                                ],
+                                "transformative_goal": "To instill a profound appreciation for the conducive conditions (physical and mental) for Dharma practice and to motivate the practitioner to actively engage when these rare opportunities arise.",
+                                "function_in_hierarchy": "Lays the foundational groundwork by explaining what is necessary *before* one can effectively generate Bodhichitta, setting the stage for discussing Bodhichitta itself.",
+                                "inter_node_relationships": [
+                                    {
+                                        "related_node_title": "The Main Body of the Treatise: The Generation of Bodhichitta Where It Has Not Previously Existed (Parent Section)",
+                                        "relationship_type": "contributes_to_parent",
+                                        "conceptual_bridge": "Identifies the necessary prerequisites before one can generate Bodhichitta, which is the main topic of this section."
+                                    },
+                                    {
+                                        "related_node_title": "The benefits of bodhichitta (Next Subsection)",
+                                        "relationship_type": "prepares_for",
+                                        "conceptual_bridge": "After establishing the basis for generating Bodhichitta, the text logically moves to explain why one should generate it by detailing its benefits."
+                                    }
+                                ],
+                                "implicit_concepts": [
+                                    "The law of karma",
+                                    "Impermanence",
+                                    "The potential for spiritual transformation within samsara."
+                                ],
+                                "commentary_insights": "The commentary extensively details the 'eight freedoms and ten advantages' for human rebirth and the extreme rarity of virtuous thoughts, using various analogies and scriptural quotes (Nagarjuna, Atisha). It stresses the importance of not wasting this rare opportunity and resolutely cultivating any emergent virtue.",
+                                "commentary_citation": "Commentary sections 'The human body as a basis for the generation of bodhichitta' and 'The mind as a basis for bodhichitta', discussing verses 4 and 5.",
+                                "pedagogical_strategy": "Combination of analytical reasoning (rarity of human life) and metaphor (lightning) to create a sense of appreciation and urgency.",
+                                "audience_assumptions": "Assumes the audience accepts the concepts of rebirth, karma, and the varying spiritual potential of different states of existence."
+                            },
+                            "functional_transformative_analysis_of_root_text_unit": {
+                                "transformative_goal_of_root_text_unit": "To motivate practitioners to recognize and utilize the rare and precious opportunity afforded by a conducive human life and the fleeting emergence of virtuous thoughts for spiritual development.",
+                                "knowledge_imparted_by_root_text_unit": [
+                                    "The value and rarity of a human birth with spiritual freedoms.",
+                                    "The transient and infrequent nature of virtuous thoughts in unenlightened beings.",
+                                    "The necessity of seizing these opportunities for practice."
+                                ],
+                                "skill_developed_by_root_text_unit": [
+                                    "Contemplating the preciousness of human life.",
+                                    "Recognizing and valuing virtuous mental states.",
+                                    "Developing a sense of urgency in practice."
+                                ],
+                                "attitude_cultivated_by_root_text_unit": [
+                                    "Gratitude",
+                                    "Diligence",
+                                    "Mindfulness",
+                                    "Renunciation of distractions."
+                                ]
+                            }
+                        },
+                        {
+                            "level": "subsection",
+                            "number": "1.2.2",
+                            "title": "The benefits of bodhichitta",
+                            "verses_span": "6-30",
+                            "children": [
+                                {
+                                    "level": "sub-subsection",
+                                    "number": "1.2.2.1",
+                                    "title": "The general benefits of generating bodhichitta",
+                                    "verses_span": "6-14",
+                                    "children": [
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.1.1",
+                                            "title": "Bodhichitta is superior to all other virtues",
+                                            "verses_span": "6-8",
+                                            "children": [],
+                                            "summary": {
+                                                "content_summary": "These verses establish Bodhichitta as the supreme virtue, uniquely capable of overcoming powerful evil and weak ordinary virtue. The Sages, after long reflection, identified Bodhichitta as the means to bring multitudes to supreme joy. Therefore, those wishing to end suffering for self and others and attain myriad joys must never abandon Bodhichitta.",
+                                                "key_concepts": [
+                                                    "Bodhichitta",
+                                                    "Supreme virtue",
+                                                    "Overcoming evil",
+                                                    "Path to supreme joy",
+                                                    "Ending suffering"
+                                                ],
+                                                "transformative_goal": "To generate profound conviction in the unparalleled power and necessity of Bodhichitta as the core of the Mahayana path.",
+                                                "function_in_hierarchy": "Introduces the core topic of Bodhichitta's benefits by asserting its supreme status among all virtues, setting the stage for detailed elaboration.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "The general benefits of generating bodhichitta (Parent)",
+                                                        "relationship_type": "contributes_to_parent",
+                                                        "conceptual_bridge": "Provides the foundational argument for Bodhichitta's general benefits by highlighting its superiority."
+                                                    },
+                                                    {
+                                                        "related_node_title": "A change of name and of status (Next Sibling)",
+                                                        "relationship_type": "precedes_and_supports",
+                                                        "conceptual_bridge": "The supreme nature of Bodhichitta logically leads to a transformation in the practitioner's identity and status."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The struggle between virtue and non-virtue",
+                                                    "The wisdom of the Buddhas (Sages)",
+                                                    "The universal desire for happiness and freedom from suffering."
+                                                ],
+                                                "commentary_insights": "The commentary explains that ordinary virtuous thoughts are weak like lightning, while evil is strong like darkness. Bodhichitta is like the sun, the only virtue capable of overcoming this. It highlights that Buddhas found Bodhichitta as the method that purifies past evil, severs future evil, nurtures virtue, and leads to enlightenment, securing both immediate and ultimate benefit.",
+                                                "commentary_citation": "Commentary section 'Bodhichitta is superior to all other virtues', discussing verses 6-8. Key phrases: 'As we have explained above, thoughts of wishing to accomplish something good are weak...', 'The reason for saying this is that for many ages...'",
+                                                "pedagogical_strategy": "Assertion of supremacy, appeal to the wisdom of sages, addressing universal aspirations.",
+                                                "audience_assumptions": "Assumes an understanding of basic ethical concepts (virtue/evil) and a desire for liberation and enlightenment."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To convince practitioners of Bodhichitta's supreme efficacy in overcoming negativity and achieving ultimate happiness for oneself and all beings.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "Bodhichitta's unique power to counteract evil.",
+                                                    "The Buddhas' endorsement of Bodhichitta as the path to joy.",
+                                                    "The necessity of Bodhichitta for those seeking to end suffering and attain bliss."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Developing unwavering confidence in Bodhichitta.",
+                                                    "Prioritizing the cultivation of Bodhichitta above other virtues."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Strong faith in Bodhichitta",
+                                                    "Determination to cultivate Bodhichitta",
+                                                    "Aspiration for the welfare of all beings."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.1.2",
+                                            "title": "A change of name and of status",
+                                            "verses_span": "9",
+                                            "children": [],
+                                            "summary": {
+                                                "content_summary": "This verse explains that the moment Bodhichitta arises in a suffering being, even one trapped in samsara, their identity transforms. They are instantly called a 'Child of the Sugatas' (Bodhisattva) and become worthy of reverence by the entire world, including gods and humans.",
+                                                "key_concepts": [
+                                                    "Bodhichitta's transformative power",
+                                                    "Child of the Sugatas (Bodhisattva)",
+                                                    "Change of identity",
+                                                    "Reverence from the world"
+                                                ],
+                                                "transformative_goal": "To inspire awe and appreciation for the profound and immediate transformation that occurs upon generating Bodhichitta, elevating one's spiritual status.",
+                                                "function_in_hierarchy": "Illustrates a key benefit of Bodhichitta: the immediate elevation of one's spiritual identity and worthiness of respect, reinforcing its preciousness.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "The general benefits of generating bodhichitta (Parent)",
+                                                        "relationship_type": "contributes_to_parent",
+                                                        "conceptual_bridge": "Demonstrates a significant general benefit – the immediate change in spiritual status."
+                                                    },
+                                                    {
+                                                        "related_node_title": "Bodhichitta is superior to all other virtues (Previous Sibling)",
+                                                        "relationship_type": "exemplifies",
+                                                        "conceptual_bridge": "The transformative power described here is a direct consequence of Bodhichitta's supreme nature."
+                                                    },
+                                                    {
+                                                        "related_node_title": "The benefits of bodhichitta shown by means of examples (Next Sibling)",
+                                                        "relationship_type": "is_a_prelude_to",
+                                                        "conceptual_bridge": "This statement of transformed status is then further illustrated by various analogies."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The inherent Buddha-nature or potential within beings",
+                                                    "The value system of the Mahayana path",
+                                                    "The power of intention and aspiration."
+                                                ],
+                                                "commentary_insights": "The commentary clarifies that this applies regardless of gender, age, or social status. Those with Bodhichitta are 'crowned with the name Child of the Sugatas' and become 'objects of reverence... even by the Buddhas themselves, for the latter have bodhichitta as their master.'",
+                                                "commentary_citation": "Commentary section 'A change of name and of status', discussing verse 9. Key phrases: 'It does not matter whether they are men or women...'",
+                                                "pedagogical_strategy": "Direct assertion of transformative effect, use of honorific title.",
+                                                "audience_assumptions": "Assumes the audience values spiritual titles and the concept of being worthy of reverence."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To highlight the immediate and profound elevation in spiritual status and worthiness that comes with the arising of Bodhichitta.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "The new title 'Child of the Sugatas' acquired upon generating Bodhichitta.",
+                                                    "The fact that such individuals become revered by gods and humans."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Appreciating the transformative impact of Bodhichitta.",
+                                                    "Aspiring to attain this elevated spiritual state."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Awe for Bodhichitta",
+                                                    "Respect for Bodhisattvas",
+                                                    "Aspiring mind."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.1.3",
+                                            "title": "The benefits of bodhichitta shown by means of examples",
+                                            "verses_span": "10-14",
+                                            "children": [
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.1.3.1",
+                                                    "title": "The example of alchemy",
+                                                    "verses_span": "10",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "This verse compares Bodhichitta to the supreme substance of alchemists, which can transmute impure base metal (representing our impure physical body) into priceless gold (representing the Buddha's body). It urges practitioners to firmly grasp Bodhichitta due to this transformative power.",
+                                                        "key_concepts": [
+                                                            "Bodhichitta as elixir",
+                                                            "Alchemy",
+                                                            "Transformation of impure to pure",
+                                                            "Buddha-body",
+                                                            "Grasping Bodhichitta firmly"
+                                                        ],
+                                                        "transformative_goal": "To instill confidence in Bodhichitta's power to radically transform one's being from an ordinary, impure state to the enlightened state of a Buddha.",
+                                                        "function_in_hierarchy": "Provides the first of several analogies to illustrate the profound benefits of Bodhichitta, focusing on its capacity for complete purification and transformation.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "The benefits of bodhichitta shown by means of examples (Parent)",
+                                                                "relationship_type": "exemplifies",
+                                                                "conceptual_bridge": "Illustrates one specific benefit (total transformation) using the alchemy analogy."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the jewel (Next Sibling)",
+                                                                "relationship_type": "is_followed_by_analogy",
+                                                                "conceptual_bridge": "This analogy of transformation is followed by an analogy emphasizing Bodhichitta's intrinsic worth."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The potential for Buddhahood within an impure form",
+                                                            "The active role of the practitioner in applying the 'elixir'."
+                                                        ],
+                                                        "commentary_insights": "The commentary explains that the alchemical elixir (gold-producing mercury) turns iron into gold. Similarly, Bodhichitta, applied to the 'lowly human body,' transforms it into the Buddha's body, a 'priceless wish-fulfilling jewel.' This emphasizes adopting the body for others' welfare, unlike Shravakas.",
+                                                        "commentary_citation": "Commentary section 'The example of alchemy', discussing verse 10. Key phrases: 'Here, bodhichitta is described using an example taken from alchemy...'",
+                                                        "pedagogical_strategy": "Analogy (alchemy), exhortation to practice.",
+                                                        "audience_assumptions": "Assumes familiarity with the concept of alchemy as a metaphor for profound transformation."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To illustrate Bodhichitta's power to transform an ordinary, impure existence into the enlightened state of a Buddha.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The analogy of Bodhichitta as an alchemical substance.",
+                                                            "Its ability to transmute the 'impure flesh' into a 'Buddha-body'.",
+                                                            "The call to 'grasp it firmly'."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Developing faith in the transformative potential of Bodhichitta.",
+                                                            "Committing to hold Bodhichitta steadfastly."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Confidence",
+                                                            "Determination",
+                                                            "Appreciation for Bodhichitta's transformative power."
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.1.3.2",
+                                                    "title": "The example of the jewel",
+                                                    "verses_span": "11",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "This verse likens Bodhichitta to a priceless jewel, its worth perfectly examined and perceived by the Buddha (the 'only guide of beings'). Those wishing to escape the state of wandering (samsara) are urged to hold fast to this precious Bodhichitta.",
+                                                        "key_concepts": [
+                                                            "Bodhichitta as a priceless jewel",
+                                                            "Buddha's wisdom",
+                                                            "Guidance",
+                                                            "Escaping samsara",
+                                                            "Holding Bodhichitta well"
+                                                        ],
+                                                        "transformative_goal": "To cultivate deep respect and appreciation for Bodhichitta as the most valuable means for liberation, as validated by the Buddha's omniscience.",
+                                                        "function_in_hierarchy": "Provides a second analogy for Bodhichitta's benefits, emphasizing its supreme value and its role as the key to liberation.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "The benefits of bodhichitta shown by means of examples (Parent)",
+                                                                "relationship_type": "exemplifies",
+                                                                "conceptual_bridge": "Illustrates Bodhichitta's intrinsic worth using the jewel analogy."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of alchemy (Previous Sibling)",
+                                                                "relationship_type": "is_complemented_by_analogy",
+                                                                "conceptual_bridge": "The previous analogy focused on transformation; this one focuses on supreme value."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the miraculous fruit-bearing tree (Next Sibling)",
+                                                                "relationship_type": "is_followed_by_analogy",
+                                                                "conceptual_bridge": "This analogy of value is followed by one emphasizing inexhaustible merit."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The reliability of Buddha's teachings",
+                                                            "The ultimate goal of liberation",
+                                                            "The active effort required to 'hold well' to Bodhichitta."
+                                                        ],
+                                                        "commentary_insights": "The commentary compares practitioners to merchants relying on a skillful captain (Buddha) who appraises jewels. The Buddha, with omniscient knowledge, identified Bodhichitta as supremely beneficial for attaining Buddhahood. Therefore, one must hold it tightly with mindfulness, vigilant introspection, and care.",
+                                                        "commentary_citation": "Commentary section 'The example of the jewel', discussing verse 11. Key phrases: 'The image adopted here is that of merchants journeying...'",
+                                                        "pedagogical_strategy": "Analogy (priceless jewel), appeal to authority (Buddha's examination).",
+                                                        "audience_assumptions": "Assumes the audience values precious objects and respects the Buddha's wisdom as a reliable guide."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To instill conviction in Bodhichitta's supreme value as the means to escape samsara, validated by the Buddha's wisdom.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The analogy of Bodhichitta as a priceless jewel.",
+                                                            "The Buddha's role in identifying its worth.",
+                                                            "The necessity of holding Bodhichitta well for those seeking liberation."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Trusting in the Buddha's guidance.",
+                                                            "Valuing Bodhichitta above all else.",
+                                                            "Cultivating steadfastness in practice."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Deep respect for Bodhichitta",
+                                                            "Confidence in the Buddha's teachings",
+                                                            "Determination to escape samsara."
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.1.3.3",
+                                                    "title": "The example of the miraculous fruit-bearing tree",
+                                                    "verses_span": "12",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "This verse contrasts ordinary virtues with Bodhichitta. Other virtues are like a plantain tree, which fruits once and then dies. Bodhichitta, however, is like a miraculous, ever-bearing tree whose fruits (merits) constantly increase and are never exhausted, ultimately leading to Buddhahood.",
+                                                        "key_concepts": [
+                                                            "Inexhaustible merit of Bodhichitta",
+                                                            "Miraculous fruit-bearing tree",
+                                                            "Contrast with ordinary virtues",
+                                                            "Unceasing growth of virtue"
+                                                        ],
+                                                        "transformative_goal": "To encourage practitioners to prioritize Bodhichitta-infused actions, understanding that their merit is inexhaustible and ever-increasing, unlike finite worldly virtues.",
+                                                        "function_in_hierarchy": "Provides a third analogy, highlighting the unique quality of Bodhichitta-motivated virtue to generate continuous and ever-expanding merit.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "The benefits of bodhichitta shown by means of examples (Parent)",
+                                                                "relationship_type": "exemplifies",
+                                                                "conceptual_bridge": "Illustrates the inexhaustible nature of merit from Bodhichitta using the tree analogy."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the jewel (Previous Sibling)",
+                                                                "relationship_type": "is_complemented_by_analogy",
+                                                                "conceptual_bridge": "The previous analogy focused on value; this one focuses on the ever-increasing and inexhaustible nature of its fruits (merit)."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the heroic bodyguard (Next Sibling)",
+                                                                "relationship_type": "is_followed_by_analogy",
+                                                                "conceptual_bridge": "This analogy of inexhaustible merit is followed by one emphasizing Bodhichitta's protective power against negativity."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The nature of karma and merit",
+                                                            "The long-term vision of the Bodhisattva path",
+                                                            "The superiority of Mahayana motivation."
+                                                        ],
+                                                        "commentary_insights": "The commentary explains that virtues not informed by Bodhichitta lead to temporary samsaric happiness or limited Shravaka/Pratyekabuddha liberation, then exhaust. Bodhichitta-infused virtue, however, yields temporary happiness and continues to grow, culminating in the Buddha's merit body.",
+                                                        "commentary_citation": "Commentary section 'The example of the miraculous fruit-bearing tree', discussing verse 12. Key phrases: 'All other virtues of whatever kind that are not informed by bodhichitta...'",
+                                                        "pedagogical_strategy": "Contrastive analogy (plantain tree vs. miraculous tree).",
+                                                        "audience_assumptions": "Assumes an understanding of virtue and merit, and the idea that different motivations yield different karmic results."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To demonstrate that merit generated with Bodhichitta is uniquely inexhaustible and ever-increasing, unlike other virtues.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The analogy of Bodhichitta as a miraculous fruit-bearing tree.",
+                                                            "The contrast with the finite results of ordinary virtues (like a plantain tree).",
+                                                            "The unceasing growth of merit from Bodhichitta-infused actions."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Understanding the long-term benefits of Mahayana practice.",
+                                                            "Motivating all virtuous actions with Bodhichitta."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Perseverance",
+                                                            "Far-sightedness",
+                                                            "Joy in accumulating inexhaustible merit."
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.1.3.4",
+                                                    "title": "The example of the heroic bodyguard",
+                                                    "verses_span": "13",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "This verse compares Bodhichitta to a heroic bodyguard. Just as a person under such protection is freed from fear even when facing grave danger, those with Bodhichitta are instantly freed from the consequences of even dreadful past wickedness. It questions why those who fear their sins wouldn't resort to Bodhichitta.",
+                                                        "key_concepts": [
+                                                            "Bodhichitta as protector",
+                                                            "Heroic bodyguard",
+                                                            "Freedom from consequences of negative karma",
+                                                            "Overcoming fear of sins"
+                                                        ],
+                                                        "transformative_goal": "To instill confidence in Bodhichitta's power to purify even severe negative karma and to alleviate the fear associated with past misdeeds, encouraging reliance on it.",
+                                                        "function_in_hierarchy": "Provides a fourth analogy, emphasizing Bodhichitta's potent protective and purifying function against negative karma.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "The benefits of bodhichitta shown by means of examples (Parent)",
+                                                                "relationship_type": "exemplifies",
+                                                                "conceptual_bridge": "Illustrates Bodhichitta's protective power against negativity using the bodyguard analogy."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the miraculous fruit-bearing tree (Previous Sibling)",
+                                                                "relationship_type": "is_complemented_by_analogy",
+                                                                "conceptual_bridge": "The previous analogy focused on inexhaustible merit; this one focuses on purification of demerit."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the fires at the end of time (Next Sibling)",
+                                                                "relationship_type": "is_followed_by_analogy",
+                                                                "conceptual_bridge": "This analogy of protection from definite karma is followed by one emphasizing purification of even indefinite karma."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The law of karma",
+                                                            "The possibility of purification",
+                                                            "The psychological burden of guilt and fear."
+                                                        ],
+                                                        "commentary_insights": "The commentary explains that unbearable wickedness (like rejecting Dharma or sins of immediate effect) normally leads to hell. However, like a murderer protected by a powerful escort, one with Bodhichitta is instantly freed from such suffering. Even if born in hell, suffering is minimal. It concludes that relying on Bodhichitta is rational.",
+                                                        "commentary_citation": "Commentary section 'The example of the heroic bodyguard', discussing verse 13. Key phrases: 'Unbearable and dreadful wickedness...'",
+                                                        "pedagogical_strategy": "Analogy (heroic bodyguard), rhetorical question to encourage reliance.",
+                                                        "audience_assumptions": "Assumes an understanding of karma, potential for negative rebirths, and the desire for protection and purification."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To demonstrate Bodhichitta's power to protect from the severe consequences of negative actions and to alleviate fear of past sins.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The analogy of Bodhichitta as a heroic bodyguard.",
+                                                            "Its ability to free individuals from the repercussions of dreadful wickedness.",
+                                                            "A call to rely on Bodhichitta for protection from sin."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Developing reliance on Bodhichitta for purification.",
+                                                            "Overcoming fear related to negative karma through practice."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Confidence in Bodhichitta's purifying power",
+                                                            "Fearlessness (born of reliance on Dharma)",
+                                                            "Motivation to purify past negativities."
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.1.3.5",
+                                                    "title": "The example of the fires at the end of time",
+                                                    "verses_span": "14",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "This verse compares Bodhichitta to the cataclysmic fire at the end of a kalpa, which consumes everything. Similarly, Bodhichitta instantly and completely consumes great sins. The verse concludes by stating its benefits are unbounded, as explained by Buddha to Sudhana.",
+                                                        "key_concepts": [
+                                                            "Bodhichitta's purifying power",
+                                                            "Fire at the end of time (kalpa-fire)",
+                                                            "Instantaneous consumption of great sins",
+                                                            "Unbounded benefits",
+                                                            "Reference to Sudhana (Gandavyuha Sutra)"
+                                                        ],
+                                                        "transformative_goal": "To instill profound faith in Bodhichitta's ultimate capacity to eradicate all negativities, no matter how severe, and to appreciate its limitless benefits.",
+                                                        "function_in_hierarchy": "Provides the final analogy in this set, emphasizing the absolute and comprehensive purifying power of Bodhichitta, and links to broader scriptural expositions of its benefits.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "The benefits of bodhichitta shown by means of examples (Parent)",
+                                                                "relationship_type": "exemplifies_and_concludes_analogies",
+                                                                "conceptual_bridge": "Offers the most powerful analogy for purification and points towards further scriptural evidence of Bodhichitta's benefits."
+                                                            },
+                                                            {
+                                                                "related_node_title": "The example of the heroic bodyguard (Previous Sibling)",
+                                                                "relationship_type": "intensifies_concept_of",
+                                                                "conceptual_bridge": "Builds on the idea of purification by showing its all-consuming nature, like the kalpa-fire."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The ultimate power of enlightened mind",
+                                                            "The vastness of Buddhist cosmology and teachings (reference to Sudhana)."
+                                                        ],
+                                                        "commentary_insights": "The commentary explains that the kalpa-fire leaves no ashes. Similarly, Bodhichitta consumes extreme negativities (like slaughtering many people) without remainder. It refers to Maitreya's explanation of Bodhichitta's benefits to Sudhana in the Gandavyuha chapter of the Avatamsaka Sutra, mentioning three main benefits: attaining Buddhahood, increasing virtue, and purifying evil.",
+                                                        "commentary_citation": "Commentary section 'The example of the fires at the end of time', discussing verse 14, and 'The benefits of bodhichitta explained in other texts'. Key phrases: 'The conflagration at the end of time consumes the world...'",
+                                                        "pedagogical_strategy": "Powerful analogy (kalpa-fire), appeal to scriptural authority (Buddha's explanation to Sudhana).",
+                                                        "audience_assumptions": "May assume some familiarity with Buddhist cosmological concepts like kalpa-fire and significant figures/texts like Sudhana and the Gandavyuha Sutra."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To illustrate the ultimate and all-consuming power of Bodhichitta to purify great sins and to point towards its unbounded benefits as taught by the Buddha.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The analogy of Bodhichitta as the world-destroying fire.",
+                                                            "Its capacity to instantly consume great sins.",
+                                                            "The unbounded nature of its benefits, referencing the story of Sudhana."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Developing profound faith in Bodhichitta's purifying efficacy.",
+                                                            "Seeking out further teachings on Bodhichitta's benefits."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Utmost confidence in Bodhichitta",
+                                                            "Aspiration to realize its full potential",
+                                                            "Reverence for the vastness of Dharma."
+                                                        ]
+                                                    }
+                                                }
+                                            ],
+                                            "summary": {
+                                                "content_summary": "This sub-sub-subsection (verses 10-14) illustrates the benefits of Bodhichitta through a series of powerful analogies. 'The example of alchemy' (1.2.2.1.3.1) shows its power to transform impurity into the Buddha-body. 'The example of the jewel' (1.2.2.1.3.2) highlights its supreme, Buddha-verified value for liberation. 'The example of the miraculous fruit-bearing tree' (1.2.2.1.3.3) demonstrates how Bodhichitta yields inexhaustible and ever-increasing merit. 'The example of the heroic bodyguard' (1.2.2.1.3.4) illustrates its protective power against the consequences of past sins. Finally, 'the example of the fires at the end of time' (1.2.2.1.3.5) emphasizes its capacity to completely consume great negativities, citing its unbounded benefits as taught to Sudhana.",
+                                                "key_concepts": [
+                                                    "Alchemy (transformation)",
+                                                    "Priceless jewel (value)",
+                                                    "Miraculous tree (inexhaustible merit)",
+                                                    "Heroic bodyguard (protection/purification)",
+                                                    "Kalpa-fire (total purification)"
+                                                ],
+                                                "transformative_goal": "To build unwavering conviction in the multifaceted and profound benefits of Bodhichitta through vivid and relatable analogies, encouraging practitioners to cherish and cultivate it.",
+                                                "function_in_hierarchy": "Provides concrete illustrations to make the abstract concept of Bodhichitta's benefits more understandable and inspiring, supporting the earlier assertion of its supremacy.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "The general benefits of generating bodhichitta (Parent)",
+                                                        "relationship_type": "elaborates_through_examples",
+                                                        "conceptual_bridge": "Provides a series of analogies to vividly explain the general benefits previously introduced."
+                                                    },
+                                                    {
+                                                        "related_node_title": "A change of name and of status (Previous Sibling)",
+                                                        "relationship_type": "is_followed_by_illustrative_examples_of",
+                                                        "conceptual_bridge": "The transformative status change mentioned earlier is now supported by examples of Bodhichitta's powerful effects."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The power of metaphor in teaching Dharma",
+                                                    "The multifaceted nature of Bodhichitta's positive impact."
+                                                ],
+                                                "commentary_insights": "The commentary systematically explains each analogy, clarifying the points of comparison (e.g., mercury transmuting iron, captain guiding merchants, plantain tree vs. wish-fulfilling tree, murderer's escort, kalpa-fire). It consistently links these back to Bodhichitta's power to transform, its value, its ability to generate merit, and its purifying capacity, often referencing other texts or masters.",
+                                                "commentary_citation": "Commentary sections discussing verses 10-14, under the collective heading 'The benefits of bodhichitta shown by means of examples' and its sub-headings for each example.",
+                                                "pedagogical_strategy": "Use of multiple, varied analogies to appeal to different understandings and to highlight diverse benefits.",
+                                                "audience_assumptions": "Assumes the audience can grasp metaphorical reasoning and is looking for compelling reasons to cultivate Bodhichitta."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To vividly illustrate the profound and diverse benefits of Bodhichitta—its transformative power, supreme value, ability to generate inexhaustible merit, and capacity to purify negativities.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "Five key analogies for Bodhichitta: alchemy, jewel, miraculous tree, heroic bodyguard, and kalpa-fire.",
+                                                    "Specific benefits highlighted by each analogy (transformation, value, inexhaustible merit, protection, complete purification)."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Using analogies to deepen understanding of Dharma concepts.",
+                                                    "Reflecting on the multifaceted benefits of Bodhichitta."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Awe and inspiration",
+                                                    "Strong conviction",
+                                                    "Eagerness to cultivate Bodhichitta."
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "summary": {
+                                        "content_summary": "This sub-subsection (verses 6-14) outlines the general benefits of generating Bodhichitta. It begins by establishing that 'Bodhichitta is superior to all other virtues' (1.2.2.1.1, verses 6-8), being the unique force capable of overcoming evil and leading to supreme joy. This is followed by explaining the immediate 'change of name and of status' (1.2.2.1.2, verse 9) to 'Child of the Sugatas' upon its arising. Finally, 'the benefits of Bodhichitta shown by means of examples' (1.2.2.1.3, verses 10-14) uses five analogies (alchemy, jewel, miraculous tree, heroic bodyguard, kalpa-fire) to vividly illustrate its transformative power, supreme value, inexhaustible merit, and profound purifying capabilities.",
+                                        "key_concepts": [
+                                            "Superiority of Bodhichitta",
+                                            "Transformation of status",
+                                            "Alchemical transformation",
+                                            "Priceless value",
+                                            "Inexhaustible merit",
+                                            "Protection from karma",
+                                            "Ultimate purification"
+                                        ],
+                                        "transformative_goal": "To instill a deep and unwavering conviction in the unparalleled value and multifaceted benefits of Bodhichitta, thereby motivating its cultivation as the primary spiritual practice.",
+                                        "function_in_hierarchy": "Establishes the foundational understanding of why Bodhichitta is so crucial by detailing its general, overarching benefits before moving to more specific classifications and proofs.",
+                                        "inter_node_relationships": [
+                                            {
+                                                "related_node_title": "The benefits of bodhichitta (Parent)",
+                                                "relationship_type": "forms_first_major_part_of",
+                                                "conceptual_bridge": "Details the general benefits as the initial exposition within the broader discussion of Bodhichitta's advantages."
+                                            },
+                                            {
+                                                "related_node_title": "The specific benefits of bodhichitta in intention and the specific benefits of bodhichitta in action (Next Sub-subsection)",
+                                                "relationship_type": "precedes_and_lays_groundwork_for",
+                                                "conceptual_bridge": "After establishing general benefits, the text will differentiate benefits based on Bodhichitta's types (intention and action)."
+                                            }
+                                        ],
+                                        "implicit_concepts": [
+                                            "The hierarchy of virtues",
+                                            "The power of enlightened motivation",
+                                            "The comprehensive nature of the Bodhisattva path."
+                                        ],
+                                        "commentary_insights": "The commentary thoroughly expounds on each point: Bodhichitta's unique power against negativity, the honorific status it confers, and the detailed meaning of each of the five analogies, often citing other scriptures (like the Gandavyuha Sutra) to support the claims of Bodhichitta's immeasurable benefits.",
+                                        "commentary_citation": "Commentary sections discussing verses 6-14, under headings 'Bodhichitta is superior to all other virtues', 'A change of name and of status', and 'The benefits of bodhichitta shown by means of examples' (including its five sub-points).",
+                                        "pedagogical_strategy": "Combination of direct assertion, status conferral, and a series of vivid analogies to build a compelling case for Bodhichitta.",
+                                        "audience_assumptions": "Assumes a desire for profound spiritual attainment and a receptivity to both logical arguments and illustrative examples regarding the path."
+                                    },
+                                    "functional_transformative_analysis_of_root_text_unit": {
+                                        "transformative_goal_of_root_text_unit": "To establish a comprehensive understanding and deep appreciation for the general, yet profound, benefits of generating Bodhichitta, inspiring its cultivation.",
+                                        "knowledge_imparted_by_root_text_unit": [
+                                            "Bodhichitta's supremacy over other virtues.",
+                                            "The immediate spiritual elevation it brings.",
+                                            "Its transformative, value-bestowing, merit-generating, protective, and purifying qualities, illustrated through five analogies."
+                                        ],
+                                        "skill_developed_by_root_text_unit": [
+                                            "Developing strong conviction in Bodhichitta.",
+                                            "Using analogies to understand profound concepts.",
+                                            "Motivating oneself for dedicated practice."
+                                        ],
+                                        "attitude_cultivated_by_root_text_unit": [
+                                            "Deep faith (Shraddha)",
+                                            "Awe and reverence for Bodhichitta",
+                                            "Joyful aspiration",
+                                            "Determination."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "level": "sub-subsection",
+                                    "number": "1.2.2.2",
+                                    "title": "The specific benefits of bodhichitta in intention and the specific benefits of bodhichitta in action",
+                                    "verses_span": "15-19",
+                                    "children": [
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.2.1",
+                                            "title": "Classification of bodhichitta in intention and action",
+                                            "verses_span": "15-16",
+                                            "children": [],
+                                            "summary": {
+                                                "content_summary": "These verses classify Bodhichitta into two aspects: 'Bodhichitta in intention' (aspiring mind) and 'active Bodhichitta' (practical engagement). The difference is likened to the wish to go somewhere versus actually undertaking the journey. This distinction is crucial for wise Bodhisattvas to understand.",
+                                                "key_concepts": [
+                                                    "Bodhichitta in intention (Pranidhi-citta)",
+                                                    "Active Bodhichitta (Prasthana-citta)",
+                                                    "Aspiration vs. Engagement",
+                                                    "Analogy of wishing to travel vs. traveling"
+                                                ],
+                                                "transformative_goal": "To clarify the two fundamental stages of Bodhichitta development, enabling practitioners to understand the progression from aspiration to active implementation of the Bodhisattva path.",
+                                                "function_in_hierarchy": "Introduces a key classification of Bodhichitta, which is essential for understanding its varying benefits and the stages of practice.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "The specific benefits of bodhichitta in intention and the specific benefits of bodhichitta in action (Parent)",
+                                                        "relationship_type": "provides_classification_for",
+                                                        "conceptual_bridge": "Defines the two types of Bodhichitta whose specific benefits will then be discussed."
+                                                    },
+                                                    {
+                                                        "related_node_title": "The benefits of bodhichitta in intention and in action (Next Sibling)",
+                                                        "relationship_type": "precedes_and_is_necessary_for_understanding",
+                                                        "conceptual_bridge": "This classification is essential before detailing the distinct benefits of each type."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The progressive nature of spiritual development",
+                                                    "The importance of both motivation and action",
+                                                    "The practical application of Dharma."
+                                                ],
+                                                "commentary_insights": "The commentary elaborates on various classifications of Bodhichitta (relative/ultimate, based on paramitas, grounds of realization, etc.) before focusing on Shantideva's two-fold distinction. It cites different masters' interpretations of this distinction (e.g., Jnanapada, Atisha, Longchenpa) but affirms Shantideva's view as widely followed. It clarifies that active Bodhichitta necessarily includes intention Bodhichitta.",
+                                                "commentary_citation": "Commentary sections 'Classification of bodhichitta in intention and action' and surrounding discussion on Bodhichitta types, related to verses 15-16. Key phrases: 'Bodhichitta can be classified in other ways...', 'the difference between them is like the difference between the wish to go somewhere...'",
+                                                "pedagogical_strategy": "Clear definition, analogy, reference to scholarly understanding.",
+                                                "audience_assumptions": "Assumes an interest in the nuanced stages of spiritual development and the relationship between aspiration and practice."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To enable practitioners to clearly distinguish between the aspirational and practical engagement aspects of Bodhichitta, understanding their sequential relationship.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "The two aspects of Bodhichitta: intention (aspiring) and action (practical engagement).",
+                                                    "The analogy of wishing to travel versus actual travel to illustrate the difference.",
+                                                    "The importance for the wise to understand this distinction."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Differentiating between aspiration and active practice.",
+                                                    "Understanding the progressive stages of Bodhisattva training."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Clarity of understanding",
+                                                    "Appreciation for the structured nature of the path."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.2.4",
+                                            "title": "The benefits of bodhichitta in intention and in action",
+                                            "verses_span": "17-19",
+                                            "children": [],
+                                            "summary": {
+                                                "content_summary": "These verses delineate the differing benefits of the two Bodhichitta types. Bodhichitta in intention yields great results within samsara (e.g., high rebirths) but doesn't produce a ceaseless stream of merit like active Bodhichitta. Once active Bodhichitta is embraced with irreversible intent to free all beings, an unremitting, vast stream of merit, equal to the sky, arises continuously, even during sleep or distraction.",
+                                                "key_concepts": [
+                                                    "Benefits of intention Bodhichitta (samsaric good results)",
+                                                    "Benefits of active Bodhichitta (ceaseless, vast merit)",
+                                                    "Irreversible intent",
+                                                    "Merit accumulation even in distraction"
+                                                ],
+                                                "transformative_goal": "To motivate practitioners to progress from mere aspiration to active engagement in Bodhisattva deeds, by highlighting the far superior and continuous merit generated by active Bodhichitta.",
+                                                "function_in_hierarchy": "Explains the distinct advantages of each type of Bodhichitta, emphasizing the greater efficacy of active Bodhichitta in terms of continuous merit generation.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "The specific benefits of bodhichitta in intention and the specific benefits of bodhichitta in action (Parent)",
+                                                        "relationship_type": "details_benefits_for_classified_types",
+                                                        "conceptual_bridge": "Explains the specific outcomes associated with the previously defined categories of Bodhichitta."
+                                                    },
+                                                    {
+                                                        "related_node_title": "Classification of bodhichitta in intention and action (Previous Sibling)",
+                                                        "relationship_type": "builds_upon_classification_by_detailing",
+                                                        "conceptual_bridge": "Having classified Bodhichitta, this part now describes the distinct benefits of each type."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The compounding power of sustained intention and action",
+                                                    "The pervasiveness of a Bodhisattva's vow",
+                                                    "The Mahayana emphasis on vast merit accumulation for enlightenment."
+                                                ],
+                                                "commentary_insights": "The commentary clarifies that 'great results' from intention Bodhichitta include rebirths as Brahma, Indra, or a chakravartin. Active Bodhichitta, when the vow is perfectly embraced and unspoiled, leads to inexhaustible merit accumulation, as vast as space. It also warns that neglecting practice after taking the active vow leads to a great downfall, not increased merit.",
+                                                "commentary_citation": "Commentary section 'The benefits of bodhichitta in intention and in action', discussing verses 17-19. Key phrases: 'Simply to engender the bodhichitta of aspiring to supreme enlightenment produces...'",
+                                                "pedagogical_strategy": "Contrastive explanation of benefits, highlighting the superior outcome of active engagement.",
+                                                "audience_assumptions": "Assumes an understanding of merit (punya) and its role in spiritual progress, and the distinction between samsaric benefits and liberation-oriented merit."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To demonstrate the superior and continuous merit generated by active Bodhichitta compared to aspirational Bodhichitta, thereby encouraging progression to active engagement.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "Bodhichitta in intention yields significant samsaric benefits.",
+                                                    "Active Bodhichitta generates a ceaseless and vast stream of merit.",
+                                                    "This merit from active Bodhichitta accrues even during sleep or inattention once the vow is taken with irreversible intent."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Understanding the qualitative difference in merit between aspiration and action.",
+                                                    "Committing to irreversible active Bodhichitta for maximal benefit."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Strong motivation for active practice",
+                                                    "Appreciation for the profound impact of Bodhisattva vows",
+                                                    "Perseverance."
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "summary": {
+                                        "content_summary": "This sub-subsection (verses 15-19) details the specific benefits associated with the two types of Bodhichitta. First, it provides the 'Classification of bodhichitta in intention and action' (1.2.2.2.1, verses 15-16), likening them to aspiring to travel versus actual travel. Then, it explains 'The benefits of bodhichitta in intention and in action' (1.2.2.2.4, verses 17-19), noting that while intention Bodhichitta brings great samsaric results, active Bodhichitta generates a continuous, sky-like stream of merit, even during periods of distraction, once embraced with irreversible resolve.",
+                                        "key_concepts": [
+                                            "Bodhichitta in intention",
+                                            "Active Bodhichitta",
+                                            "Aspiration vs. Engagement",
+                                            "Samsaric benefits",
+                                            "Ceaseless and vast merit",
+                                            "Irreversible vow"
+                                        ],
+                                        "transformative_goal": "To clarify the distinct types of Bodhichitta and their respective benefits, strongly encouraging the progression from aspiration to active, committed engagement for the sake of accumulating vast and continuous merit.",
+                                        "function_in_hierarchy": "Refines the discussion of Bodhichitta's benefits by differentiating between its aspirational and practical forms, highlighting the superior merit of the latter and thus guiding the practitioner towards deeper commitment.",
+                                        "inter_node_relationships": [
+                                            {
+                                                "related_node_title": "The benefits of bodhichitta (Parent)",
+                                                "relationship_type": "provides_specific_elaboration_on",
+                                                "conceptual_bridge": "Moves from general benefits to the specific benefits tied to the two main types of Bodhichitta."
+                                            },
+                                            {
+                                                "related_node_title": "The general benefits of generating bodhichitta (Previous Sub-subsection)",
+                                                "relationship_type": "is_followed_by_more_specific_analysis_of",
+                                                "conceptual_bridge": "After general praise, this section offers a more nuanced look at benefits based on the type of Bodhichitta."
+                                            },
+                                            {
+                                                "related_node_title": "Proving the benefits of bodhichitta by scripture and with reasoning (Next Sub-subsection)",
+                                                "relationship_type": "precedes_and_is_supported_by",
+                                                "conceptual_bridge": "The claims made here about specific benefits will be substantiated in the next section through scriptural citations and logical arguments."
+                                            }
+                                        ],
+                                        "implicit_concepts": [
+                                            "The graduated path",
+                                            "The power of vows",
+                                            "The importance of sustained effort in Mahayana practice."
+                                        ],
+                                        "commentary_insights": "The commentary explains various scholarly classifications of Bodhichitta before focusing on Shantideva's two types. It details the high samsaric rewards of intention Bodhichitta and the immeasurable, continuous merit of active Bodhichitta, while also warning against neglecting practice after taking the active vow.",
+                                        "commentary_citation": "Commentary sections discussing verses 15-19, under headings 'Classification of bodhichitta in intention and action' (and related preliminary discussions on Bodhichitta types) and 'The benefits of bodhichitta in intention and in action'.",
+                                        "pedagogical_strategy": "Classification followed by comparative analysis of benefits, emphasizing the greater rewards of deeper commitment.",
+                                        "audience_assumptions": "Assumes a practitioner seeking to understand the stages of Bodhichitta and the varying results of different levels of commitment."
+                                    },
+                                    "functional_transformative_analysis_of_root_text_unit": {
+                                        "transformative_goal_of_root_text_unit": "To clearly differentiate between aspirational and engaged Bodhichitta and to highlight the vastly superior, continuous merit accrued from active Bodhichitta, thereby encouraging full commitment to the Bodhisattva path.",
+                                        "knowledge_imparted_by_root_text_unit": [
+                                            "The classification of Bodhichitta into intention and action.",
+                                            "The distinct benefits of each: significant samsaric rewards from intention, and ceaseless, sky-like merit from action.",
+                                            "The critical role of irreversible intent in active Bodhichitta for continuous merit generation."
+                                        ],
+                                        "skill_developed_by_root_text_unit": [
+                                            "Discerning the different stages of Bodhichitta practice.",
+                                            "Understanding the profound impact of taking and upholding Bodhisattva vows.",
+                                            "Motivating oneself to transition from aspiration to active engagement."
+                                        ],
+                                        "attitude_cultivated_by_root_text_unit": [
+                                            "Clarity",
+                                            "Strong aspiration for active Bodhichitta",
+                                            "Commitment",
+                                            "Perseverance",
+                                            "Appreciation for the depth of the Mahayana path."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "level": "sub-subsection",
+                                    "number": "1.2.2.3",
+                                    "title": "Proving the benefits of bodhichitta by scripture and with reasoning",
+                                    "verses_span": "20-30",
+                                    "children": [
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.3.1",
+                                            "title": "Proving the benefits of bodhichitta by scripture",
+                                            "verses_span": "20",
+                                            "children": [],
+                                            "summary": {
+                                                "content_summary": "This verse states that the Tathagata (Buddha) himself proclaimed the immeasurable benefits of active Bodhichitta in the Subahuparipriccha-sutra. This was taught with reasoned argument, specifically for those inclined to lesser paths, to help them understand and be certain about Bodhichitta's qualities.",
+                                                "key_concepts": [
+                                                    "Scriptural proof",
+                                                    "Tathagata's proclamation",
+                                                    "Subahuparipriccha-sutra",
+                                                    "Reasoned argument",
+                                                    "Benefit for those on lesser paths"
+                                                ],
+                                                "transformative_goal": "To establish the authoritative basis for Bodhichitta's benefits by citing direct scriptural evidence from the Buddha, thereby strengthening faith and conviction.",
+                                                "function_in_hierarchy": "Provides scriptural validation for the previously claimed benefits of (active) Bodhichitta, lending authority to the teachings.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "Proving the benefits of bodhichitta by scripture and with reasoning (Parent)",
+                                                        "relationship_type": "forms_the_scriptural_part_of_proof",
+                                                        "conceptual_bridge": "Offers the first type of proof – scriptural authority – for Bodhichitta's benefits."
+                                                    },
+                                                    {
+                                                        "related_node_title": "Proving the benefits of bodhichitta with reasoning (Next Sibling)",
+                                                        "relationship_type": "is_complemented_by",
+                                                        "conceptual_bridge": "Scriptural proof is followed by logical reasoning to further substantiate the claims."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The authority of Buddha's words",
+                                                    "The pedagogical skill of the Buddha in guiding beings from lesser to greater paths."
+                                                ],
+                                                "commentary_insights": "The commentary explains that the Buddha proclaimed this truth based on four immeasurable reasons: the number of beings, their sufferings, the qualities of Buddhahood, and the span of ages required. It quotes the Subahuparipriccha-sutra: 'If, for the benefit... of infinite beings, I don the armor... the roots of virtue... will also be endless... even when I am sleeping or being careless.'",
+                                                "commentary_citation": "Commentary section 'Proving the benefits of bodhichitta by scripture', discussing verse 20. Key phrases: 'Whether one thinks of the number of beings... the Buddha has himself proclaimed this truth in the Subahuparipriccha-sutra.'",
+                                                "pedagogical_strategy": "Appeal to ultimate authority (Buddha's direct teaching), citation of scripture.",
+                                                "audience_assumptions": "Assumes reverence for the Buddha's teachings and acceptance of sutras as authoritative."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To solidify the practitioner's faith in the benefits of active Bodhichitta by demonstrating its endorsement in the Buddha's own teachings.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "The Buddha's teaching on active Bodhichitta's benefits in the Subahuparipriccha-sutra.",
+                                                    "The fact that this was taught with reasoned argument for those on lesser paths."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Developing faith based on scriptural authority.",
+                                                    "Understanding the importance of authoritative sources in Dharma."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Strong faith (Shraddha)",
+                                                    "Confidence in the Mahayana path",
+                                                    "Respect for scriptural sources."
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "level": "sub-sub-subsection",
+                                            "number": "1.2.2.3.2",
+                                            "title": "Proving the benefits of bodhichitta with reasoning",
+                                            "verses_span": "21-30",
+                                            "children": [
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.3.2.1",
+                                                    "title": "Proving with reasoning the benefits of bodhichitta in intention",
+                                                    "verses_span": "21-26",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "These verses argue for the boundless merit of Bodhichitta in intention. If even a simple wish to soothe a few headaches yields great merit (v.21), how much greater is the merit of wishing to end all pain for all beings and bring them to Buddhahood (v.22)? Such a benevolent wish surpasses that of parents, gods, rishis, or even Brahma (v.23), as they don't conceive of this even for themselves, let alone others (v.24). This unique, wondrous, jewel-like mind (v.25), a panacea for the world's suffering, has merit too vast to calculate (v.26).",
+                                                        "key_concepts": [
+                                                            "Boundless merit of intention Bodhichitta",
+                                                            "Altruistic wish",
+                                                            "Comparison with limited benevolence",
+                                                            "Uniqueness of Bodhisattva's aspiration",
+                                                            "Immeasurable merit"
+                                                        ],
+                                                        "transformative_goal": "To cultivate profound appreciation for the extraordinary power and rarity of even the aspiration for enlightenment for all beings, by demonstrating its unparalleled merit through logical comparison.",
+                                                        "function_in_hierarchy": "Provides logical arguments, specifically for Bodhichitta in intention, to demonstrate its immense and unique value.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "Proving the benefits of bodhichitta with reasoning (Parent)",
+                                                                "relationship_type": "forms_first_part_of_reasoned_proof",
+                                                                "conceptual_bridge": "Focuses on the reasoned proof for the benefits of Bodhichitta in its aspirational form."
+                                                            },
+                                                            {
+                                                                "related_node_title": "Proving with reasoning the benefits of bodhichitta in action (Next Sibling)",
+                                                                "relationship_type": "is_followed_by_reasoning_for",
+                                                                "conceptual_bridge": "After proving benefits of intention, it will prove benefits of action Bodhichitta."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The power of intention in karma",
+                                                            "The scale of Mahayana altruism",
+                                                            "The preciousness of rare mental states."
+                                                        ],
+                                                        "commentary_insights": "The commentary notes that karma is hidden, so reasoning here deduces from Buddha's praise. It cites the story of 'Daughter' whose compassionate thought relieved his torture and led to divine rebirth. It emphasizes that no one—parents, gods, sages, Brahma—has an altruistic wish equal to a Bodhisattva's. This unique aspiration is like a wish-fulfilling tree in the human world. The Viradattagrihapatiparipriccha-sutra is quoted: 'If the merit of the enlightened mind were to take material form, the whole of space would be replete...'",
+                                                        "commentary_citation": "Commentary section 'Proving with reasoning the benefits of bodhichitta in intention', discussing verses 21-26. Key phrases: 'If one engenders the compassionate wish to soothe...'",
+                                                        "pedagogical_strategy": "Argument by analogy (a minore ad maius), comparative reasoning, rhetorical questions, appeal to wonder.",
+                                                        "audience_assumptions": "Assumes an acceptance of karmic principles (merit from intention) and a capacity for logical inference regarding altruism's scope."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To establish through logical reasoning the immeasurable merit and unparalleled nobility of Bodhichitta in intention.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The argument that if limited altruism has merit, the vast altruism of Bodhichitta has boundless merit.",
+                                                            "Comparison of Bodhisattva's wish with the limited benevolence of parents, gods, etc.",
+                                                            "The uniqueness and preciousness of this 'jewel of mind'.",
+                                                            "The immeasurability of its merit."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Logical reflection on the scope and power of altruistic intention.",
+                                                            "Appreciating the rarity and value of Bodhichitta."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Deep appreciation for aspirational Bodhichitta",
+                                                            "Awe at its scope",
+                                                            "Motivation to cultivate such a precious mental state."
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "level": "sub-sub-sub-subsection",
+                                                    "number": "1.2.2.3.2.2",
+                                                    "title": "Proving with reasoning the benefits of bodhichitta in action",
+                                                    "verses_span": "27-30",
+                                                    "children": [],
+                                                    "summary": {
+                                                        "content_summary": "These verses argue for the superior merit of active Bodhichitta. If the mere thought to help others surpasses worship of Buddhas (v.27), how much greater are actual deeds benefiting beings? Beings desire freedom from misery but pursue its causes, and long for joy but destroy it in ignorance (v.28). Bodhisattvas, however, provide bliss to the joyless, cut away suffering from the miserable (v.29), and dispel their ignorance. What virtue, friend, or merit can compare to this (v.30)?",
+                                                        "key_concepts": [
+                                                            "Superior merit of active Bodhichitta",
+                                                            "Actual deeds vs. mere thought",
+                                                            "Beings' ignorance and self-sabotage",
+                                                            "Bodhisattva's compassionate action (providing joy, removing suffering, dispelling ignorance)",
+                                                            "Unparalleled virtue and friendship"
+                                                        ],
+                                                        "transformative_goal": "To establish through reasoning the supreme value and merit of actively engaging in Bodhisattva conduct, by contrasting it with lesser actions and highlighting its comprehensive benefit to beings.",
+                                                        "function_in_hierarchy": "Provides logical arguments for the unparalleled benefits of Bodhichitta in action, emphasizing its practical positive impact on suffering beings.",
+                                                        "inter_node_relationships": [
+                                                            {
+                                                                "related_node_title": "Proving the benefits of bodhichitta with reasoning (Parent)",
+                                                                "relationship_type": "forms_second_part_of_reasoned_proof",
+                                                                "conceptual_bridge": "Focuses on the reasoned proof for the benefits of Bodhichitta in its engaged, active form."
+                                                            },
+                                                            {
+                                                                "related_node_title": "Proving with reasoning the benefits of bodhichitta in intention (Previous Sibling)",
+                                                                "relationship_type": "builds_upon_and_surpasses",
+                                                                "conceptual_bridge": "Argues that if intention is so meritorious, then action, which actualizes that intention, is even more so."
+                                                            }
+                                                        ],
+                                                        "implicit_concepts": [
+                                                            "The importance of skillful means",
+                                                            "The pervasiveness of suffering and ignorance in samsara",
+                                                            "The Bodhisattva as the ultimate benefactor."
+                                                        ],
+                                                        "commentary_insights": "The commentary quotes the Samadhiraja-sutra: 'The constant, daily worship... with countless gifts... is nothing when contrasted with a loving mind!' It emphasizes that beings act contrary to their wishes due to ignorance. Bodhisattvas address this by bringing temporary and ultimate bliss, cutting pain and its causes, and teaching what to do/avoid, thereby remedying ignorance. Their virtue is thus unmatched.",
+                                                        "commentary_citation": "Commentary section 'Proving with reasoning the benefits of bodhichitta in action', discussing verses 27-30. Key phrases: 'If just the altruistic wish... is far more noble...'",
+                                                        "pedagogical_strategy": "Argument by analogy (a minore ad maius), highlighting beings' paradoxical behavior, praising Bodhisattva's comprehensive help, rhetorical questions.",
+                                                        "audience_assumptions": "Assumes an understanding that actions are generally more impactful than mere intentions, and a recognition of the suffering caused by ignorance."
+                                                    },
+                                                    "functional_transformative_analysis_of_root_text_unit": {
+                                                        "transformative_goal_of_root_text_unit": "To demonstrate through logical reasoning the supreme merit and unparalleled benefit of actively engaging in Bodhisattva deeds for the welfare of all beings.",
+                                                        "knowledge_imparted_by_root_text_unit": [
+                                                            "The argument that active help surpasses even worship of Buddhas if the intention is vast.",
+                                                            "The observation of beings' self-defeating pursuit of suffering and destruction of joy due to ignorance.",
+                                                            "The Bodhisattva's role in providing joy, alleviating suffering, and dispelling ignorance.",
+                                                            "The assertion of the unmatched virtue, friendship, and merit of such actions."
+                                                        ],
+                                                        "skill_developed_by_root_text_unit": [
+                                                            "Logical reflection on the impact of compassionate action.",
+                                                            "Understanding the root causes of suffering (ignorance).",
+                                                            "Aspiring to emulate the Bodhisattva's comprehensive aid."
+                                                        ],
+                                                        "attitude_cultivated_by_root_text_unit": [
+                                                            "Deep appreciation for active Bodhichitta",
+                                                            "Compassion for ignorant beings",
+                                                            "Strong motivation to engage in beneficial actions",
+                                                            "Reverence for Bodhisattvas."
+                                                        ]
+                                                    }
+                                                }
+                                            ],
+                                            "summary": {
+                                                "content_summary": "This sub-sub-subsection (verses 21-30) provides reasoned arguments for Bodhichitta's benefits. First, it proves 'with reasoning the benefits of bodhichitta in intention' (1.2.2.3.2.1, verses 21-26) by arguing that if even limited altruistic wishes have merit, the Bodhisattva's vast wish for all beings' enlightenment has immeasurable, unparalleled merit, exceeding any other form of benevolence. Second, it proves 'with reasoning the benefits of bodhichitta in action' (1.2.2.3.2.2, verses 27-30) by stating that if altruistic thought surpasses Buddha-worship, then actual deeds—which provide joy, remove suffering, and dispel the ignorance of self-sabotaging beings—are of even greater, incomparable virtue and merit.",
+                                                "key_concepts": [
+                                                    "Reasoned proof",
+                                                    "Merit of intention Bodhichitta",
+                                                    "Merit of active Bodhichitta",
+                                                    "Scope of altruism",
+                                                    "Ignorance of beings",
+                                                    "Bodhisattva's comprehensive aid"
+                                                ],
+                                                "transformative_goal": "To establish through logical arguments the profound and unparalleled merit of both aspirational and active Bodhichitta, thereby solidifying intellectual conviction in its supreme value.",
+                                                "function_in_hierarchy": "Complements scriptural proof with logical reasoning to provide a comprehensive validation of Bodhichitta's benefits, appealing to both faith and intellect.",
+                                                "inter_node_relationships": [
+                                                    {
+                                                        "related_node_title": "Proving the benefits of bodhichitta by scripture and with reasoning (Parent)",
+                                                        "relationship_type": "forms_the_reasoned_part_of_proof",
+                                                        "conceptual_bridge": "Offers the second type of proof – logical reasoning – for Bodhichitta's benefits, addressing both intention and action."
+                                                    },
+                                                    {
+                                                        "related_node_title": "Proving the benefits of bodhichitta by scripture (Previous Sibling)",
+                                                        "relationship_type": "is_complemented_by",
+                                                        "conceptual_bridge": "Logical reasoning follows scriptural proof to provide a fuller substantiation of claims about Bodhichitta."
+                                                    }
+                                                ],
+                                                "implicit_concepts": [
+                                                    "The interplay of faith and reason in Dharma",
+                                                    "The ethical calculus of Mahayana",
+                                                    "The Bodhisattva as the ultimate problem-solver for sentient beings."
+                                                ],
+                                                "commentary_insights": "The commentary supports the reasoning with examples (story of 'Daughter') and scriptural quotes (Viradattagrihapatiparipriccha-sutra, Samadhiraja-sutra). It emphasizes the uniqueness of the Bodhisattva's wish compared to any other being's benevolence and highlights how Bodhisattvas address the root cause of suffering—ignorance—through their actions.",
+                                                "commentary_citation": "Commentary sections 'Proving with reasoning the benefits of bodhichitta in intention' and 'Proving with reasoning the benefits of bodhichitta in action', discussing verses 21-26 and 27-30 respectively.",
+                                                "pedagogical_strategy": "Logical argumentation (a minore ad maius), comparative analysis, highlighting contradictions in ordinary beings' behavior, and exalting Bodhisattva's skillful response.",
+                                                "audience_assumptions": "Assumes an audience that values logical consistency and is persuaded by arguments demonstrating the superior efficacy and ethical nobility of Bodhichitta."
+                                            },
+                                            "functional_transformative_analysis_of_root_text_unit": {
+                                                "transformative_goal_of_root_text_unit": "To establish through logical arguments the immense and unparalleled merit of both aspirational and active Bodhichitta, thereby fostering deep intellectual conviction in its supreme value.",
+                                                "knowledge_imparted_by_root_text_unit": [
+                                                    "Reasoned arguments for the boundless merit of Bodhichitta in intention (comparing its scope of altruism).",
+                                                    "Reasoned arguments for the superior merit of Bodhichitta in action (addressing beings' ignorance and providing comprehensive aid).",
+                                                    "The unique and incomparable nature of Bodhisattva's aspiration and actions."
+                                                ],
+                                                "skill_developed_by_root_text_unit": [
+                                                    "Analytical thinking about ethical principles and motivations.",
+                                                    "Articulating the value of Bodhichitta through reason.",
+                                                    "Strengthening conviction through logical understanding."
+                                                ],
+                                                "attitude_cultivated_by_root_text_unit": [
+                                                    "Intellectual confidence in Bodhichitta",
+                                                    "Deep respect for the Bodhisattva path",
+                                                    "Compassion rooted in understanding beings' ignorance",
+                                                    "Strong motivation for both aspirational and active Bodhichitta."
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "summary": {
+                                        "content_summary": "This sub-subsection (verses 20-30) aims to prove Bodhichitta's benefits through both scripture and reasoning. First, 'Proving the benefits of bodhichitta by scripture' (1.2.2.3.1, verse 20) cites the Tathagata's own proclamation in the Subahuparipriccha-sutra about active Bodhichitta's immeasurable benefits. Second, 'Proving the benefits of bodhichitta with reasoning' (1.2.2.3.2, verses 21-30) argues logically: for intention Bodhichitta (vv. 21-26), its unparalleled scope of wishing well for all beings yields boundless merit, far exceeding any other benevolence; for active Bodhichitta (vv. 27-30), if mere altruistic thought is highly meritorious, then actual deeds that provide joy, remove suffering, and dispel ignorance for all beings are of incomparable virtue.",
+                                        "key_concepts": [
+                                            "Scriptural proof (Subahuparipriccha-sutra)",
+                                            "Reasoned proof",
+                                            "Merit of intention Bodhichitta",
+                                            "Merit of active Bodhichitta",
+                                            "Unparalleled altruism",
+                                            "Comprehensive aid to beings"
+                                        ],
+                                        "transformative_goal": "To provide a robust validation of Bodhichitta's extraordinary benefits by appealing to both authoritative scriptural sources and logical reasoning, thereby deeply instilling faith and intellectual conviction.",
+                                        "function_in_hierarchy": "Offers comprehensive justification for the earlier claims about Bodhichitta's benefits, strengthening the practitioner's resolve to cultivate it by demonstrating its authoritative backing and logical coherence.",
+                                        "inter_node_relationships": [
+                                            {
+                                                "related_node_title": "The benefits of bodhichitta (Parent)",
+                                                "relationship_type": "provides_justification_for_claims_about",
+                                                "conceptual_bridge": "Substantiates the previously discussed benefits of Bodhichitta with evidence from scripture and reason."
+                                            },
+                                            {
+                                                "related_node_title": "The specific benefits of bodhichitta in intention and the specific benefits of bodhichitta in action (Previous Sub-subsection)",
+                                                "relationship_type": "provides_support_for_claims_made_in",
+                                                "conceptual_bridge": "The benefits detailed for intention and action Bodhichitta are now proven through scripture and reason."
+                                            },
+                                            {
+                                                "related_node_title": "The greatness of a person who possesses bodhichitta (Next Subsection)",
+                                                "relationship_type": "prepares_for_discussion_of",
+                                                "conceptual_bridge": "Having established Bodhichitta's benefits, the text will next discuss the qualities of individuals who embody it."
+                                            }
+                                        ],
+                                        "implicit_concepts": [
+                                            "The harmony of faith and reason in Buddhism",
+                                            "The depth of Buddhist pedagogy",
+                                            "The ultimate reliability of the Mahayana path."
+                                        ],
+                                        "commentary_insights": "The commentary supports the scriptural claim by quoting the Subahuparipriccha-sutra and explains the reasoning by using analogies (like the story of 'Daughter') and further scriptural support (Viradattagrihapatiparipriccha-sutra, Samadhiraja-sutra). It underscores the unique nature of Bodhisattva's aspiration and action compared to any other form of goodness.",
+                                        "commentary_citation": "Commentary sections discussing verses 20-30, under headings 'Proving the benefits of bodhichitta by scripture', 'Proving with reasoning the benefits of bodhichitta in intention', and 'Proving with reasoning the benefits of bodhichitta in action'.",
+                                        "pedagogical_strategy": "Dual approach of appealing to authority (scripture) and intellect (reasoning), using examples and comparative arguments.",
+                                        "audience_assumptions": "Assumes an audience that respects both scriptural authority and logical argumentation as valid paths to understanding and conviction."
+                                    },
+                                    "functional_transformative_analysis_of_root_text_unit": {
+                                        "transformative_goal_of_root_text_unit": "To provide irrefutable proof, through both scriptural authority and logical reasoning, of the immense and unparalleled benefits of Bodhichitta, thereby inspiring unwavering commitment to its cultivation.",
+                                        "knowledge_imparted_by_root_text_unit": [
+                                            "Scriptural endorsement of Bodhichitta's benefits (Subahuparipriccha-sutra).",
+                                            "Logical arguments demonstrating the boundless merit of Bodhichitta in intention (based on scope of altruism).",
+                                            "Logical arguments demonstrating the supreme merit of Bodhichitta in action (based on comprehensive aid to beings)."
+                                        ],
+                                        "skill_developed_by_root_text_unit": [
+                                            "Strengthening faith through scriptural study.",
+                                            "Developing conviction through logical analysis.",
+                                            "Integrating faith and reason in understanding Dharma principles."
+                                        ],
+                                        "attitude_cultivated_by_root_text_unit": [
+                                            "Unwavering faith and conviction",
+                                            "Deep intellectual understanding",
+                                            "Profound respect for the Bodhisattva path",
+                                            "Strong resolve to practice."
+                                        ]
+                                    }
+                                }
+                            ],
+                            "summary": {
+                                "content_summary": "This extensive subsection (verses 6-30) thoroughly explores the multifaceted benefits of Bodhichitta. It begins with 'the general benefits of generating bodhichitta' (1.2.2.1, vv. 6-14), asserting Bodhichitta's supremacy over other virtues, the immediate positive change in status it brings, and illustrating its power through five analogies (alchemy, jewel, tree, bodyguard, kalpa-fire). It then details 'the specific benefits of bodhichitta in intention and the specific benefits of bodhichitta in action' (1.2.2.2, vv. 15-19), classifying the two types and highlighting the superior, ceaseless merit of active Bodhichitta. Finally, it offers 'Proving the benefits of bodhichitta by scripture and with reasoning' (1.2.2.3, vv. 20-30), citing sutra evidence and logical arguments to validate the immense value of both aspirational and engaged Bodhichitta.",
+                                "key_concepts": [
+                                    "General benefits of Bodhichitta",
+                                    "Specific benefits (intention vs. action)",
+                                    "Scriptural proof",
+                                    "Reasoned proof",
+                                    "Superiority of Bodhichitta",
+                                    "Transformative power",
+                                    "Inexhaustible merit",
+                                    "Purification"
+                                ],
+                                "transformative_goal": "To build a comprehensive and deeply rooted understanding and appreciation for the unparalleled benefits of Bodhichitta in all its aspects, motivating the practitioner to embrace it wholeheartedly as the core of their spiritual path.",
+                                "function_in_hierarchy": "Forms the central argument of the chapter by systematically presenting, illustrating, classifying, and proving the profound advantages of cultivating Bodhichitta, making a compelling case for its generation.",
+                                "inter_node_relationships": [
+                                    {
+                                        "related_node_title": "The Main Body of the Treatise: The Generation of Bodhichitta Where It Has Not Previously Existed (Parent Section)",
+                                        "relationship_type": "constitutes_core_argument_for",
+                                        "conceptual_bridge": "Provides the detailed explanation and justification for why one should generate Bodhichitta by elaborating its benefits."
+                                    },
+                                    {
+                                        "related_node_title": "The basis required for the generation of bodhichitta (Previous Subsection)",
+                                        "relationship_type": "logically_follows_establishment_of",
+                                        "conceptual_bridge": "After establishing the necessary basis for generating Bodhichitta, this section explains why it is so beneficial to do so."
+                                    },
+                                    {
+                                        "related_node_title": "The greatness of a person who possesses bodhichitta (Next Subsection)",
+                                        "relationship_type": "lays_foundation_for_understanding",
+                                        "conceptual_bridge": "The profound benefits of Bodhichitta naturally lead to an appreciation of the individuals who cultivate it."
+                                    }
+                                ],
+                                "implicit_concepts": [
+                                    "The centrality of Bodhichitta in Mahayana Buddhism",
+                                    "The comprehensive nature of the Bodhisattva's path, encompassing wisdom, compassion, and skillful means.",
+                                    "The ultimate attainability of Buddhahood through this practice."
+                                ],
+                                "commentary_insights": "The commentary provides extensive explanations for each point, clarifying terms, offering further examples and analogies, citing numerous scriptural sources (Gandavyuha, Subahuparipriccha, Viradattagrihapatiparipriccha, Samadhiraja) and scholarly opinions (Nagarjuna, Atisha, Longchenpa). It consistently emphasizes the transformative, purifying, and merit-generating power of Bodhichitta, whether in intention or action.",
+                                "commentary_citation": "Commentary sections discussing verses 6-30, under the main heading 'The benefits of bodhichitta' and its various sub-headings.",
+                                "pedagogical_strategy": "Systematic exposition: general benefits, specific classifications and benefits, then proofs (scriptural and reasoned). Uses assertions, analogies, classifications, and logical arguments.",
+                                "audience_assumptions": "Assumes an audience seeking a thorough understanding of Bodhichitta, open to both devotional inspiration and intellectual conviction, and aspiring to the Mahayana path."
+                            },
+                            "functional_transformative_analysis_of_root_text_unit": {
+                                "transformative_goal_of_root_text_unit": "To instill a profound and unshakeable conviction in the supreme and multifaceted benefits of Bodhichitta, thereby inspiring its wholehearted cultivation as the central Mahayana practice.",
+                                "knowledge_imparted_by_root_text_unit": [
+                                    "The general benefits of Bodhichitta (supremacy, status change, transformative power via analogies).",
+                                    "The specific benefits of intention Bodhichitta (samsaric good) versus action Bodhichitta (ceaseless, vast merit).",
+                                    "Scriptural and reasoned proofs validating these benefits."
+                                ],
+                                "skill_developed_by_root_text_unit": [
+                                    "Comprehensive understanding of Bodhichitta's value.",
+                                    "Differentiating stages and types of Bodhichitta.",
+                                    "Strengthening faith and conviction through multiple avenues (analogy, scripture, reason)."
+                                ],
+                                "attitude_cultivated_by_root_text_unit": [
+                                    "Deep faith and reverence for Bodhichitta",
+                                    "Strong aspiration and commitment",
+                                    "Intellectual clarity",
+                                    "Joyful determination to practice."
+                                ]
+                            }
+                        },
+                        {
+                            "level": "subsection",
+                            "number": "1.2.3",
+                            "title": "The greatness of a person who possesses bodhichitta",
+                            "verses_span": "31-36",
+                            "children": [],
+                            "summary": {
+                                "content_summary": "This subsection extols the greatness of Bodhisattvas. If repaying favors earns praise (v.31), how much more so for Bodhisattvas who benefit others unsolicitedly? Even those giving meager, temporary aid are praised (v.32); what then of Bodhisattvas bestowing boundless, ultimate bliss of Buddhahood upon countless beings (v.33)? Harboring evil thoughts against such generous Buddha's heirs leads to eons in hell (v.34), while joyous devotion yields greater positive results; Bodhisattvas' virtues increase even in adversity (v.35). The author bows to and takes refuge in these sources of happiness, who benefit even their enemies (v.36).",
+                                "key_concepts": [
+                                    "Greatness of Bodhisattvas",
+                                    "Unsolicited altruism",
+                                    "Boundless generosity (gift of Buddhahood)",
+                                    "Consequences of negative/positive thoughts towards Bodhisattvas",
+                                    "Refuge in Bodhisattvas"
+                                ],
+                                "transformative_goal": "To cultivate profound respect, admiration, and devotion towards Bodhisattvas, recognizing their supreme altruism and the immense consequences of one's attitude towards them, thereby inspiring one to emulate them and take refuge.",
+                                "function_in_hierarchy": "Concludes the chapter by shifting focus from Bodhichitta itself to the individuals who embody it, highlighting their exceptional qualities and establishing them as objects of veneration and refuge.",
+                                "inter_node_relationships": [
+                                    {
+                                        "related_node_title": "The Main Body of the Treatise: The Generation of Bodhichitta Where It Has Not Previously Existed (Parent Section)",
+                                        "relationship_type": "concludes_with_praise_for_embodiment_of",
+                                        "conceptual_bridge": "After detailing Bodhichitta's basis and benefits, this section praises those who possess it, providing a living ideal."
+                                    },
+                                    {
+                                        "related_node_title": "The benefits of bodhichitta (Previous Subsection)",
+                                        "relationship_type": "is_logically_followed_by",
+                                        "conceptual_bridge": "Understanding Bodhichitta's benefits naturally leads to appreciating those who cultivate it."
+                                    }
+                                ],
+                                "implicit_concepts": [
+                                    "The Bodhisattva as an ideal",
+                                    "The karmic impact of mental states towards holy beings",
+                                    "The protective power of refuge."
+                                ],
+                                "commentary_insights": "The commentary explains that Bodhisattvas do good without prior favor. Their gift of Buddhahood to infinite beings for an infinite time is contrasted with limited, disdainful charity. It cites the Prashantavinishchaya-pratiharya-sutra on the hellish consequences of anger towards Bodhisattvas and the Niyataniyatagatimudravatara-sutra on the immense merit of faithful gazing. It stresses that Bodhisattvas turn adversity into the path and help even attackers (e.g., Kshantivadin). One should confess past faults against Bodhisattvas and train in pure vision.",
+                                "commentary_citation": "Commentary section 'The greatness of a person who possesses bodhichitta', discussing verses 31-36. Key phrases: 'Those who acknowledge and repay the good that others have done...'",
+                                "pedagogical_strategy": "Comparative arguments, warnings about negative attitudes, praise of positive attitudes, exhortation to take refuge and practice pure vision.",
+                                "audience_assumptions": "Assumes an understanding of karmic consequences, the value of altruism, and the concept of refuge in Buddhist practice."
+                            },
+                            "functional_transformative_analysis_of_root_text_unit": {
+                                "transformative_goal_of_root_text_unit": "To inspire profound respect, devotion, and aspiration towards Bodhisattvas by highlighting their unparalleled generosity, resilience, and the significant karmic impact of one's interactions with them.",
+                                "knowledge_imparted_by_root_text_unit": [
+                                    "The superior altruism of Bodhisattvas compared to ordinary kindness.",
+                                    "The immense gift of Buddhahood they offer.",
+                                    "The severe negative consequences of malice towards Bodhisattvas and great positive results of devotion.",
+                                    "The call to take refuge in these sources of happiness."
+                                ],
+                                "skill_developed_by_root_text_unit": [
+                                    "Cultivating pure perception of Bodhisattvas.",
+                                    "Generating devotion and respect for Mahayana practitioners.",
+                                    "Understanding the karmic sensitivity related to holy beings."
+                                ],
+                                "attitude_cultivated_by_root_text_unit": [
+                                    "Deep reverence for Bodhisattvas",
+                                    "Devotion (Bhakti)",
+                                    "Aspiration to emulate Bodhisattvas",
+                                    "Caution regarding negative thoughts/actions towards practitioners",
+                                    "Refuge-mindedness."
+                                ]
+                            }
+                        }
+                    ],
+                    "summary": {
+                        "content_summary": "This section (verses 4-36) forms the main body of the chapter, focusing on generating Bodhichitta where it hasn't previously existed. It starts by outlining 'the basis required for the generation of bodhichitta' (1.2.1, vv. 4-5), emphasizing the precious human life and the rarity of virtuous thoughts. The core of the section extensively details 'the benefits of bodhichitta' (1.2.2, vv. 6-30), covering its general superiority and transformative power through analogies, its specific benefits related to intention versus action, and proofs from scripture and reasoning. Finally, it extols 'the greatness of a person who possesses bodhichitta' (1.2.3, vv. 31-36), highlighting their unparalleled altruism and the importance of revering them.",
+                        "key_concepts": [
+                            "Basis for Bodhichitta (human life, virtuous thought)",
+                            "Benefits of Bodhichitta (general, specific, proven)",
+                            "Greatness of Bodhisattvas",
+                            "Generation of Bodhichitta"
+                        ],
+                        "transformative_goal": "To comprehensively convince and inspire the practitioner to generate Bodhichitta by first establishing the necessary conditions, then detailing its profound benefits with proofs, and finally by presenting the ideal of the Bodhisattva.",
+                        "function_in_hierarchy": "Constitutes the first major part of the treatise's core teachings, dedicated to the initial generation of Bodhichitta by explaining its prerequisites, unparalleled advantages, and the noble qualities of its practitioners.",
+                        "inter_node_relationships": [
+                            {
+                                "related_node_title": "The Excellence and Benefits of Bodhichitta (Parent Chapter)",
+                                "relationship_type": "forms_the_main_exposition_of",
+                                "conceptual_bridge": "This section elaborates the chapter's theme by detailing how and why to generate Bodhichitta for the first time."
+                            },
+                            {
+                                "related_node_title": "Introduction and Preliminaries (Previous Section)",
+                                "relationship_type": "is_the_substantive_follow_up_to",
+                                "conceptual_bridge": "After the author's introductory remarks, this section delves into the primary subject matter."
+                            }
+                        ],
+                        "implicit_concepts": [
+                            "The structured approach to Mahayana path",
+                            "The interplay of understanding, motivation, and idealization in spiritual development.",
+                            "The foundational importance of generating Bodhichitta."
+                        ],
+                        "commentary_insights": "The commentary provides rich detail for each part: the conditions for Bodhichitta, extensive elaboration on its benefits with numerous examples and scriptural citations, and strong emphasis on respecting and emulating Bodhisattvas. It consistently links the textual points to practical implications for the practitioner's mindset and conduct.",
+                        "commentary_citation": "Commentary sections discussing verses 4-36, under main headings 'The basis required for the generation of bodhichitta', 'The benefits of bodhichitta', and 'The greatness of a person who possesses bodhichitta'.",
+                        "pedagogical_strategy": "Systematic and progressive exposition: establishing need/opportunity, detailing benefits with illustrations and proofs, and presenting the ideal practitioner. Aims to engage intellect, faith, and aspiration.",
+                        "audience_assumptions": "Assumes an audience ready to engage with a detailed, multifaceted argument for embarking on the Bodhisattva path, starting with the generation of Bodhichitta."
+                    },
+                    "functional_transformative_analysis_of_root_text_unit": {
+                        "transformative_goal_of_root_text_unit": "To inspire and guide the practitioner towards the initial generation of Bodhichitta by thoroughly explaining its necessary foundations, profound benefits (supported by scripture and reason), and the exemplary nature of those who cultivate it.",
+                        "knowledge_imparted_by_root_text_unit": [
+                            "The prerequisites for generating Bodhichitta (precious human life, rare virtuous thoughts).",
+                            "The extensive benefits of Bodhichitta (general, specific to intention/action, illustrated by analogies, proven by scripture/reason).",
+                            "The noble qualities and importance of Bodhisattvas."
+                        ],
+                        "skill_developed_by_root_text_unit": [
+                            "Appreciating spiritual opportunity.",
+                            "Understanding the value and types of Bodhichitta.",
+                            "Strengthening conviction through varied evidence.",
+                            "Cultivating respect for advanced practitioners."
+                        ],
+                        "attitude_cultivated_by_root_text_unit": [
+                            "Urgency and diligence",
+                            "Profound faith and aspiration for Bodhichitta",
+                            "Intellectual certainty",
+                            "Deep reverence for Bodhisattvas",
+                            "Motivation to begin the Bodhisattva path."
+                        ]
+                    }
+                }
+            ],
+            "summary": {
+                "content_summary": "Chapter 1, 'The Excellence and Benefits of Bodhichitta,' serves as a powerful call to embrace the Bodhisattva path. It begins with 'Introduction and Preliminaries' (1.1, verses 1-3), where Shantideva offers homage, expresses humility, and stirs enthusiasm for the task. The main body (1.2, verses 4-36) then focuses on 'The Generation of Bodhichitta Where It Has Not Previously Existed.' This involves understanding the 'basis required' (1.2.1, vv. 4-5)—the precious human life and rare virtuous thoughts—followed by an extensive exploration of 'the benefits of bodhichitta' (1.2.2, vv. 6-30), detailing its general supremacy, transformative power (illustrated by analogies), specific advantages of intention versus action Bodhichitta, and proofs from scripture and reason. The chapter concludes by extolling 'the greatness of a person who possesses bodhichitta' (1.2.3, vv. 31-36), inspiring reverence for Bodhisattvas.",
+                "key_concepts": [
+                    "Bodhichitta (Mind of Enlightenment)",
+                    "Homage",
+                    "Humility",
+                    "Enthusiasm",
+                    "Precious Human Rebirth",
+                    "Benefits of Bodhichitta",
+                    "Intention Bodhichitta",
+                    "Action Bodhichitta",
+                    "Scriptural Proof",
+                    "Reasoned Proof",
+                    "Bodhisattva Ideal"
+                ],
+                "transformative_goal": "To inspire individuals who have not yet generated Bodhichitta to do so by comprehensively demonstrating its unparalleled excellence, profound benefits, and the noble qualities of its practitioners, thereby laying the foundational motivation for embarking on the Mahayana path.",
+                "function_in_hierarchy": "Serves as the foundational chapter of the Bodhicharyavatara, establishing the supreme importance and desirability of Bodhichitta, which is the core subject of the entire treatise. It aims to generate initial aspiration.",
+                "inter_node_relationships": [
+                    {
+                        "related_node_title": "Entire Bodhicharyavatara Treatise",
+                        "relationship_type": "is_the_foundational_introduction_to",
+                        "conceptual_bridge": "This chapter sets the stage and motivation for all subsequent chapters which detail the cultivation and practice of Bodhichitta."
+                    }
+                ],
+                "implicit_concepts": [
+                    "The transformative power of mind",
+                    "The graduated nature of the spiritual path",
+                    "The centrality of compassion and wisdom in Mahayana Buddhism."
+                ],
+                "commentary_insights": "The commentary provides extensive scholastic and practical explanations for each verse and section, drawing on a wide range of Buddhist teachings, masters, and scriptures. It consistently aims to deepen the reader's understanding and inspire heartfelt engagement with the path of Bodhichitta, emphasizing its attainability and profound impact.",
+                "commentary_citation": "The entirety of the provided 'chapter_1_commentary.txt' corresponds to this chapter.",
+                "pedagogical_strategy": "A comprehensive and persuasive approach combining devotional elements (homage), personal reflection (humility, enthusiasm), logical argumentation, scriptural authority, illustrative analogies, and inspiring ideals to motivate the generation of Bodhichitta.",
+                "audience_assumptions": "Assumes an audience seeking profound spiritual transformation, open to the Mahayana Buddhist worldview, and willing to engage with both intellectual and devotional aspects of the teachings."
+            },
+            "functional_transformative_analysis_of_root_text_unit": {
+                "transformative_goal_of_root_text_unit": "To inspire the initial generation of Bodhichitta in the reader by comprehensively presenting its prerequisites, its unparalleled benefits (substantiated by scripture and reason), and the noble example of Bodhisattvas.",
+                "knowledge_imparted_by_root_text_unit": [
+                    "The traditional preliminaries for a Buddhist treatise (homage, humility, enthusiasm).",
+                    "The necessary bases for generating Bodhichitta (precious human life, rare virtuous thoughts).",
+                    "The multifaceted excellence and benefits of Bodhichitta (general, specific, proven).",
+                    "The inspiring qualities and greatness of those who possess Bodhichitta."
+                ],
+                "skill_developed_by_root_text_unit": [
+                    "Setting a proper motivation for Dharma study and practice.",
+                    "Appreciating the unique opportunity of human existence.",
+                    "Understanding the profound value and impact of Bodhichitta.",
+                    "Cultivating respect and aspiration towards the Bodhisattva ideal."
+                ],
+                "attitude_cultivated_by_root_text_unit": [
+                    "Reverence",
+                    "Humility",
+                    "Joyful enthusiasm",
+                    "Deep faith and conviction in Bodhichitta",
+                    "Strong aspiration to generate Bodhichitta",
+                    "Respect for Bodhisattvas."
+                ]
+            }
+        }
+    ],
+    "processing_notes": [
+        "The analysis was performed by recursively traversing the provided JSON chapter structure from the bottom up.",
+        "For each node, relevant sections of the 'chapter_1_commentary.txt' were identified primarily by matching node titles with commentary headings and verse numbers/spans with '[verse X]' markers in the commentary.",
+        "The 'verse_text_excerpt' attribute has been removed from all nodes in the output as requested.",
+        "Summaries for parent nodes were generated by synthesizing information from their children's summaries and the overarching commentary relevant to the parent node.",
+        "'inter_node_relationships' were inferred based on hierarchical position (parent, child, sibling) and the logical flow of topics. 'related_node_id' was not used as explicit IDs were not present; titles were used instead.",
+        "The content for 'summary' fields and 'functional_transformative_analysis_of_root_text_unit' fields was derived by interpreting the prompt's requirements for each sub-field and extracting/inferring information from the commentary and the node's context within the chapter structure.",
+        "'commentary_citation' provides descriptive references to help locate the relevant commentary sections, as page numbers are not applicable to the provided text file.",
+        "The depth of conceptual analysis is based on the provided commentary. A more profound philosophical analysis would require broader domain expertise beyond text processing.",
+        "Some commentary sections like 'The author’s commitment to compose' or 'PART ONE' did not have direct corresponding nodes in the input JSON structure and were thus integrated contextually where relevant to existing nodes.",
+        "The process aimed to maintain the original hierarchy while enriching each node as per the detailed specifications."
+    ]
+}
