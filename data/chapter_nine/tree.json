@@ -1,0 +1,1537 @@
+[
+    {
+      "level": "chapter",
+      "number": "9",
+      "title": "Wisdom",
+      "verses_span": "1-167",
+      "summary": {
+        "content_summary": "Chapter 9, titled 'Wisdom,' focuses on the Perfection of Wisdom (Prajñāpāramitā), identified as the principal path to omniscience and the direct cause for removing the two obscurations. It establishes that all other perfections serve as auxiliaries to wisdom. The chapter systematically explains wisdom by first establishing the view of the two truths, refuting objections, proving the Mahayana's supremacy, demonstrating emptiness as the solution, detailing meditative practices on the absence of self in individuals and phenomena, and finally, outlining the benefits of realizing emptiness, particularly the effortless arising of great compassion.",
+        "key_concepts": ["Perfection of Wisdom (Prajñāpāramitā)", "Two Truths (Relative and Ultimate)", "Emptiness (Śūnyatā)", "No-Self (Anātman)", "Madhyamaka", "Omniscience", "Two Obscurations", "Compassion (Karuṇā)"],
+        "transformative_goal": "To cultivate the wisdom that realizes emptiness, leading to the cessation of suffering, the attainment of enlightenment, and the development of profound compassion for all beings.",
+        "function_in_hierarchy": "Serves as the pinnacle explanation of the Six Perfections, detailing the most crucial element for achieving Buddhahood. It provides the philosophical and meditative framework for understanding and realizing ultimate reality.",
+        "inter_node_relationships": [
+          {
+            "related_node_title": "Previous Chapters (1-8)",
+            "related_node_number": "1-8",
+            "relationship_type": "builds_upon/culmination_of",
+            "conceptual_bridge": "Assumes the development of other perfections (generosity, ethics, patience, diligence, concentration) as supportive conditions for the cultivation of wisdom."
+          }
+        ],
+        "implicit_concepts": ["Interdependence of wisdom and compassion", "The progressive nature of the Bodhisattva path", "The necessity of both view and meditation"],
+        "commentary_insights": "The commentary emphasizes wisdom as the main factor, with other perfections as auxiliaries. It highlights that realizing emptiness naturally gives rise to compassion. The chapter's structure follows a logical progression from establishing the view to meditative practice and its results.",
+        "commentary_citation": "General introduction to Chapter 9 commentary.",
+        "pedagogical_strategy": "Systematic exposition combining philosophical reasoning, scriptural citation, refutation of opposing views, and guidance on meditation.",
+        "audience_assumptions": "Assumes familiarity with foundational Buddhist concepts and the Bodhisattva path, and a readiness to engage with profound philosophical arguments."
+      },
+      "children": [
+        {
+          "level": "section",
+          "number": "9.1",
+          "title": "Brief exposition",
+          "verses_span": "1",
+          "summary": {
+            "content_summary": "This section introduces the paramount importance of wisdom. It states that the Buddha expounded all branches of the Doctrine, encompassing the first five perfections, for the sake of attaining wisdom. Therefore, those who wish to end suffering must cultivate this wisdom.",
+            "key_concepts": ["Wisdom (Prajñā)", "Cessation of Suffering", "Purpose of Doctrine"],
+            "transformative_goal": "To motivate the practitioner to prioritize the cultivation of wisdom as the essential means to overcome suffering.",
+            "function_in_hierarchy": "Sets the stage for the entire chapter by establishing the primacy of wisdom and its direct link to liberation.",
+            "inter_node_relationships": [
+              {
+                "related_node_title": "Wisdom (Chapter 9)",
+                "related_node_number": "9",
+                "relationship_type": "introduces_theme_of_parent",
+                "conceptual_bridge": "Provides the rationale for the detailed exploration of wisdom that follows in the chapter."
+              }
+            ],
+            "implicit_concepts": ["Hierarchy of perfections", "Wisdom as the active principle making other perfections effective"],
+            "commentary_insights": "The commentary clarifies that wisdom is the principal aspect of the path and the direct cause of omniscience. It cites the Prajnaparamita-sutra and Ratnagunasanchayagatha to support wisdom's supremacy, comparing other perfections to an army supporting a king (wisdom). It also links the realization of emptiness (wisdom) with the spontaneous birth of compassion.",
+            "commentary_citation": "Commentary on verse 1, under 'Brief exposition'.",
+            "pedagogical_strategy": "Direct assertion of a core principle, supported by scriptural authority and analogy.",
+            "audience_assumptions": "Acceptance of the Buddha's teachings as authoritative and a desire to end suffering."
+          },
+          "children": []
+        },
+        {
+          "level": "section",
+          "number": "9.2",
+          "title": "Detailed explanation",
+          "verses_span": "2-150",
+          "summary": {
+            "content_summary": "This section provides a comprehensive and detailed explanation of wisdom. It begins by establishing the view of the two truths, refutes objections to this view from various schools, addresses objections concerning the path of emptiness and its fruition in benefiting others. This lays the groundwork for understanding how wisdom functions.",
+            "key_concepts": ["Two Truths", "View (Darśana)", "Path (Mārga)", "Fruit (Phala)", "Emptiness", "Refutation of Objections"],
+            "transformative_goal": "To provide a thorough intellectual understanding of the Madhyamaka view of wisdom, clearing away misconceptions and establishing a firm basis for meditation.",
+            "function_in_hierarchy": "Forms the main body of the chapter's philosophical exposition, systematically building the argument for the Madhyamaka understanding of wisdom.",
+            "inter_node_relationships": [
+              {
+                "related_node_title": "Brief exposition",
+                "related_node_number": "9.1",
+                "relationship_type": "elaborates_on",
+                "conceptual_bridge": "Expands on the initial assertion of wisdom's importance by detailing its conceptual foundations and addressing potential misunderstandings."
+              },
+              {
+                "related_node_title": "Wisdom (Chapter 9)",
+                "related_node_number": "9",
+                "relationship_type": "core_exposition_of_parent",
+                "conceptual_bridge": "Constitutes the primary explanation of the chapter's central theme."
+              }
+            ],
+            "implicit_concepts": ["The importance of correct view for correct practice", "The dialectical method in Madhyamaka philosophy"],
+            "commentary_insights": "The commentary follows the text's structure, explaining how wisdom is established through view, then how objections related to the path and fruit are addressed. It emphasizes the systematic refutation of lower tenet systems.",
+            "commentary_citation": "General commentary for verses 2-150, under 'Detailed explanation'.",
+            "pedagogical_strategy": "Systematic and hierarchical exposition, combining definition, classification, and refutation.",
+            "audience_assumptions": "Willingness to engage in detailed philosophical analysis and familiarity with different Buddhist schools of thought."
+          },
+          "children": [
+            {
+              "level": "subsection",
+              "number": "9.2.1",
+              "title": "Wisdom established by means of the view",
+              "verses_span": "2-29",
+              "summary": {
+                "content_summary": "This subsection focuses on establishing wisdom through the correct philosophical view, primarily centered on the two truths. It outlines the two truths, discusses those who establish them, and then systematically refutes objections to the two truths from ordinary people, Shravakas, and Chittamatrins.",
+                "key_concepts": ["Two Truths", "Madhyamaka View", "Refutation", "Ordinary People", "Shravakas", "Chittamatrins (Mind-Only School)"],
+                "transformative_goal": "To solidify the practitioner's understanding of the two truths as the foundation of the Madhyamaka view, by clarifying distinctions and dismantling misconceptions held by other perspectives.",
+                "function_in_hierarchy": "Provides the essential philosophical framework for understanding wisdom by defining and defending the concept of the two truths.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Detailed explanation",
+                    "related_node_number": "9.2",
+                    "relationship_type": "foundational_part_of_parent",
+                    "conceptual_bridge": "Initiates the detailed explanation of wisdom by focusing on its theoretical basis: the view."
+                  }
+                ],
+                "implicit_concepts": ["The role of intellectual understanding in spiritual development", "The Madhyamaka school's unique interpretation of Buddhist tenets"],
+                "commentary_insights": "The commentary meticulously explains how the Madhyamaka school defines the two truths and then contrasts this with and refutes the views of ordinary people and other Buddhist schools like Vaibhashika, Sautrantika, and Chittamatra, highlighting the progressive refinement of understanding.",
+                "commentary_citation": "Commentary for verses 2-29, under 'Wisdom established by means of the view'.",
+                "pedagogical_strategy": "Definition, classification, comparative analysis, and systematic refutation.",
+                "audience_assumptions": "Familiarity with basic Buddhist philosophical terms and an interest in inter-school debates."
+              },
+              "children": [
+                {
+                  "level": "sub-subsection",
+                  "number": "9.2.1.1",
+                  "title": "An outline of the two truths",
+                  "verses_span": "2",
+                  "summary": {
+                    "content_summary": "This verse introduces the foundational concept of the two truths: relative truth (conventional reality, how things appear) and ultimate truth (the true nature of things, emptiness). It states that the ultimate is beyond the reach of intellect, as intellect itself operates within the relative sphere.",
+                    "key_concepts": ["Relative Truth (Saṃvṛti-satya)", "Ultimate Truth (Paramārtha-satya)", "Intellect", "Emptiness"],
+                    "transformative_goal": "To establish the fundamental distinction between conventional appearance and ultimate reality, and to highlight the limitations of ordinary intellect in grasping the ultimate.",
+                    "function_in_hierarchy": "Lays the cornerstone for the entire Madhyamaka philosophical system presented in this chapter by defining its most critical distinction.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Wisdom established by means of the view",
+                        "related_node_number": "9.2.1",
+                        "relationship_type": "introduces_core_concept_for_parent",
+                        "conceptual_bridge": "Defines the two truths, which are central to establishing the Madhyamaka view."
+                      }
+                    ],
+                    "implicit_concepts": ["The layered nature of reality", "The necessity of transcending conceptual thought to realize the ultimate"],
+                    "commentary_insights": "The commentary elaborates that the relative truth is the 'appearing mode' and the ultimate truth is the 'abiding mode' (emptiness). These are incontrovertible on their respective levels and are neither identical nor distinct. The ultimate truth, being free from ontological extremes, is not an object of the ordinary mind; intellect and language are relative. The dharmadhatu (union of appearance and emptiness) is beyond conceptualization.",
+                    "commentary_citation": "Commentary on verse 2, under 'An outline of the two truths', including 'Distinguishing the two truths' and 'Definition of the two truths'.",
+                    "pedagogical_strategy": "Definitional exposition, establishing core terminology and distinctions.",
+                    "audience_assumptions": "A capacity for abstract philosophical thought and an openness to concepts that challenge conventional understanding of reality."
+                  },
+                  "children": []
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.2.1.2",
+                  "title": "Concerning those who establish the two truths",
+                  "verses_span": "3-4",
+                  "summary": {
+                    "content_summary": "These verses differentiate between two types of people in the world concerning their understanding of truth: yogic practitioners with insight and ordinary people. It states that the views of ordinary folk are undermined by yogis, and within yogic ranks, those with lesser insight are confuted by those with higher insight, using commonly accepted examples. Analysis is set aside for the sake of the result (practical application).",
+                    "key_concepts": ["Yogic Insight", "Ordinary People", "Levels of Understanding", "Refutation", "Conventional Consensus"],
+                    "transformative_goal": "To illustrate the progressive nature of understanding truth and to validate the yogic perspective as superior to ordinary views, while also acknowledging a hierarchy of insight among yogis.",
+                    "function_in_hierarchy": "Establishes a hierarchy of understanding regarding the two truths, positioning the Madhyamaka view (represented by higher yogis) as the most refined.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "An outline of the two truths",
+                        "related_node_number": "9.2.1.1",
+                        "relationship_type": "elaborates_on_implications_of",
+                        "conceptual_bridge": "Explores who understands the two truths and how different levels of understanding relate to each other."
+                      }
+                    ],
+                    "implicit_concepts": ["The value of experiential insight over mere belief", "The pragmatic approach in Buddhist philosophy (setting aside analysis for results)"],
+                    "commentary_insights": "The commentary details the classification: worldly yogis (with shamatha/vipashyana) and ordinary people (further divided into non-philosophical and philosophical, including non-Buddhist eternalists/nihilists). It then outlines the views of Buddhist schools (Vaibhashika, Sautrantika, Chittamatra, Madhyamaka), showing how higher views refute lower ones. Madhyamaka is presented as supreme. The refutation of ordinary views uses examples like mirages, accepted by both sides as illusory.",
+                    "commentary_citation": "Commentary on verses 3-4, under 'Concerning those who establish the two truths'.",
+                    "pedagogical_strategy": "Classification, comparative analysis, and establishing a hierarchy of views.",
+                    "audience_assumptions": "Some awareness of different philosophical schools, both Buddhist and non-Buddhist."
+                  },
+                  "children": []
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.2.1.3",
+                  "title": "Refutation of objections to the two truths",
+                  "verses_span": "5-15",
+                  "summary": {
+                    "content_summary": "This section addresses and refutes objections to the Madhyamaka understanding of the two truths, specifically those arising from ordinary people and Shravakas. It clarifies that the debate centers on the perceived reality of phenomena versus their illusory nature, and tackles arguments concerning the nature of 'things,' momentariness, merit from illusory Buddhas, rebirth of illusory beings, and the relationship between samsara and nirvana.",
+                    "key_concepts": ["Refutation", "Ordinary People's Objections", "Shravaka Objections", "Illusory Nature", "Momentariness", "Merit", "Rebirth", "Samsara", "Nirvana"],
+                    "transformative_goal": "To strengthen conviction in the Madhyamaka view of the two truths by demonstrating its logical coherence and its ability to withstand critiques from other perspectives.",
+                    "function_in_hierarchy": "Defends the Madhyamaka position on the two truths against common misunderstandings and criticisms, thereby solidifying its philosophical foundation.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Concerning those who establish the two truths",
+                        "related_node_number": "9.2.1.2",
+                        "relationship_type": "addresses_challenges_from",
+                        "conceptual_bridge": "Directly engages with the differing views outlined previously by refuting their objections to the Madhyamaka perspective."
+                      }
+                    ],
+                    "implicit_concepts": ["The importance of dialectic in clarifying truth", "The subtle distinctions between relative and ultimate perspectives on phenomena"],
+                    "commentary_insights": "The commentary systematically breaks down the objections. Ordinary people's view of phenomena as real is contrasted with the yogic understanding of their illusory nature. Shravaka objections regarding perceived forms, momentariness, merit from an illusory Buddha, rebirth, and the nature of samsara/nirvana are addressed by emphasizing the consistent application of relative and ultimate perspectives and the role of causes and conditions even for illusory phenomena.",
+                    "commentary_citation": "Commentary on verses 5-15, under 'Refutation of objections to the two truths', including sub-headings for ordinary people and Shravakas.",
+                    "pedagogical_strategy": "Dialectical refutation, addressing specific objections with reasoned arguments and scriptural interpretations.",
+                    "audience_assumptions": "Understanding of the basic tenets of the Shravaka school and common-sense objections to the idea of emptiness."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.2.1.3.1",
+                      "title": "Refutation of the objections of ordinary people",
+                      "verses_span": "5",
+                      "summary": {
+                        "content_summary": "This verse clarifies the core point of debate between ordinary people and yogis: ordinary people perceive phenomena as real and not illusory, which is the subject of disagreement.",
+                        "key_concepts": ["Ordinary Perception", "Reality vs. Illusion", "Point of Debate"],
+                        "transformative_goal": "To pinpoint the fundamental difference in perception that distinguishes the ordinary worldly view from the yogic understanding of emptiness.",
+                        "function_in_hierarchy": "Identifies the specific contention with the ordinary view, setting the stage for its refutation and the establishment of the yogic perspective.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Refutation of objections to the two truths",
+                            "related_node_number": "9.2.1.3",
+                            "relationship_type": "initiates_refutation_for_parent",
+                            "conceptual_bridge": "Begins the process of refuting objections by first clarifying the ordinary person's standpoint."
+                          }
+                        ],
+                        "implicit_concepts": ["The power of habitual perception", "The distinction between appearance and reality"],
+                        "commentary_insights": "The commentary explains that the disagreement is not about whether phenomena appear, but about their ontological status. Ordinary people believe things exist as they appear (real and absolute), while yogis understand that though they appear, they are like mirages, lacking true existence. This is the crux of the debate.",
+                        "commentary_citation": "Commentary on verse 5, under 'Refutation of the objections of ordinary people'.",
+                        "pedagogical_strategy": "Clarification of the opposing viewpoint as a prelude to refutation.",
+                        "audience_assumptions": "Recognition of the common-sense view that things are 'real'."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.2.1.3.2",
+                      "title": "Refutation of the objections of the Shravakas",
+                      "verses_span": "6-15",
+                      "summary": {
+                        "content_summary": "This series of verses refutes objections from the Shravaka school concerning the Madhyamaka view of emptiness and the two truths. Topics include: the perceived existence of forms (existing by acclaim, not valid reasoning); the Buddha's teaching on 'things' as expedient; momentariness as relative for yogis; how merit arises from an illusory Buddha; how illusory beings take rebirth (due to conditions); the distinction between illusory beings with minds and mindless magical illusions; and the non-reversion of Buddhahood to samsara if the causal stream is cut.",
+                        "key_concepts": ["Shravaka Objections", "Emptiness", "Illusory Nature", "Momentariness", "Merit", "Rebirth", "Causes and Conditions", "Samsara", "Nirvana", "Expedient Teaching"],
+                        "transformative_goal": "To demonstrate the consistency and profundity of the Madhyamaka view of emptiness against Shravaka critiques, showing how it accounts for conventional realities like merit and rebirth within an ultimate framework of emptiness.",
+                        "function_in_hierarchy": "Addresses specific doctrinal challenges from another major Buddhist school, thereby strengthening the Madhyamaka position on the two truths and emptiness.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Refutation of objections to the two truths",
+                            "related_node_number": "9.2.1.3",
+                            "relationship_type": "specific_case_of_refutation_for_parent",
+                            "conceptual_bridge": "Focuses the refutation on objections raised by the Shravaka school, a significant interlocutor in Buddhist philosophy."
+                          }
+                        ],
+                        "implicit_concepts": ["Levels of teaching (expedient vs. ultimate meaning)", "The compatibility of conventional functioning with ultimate emptiness", "The role of mind in distinguishing types of illusion"],
+                        "commentary_insights": "The commentary details Madhyamaka responses: forms exist by common consensus, not ultimate validation. Buddha's talk of 'things' was an expedient means. Momentariness is relative for yogis, ultimate for worldly beings (in a conventional sense). Illusory offerings to an illusory Buddha yield illusory merit, analogous to real offerings to a real Buddha for Shravakas. Rebirth of illusory beings occurs as long as conditions (karma, defiled emotion) persist. Beings have illusory minds, unlike mindless magical creations, allowing for sin/merit. Buddhahood doesn't revert to samsara because the causal stream for samsara is severed by wisdom.",
+                        "commentary_citation": "Commentary on verses 6-15, under 'Refutation of the objections of the Shravakas'.",
+                        "pedagogical_strategy": "Systematic point-by-point refutation of specific objections using logical arguments, analogies, and reinterpretation of shared concepts.",
+                        "audience_assumptions": "Familiarity with Shravaka tenets and their potential objections to a radical emptiness doctrine."
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.2.1.4",
+                  "title": "Refutation of the objections of the Chittamatrins",
+                  "verses_span": "16-29",
+                  "summary": {
+                    "content_summary": "This section refutes objections from the Chittamatra (Mind-Only) school. It challenges the Chittamatrin assertion that while external objects are illusory, the mind itself is truly existent and self-knowing. Arguments include: if the illusion (object) has no being, what perceives it?; if the mirage is mind, what is perceived by what?; mind cannot see mind (like a sword cutting itself); the flame analogy for self-illumination is flawed; issues with memory if mind isn't self-knowing are addressed; the problem of an isolated, objectless mind implying all are Buddhas; and the ultimate purpose of asserting 'Only Mind'.",
+                    "key_concepts": ["Chittamatra (Mind-Only)", "Self-knowing Mind (Svasaṃvedana)", "Illusion", "External Objects", "Subject-Object Duality", "True Existence of Mind"],
+                    "transformative_goal": "To dismantle the Chittamatrin view of a truly existent, self-knowing mind, thereby guiding the practitioner towards the Madhyamaka understanding of the emptiness of both external objects and consciousness itself.",
+                    "function_in_hierarchy": "Addresses and refutes the tenets of another major Mahayana philosophical school, further refining the Madhyamaka view by showing the emptiness of consciousness.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Wisdom established by means of the view",
+                        "related_node_number": "9.2.1",
+                        "relationship_type": "continues_refutation_for_parent",
+                        "conceptual_bridge": "Extends the process of establishing the Madhyamaka view by refuting the more subtle assertion of the Chittamatrins regarding the reality of mind."
+                      }
+                    ],
+                    "implicit_concepts": ["The emptiness of consciousness", "The problem of reifying mind", "The consistent application of emptiness to all phenomena, including the knowing subject"],
+                    "commentary_insights": "The commentary explains the Chittamatrin (True Aspectarian) view that external objects are mind-dependent illusions but mind itself is real. Madhyamaka counters: if objects are unreal, what perceives them? If the object is mind, subject-object identity prevents perception. The Buddha taught mind cannot see mind. The flame analogy is refuted (flame isn't dark, needs no illumination). Memory arises from interdependence with past objects, not past self-knowing. Seeing others' minds via powers doesn't imply self-seeing (like medicated eye seeing treasure but not salve). The aim is to undermine belief in true existence, not deny experience. If mind is real and aspects unreal, they can't be identical or different in a coherent way. An isolated, objectless real mind would mean all are already Buddhas, making the 'Only Mind' thesis pointless.",
+                    "commentary_citation": "Commentary on verses 16-29, under 'Refutation of the objections of the Chittamatrins'.",
+                    "pedagogical_strategy": "Systematic refutation of a sophisticated philosophical opponent using their own examples and logical entailments, pushing the analysis of emptiness to include consciousness itself.",
+                    "audience_assumptions": "Familiarity with Chittamatra philosophy, particularly the concepts of dependent reality and self-cognizing consciousness."
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "subsection",
+              "number": "9.2.2",
+              "title": "Refutation of objections with regard to the path, that is, emptiness",
+              "verses_span": "30-34",
+              "summary": {
+                "content_summary": "This subsection addresses objections concerning the efficacy of emptiness as a path. It tackles the doubt that knowing all is illusion might not dispel afflictive passion, using the example of a magician desiring his own illusion. The solution lies in eradicating habitual tendencies through training in emptiness. This training eventually leads to abandoning even the concept of 'nothingness,' resulting in a mind free from concepts.",
+                "key_concepts": ["Path of Emptiness", "Afflictive Passion", "Illusion", "Habitual Tendencies", "Training in Emptiness", "Non-conceptuality"],
+                "transformative_goal": "To establish confidence in emptiness as an effective spiritual path that can overcome afflictive emotions and lead to a state beyond conceptualization.",
+                "function_in_hierarchy": "Defends the practical application of the view of emptiness as a transformative path, linking the philosophical understanding to soteriological outcomes.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Detailed explanation",
+                    "related_node_number": "9.2",
+                    "relationship_type": "addresses_practical_objections_within_parent",
+                    "conceptual_bridge": "Shifts from establishing the view to defending its efficacy as a path to liberation."
+                  }
+                ],
+                "implicit_concepts": ["The role of habit in maintaining delusion and passion", "The self-liberating nature of the path of emptiness"],
+                "commentary_insights": "The commentary explains that a magician desires his illusion because he hasn't eradicated his own habitual patterns of desire and his aptitude for emptiness is weak. Training in emptiness relinquishes the habit of perceiving real things. Further training in 'there isn't anything' leads to abandoning this view itself, as 'nothingness' cannot stand as a conceptual target without support. When both existence and nonexistence are absent from the mind, it rests in non-conceptual peace.",
+                "commentary_citation": "Commentary on verses 30-34, under 'Refutation of objections with regard to the path, that is, emptiness'.",
+                "pedagogical_strategy": "Addressing practical skepticism with psychological explanations and outlining a progressive meditative process.",
+                "audience_assumptions": "Concern about the practical effectiveness of a seemingly nihilistic view in dealing with powerful emotions."
+              },
+              "children": []
+            },
+            {
+              "level": "subsection",
+              "number": "9.2.3",
+              "title": "Refutation of objections with regard to the fruit, that is, the benefit of others",
+              "verses_span": "35-39",
+              "summary": {
+                "content_summary": "This section refutes objections concerning the fruit of the path, specifically how enlightened beings, free from discursiveness, can benefit others. It uses analogies like the wish-fulfilling jewel and a healing shrine that functions even after its creator's demise. It also addresses how offerings to such beings yield merit, asserting that scripture supports this regardless of whether Buddhas are considered relatively or ultimately real.",
+                "key_concepts": ["Fruit of Enlightenment", "Benefit of Others", "Non-discursive Mind", "Wish-Fulfilling Jewel", "Offerings", "Merit"],
+                "transformative_goal": "To resolve doubts about how a non-conceptual, enlightened state can actively benefit sentient beings, thereby affirming the compassionate outcome of realizing emptiness.",
+                "function_in_hierarchy": "Connects the realization of emptiness (the path) to its compassionate fruition, ensuring the Bodhisattva ideal is upheld within the Madhyamaka framework.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Detailed explanation",
+                    "related_node_number": "9.2",
+                    "relationship_type": "addresses_soteriological_objections_within_parent",
+                    "conceptual_bridge": "Explains how the ultimate attainment (fruit) is compatible with the Bodhisattva's aim of benefiting others."
+                  }
+                ],
+                "implicit_concepts": ["The power of past aspirations", "The non-conceptual nature of enlightened activity", "The compatibility of emptiness and compassionate action"],
+                "commentary_insights": "The commentary explains that Buddhas benefit beings through the power of their former aspirations, appearing in forms appropriate to needs, like a wish-fulfilling jewel. The analogy of a garuḍa shrine built by a long-dead brahmin illustrates how past actions can have continued effects. Similarly, Bodhisattvas, though passed beyond grief, satisfy all ends. Offerings to non-discursive Buddhas yield merit, as scripture states offerings to living Buddhas or their relics are equal, whether viewed relatively (illusory offerings to illusory Buddha) or from a realist standpoint.",
+                "commentary_citation": "Commentary on verses 35-39, under 'Refutation of objections with regard to the fruit, that is, the benefit of others'.",
+                "pedagogical_strategy": "Use of analogies and scriptural authority to address concerns about the practical outcomes of enlightenment.",
+                "audience_assumptions": "Concern that a state of emptiness might preclude compassionate activity or the efficacy of devotional practices."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "section",
+          "number": "9.3",
+          "title": "Proofs of the supremacy of the Mahayana",
+          "verses_span": "40-51",
+          "summary": {
+            "content_summary": "This section argues for the supremacy and authenticity of the Mahayana teachings. It counters Shravaka claims that realizing the Four Noble Truths alone is sufficient for liberation, asserting that scripture proclaims enlightenment is impossible without the path of emptiness. It challenges Shravakas on how they substantiate their own tradition, arguing that Mahayana can use similar justifications. It refutes the idea that being contested invalidates Mahayana, points out difficulties in the Shravaka path to complete liberation due to lack of emptiness realization, and argues for Mahayana's scriptural consistency and profundity, which might not be grasped even by great disciples like Mahakashyapa.",
+            "key_concepts": ["Mahayana Supremacy", "Authenticity of Teachings", "Emptiness", "Four Noble Truths", "Shravakayana", "Liberation", "Scriptural Authority"],
+            "transformative_goal": "To establish the Mahayana path, particularly its emphasis on emptiness, as the complete and superior path to full enlightenment, and to affirm its legitimacy as the Buddha's teaching.",
+            "function_in_hierarchy": "Validates the Mahayana framework, which is the context for the chapter's teachings on wisdom, by addressing claims from other Buddhist schools.",
+            "inter_node_relationships": [
+              {
+                "related_node_title": "Wisdom (Chapter 9)",
+                "related_node_number": "9",
+                "relationship_type": "justifies_framework_of_parent",
+                "conceptual_bridge": "Provides arguments for why the Mahayana understanding of wisdom (emptiness) is essential and authoritative."
+              }
+            ],
+            "implicit_concepts": ["The concept of a 'complete' teaching", "The limitations of partial realization", "The depth of the Buddha's wisdom exceeding initial comprehension by all disciples"],
+            "commentary_insights": "The commentary explains that Shravakas who reject Mahayana's emptiness teaching cannot fully uproot afflictive emotions. It refutes Shravaka arguments for their canon's authenticity by showing Mahayana has similar or stronger claims (Buddha's teaching, compilation by great Bodhisattvas, lineage). If being contested invalidates a teaching, Shravakayana itself would be invalid. It argues Shravaka Arhats still have non-afflictive ignorance and craving due to not realizing phenomenal No-Self, thus their liberation isn't final. Mahayana's profundity means it might not be immediately grasped by all, including some great Arhats.",
+            "commentary_citation": "Commentary on verses 40-51, under 'Proofs of the supremacy of the Mahayana'.",
+            "pedagogical_strategy": "Comparative argument, logical refutation of counter-claims, and assertion of Mahayana's unique strengths and scriptural basis.",
+            "audience_assumptions": "Awareness of inter-school debates within Buddhism, particularly between Mahayana and Shravakayana perspectives."
+          },
+          "children": [
+            {
+              "level": "subsection",
+              "number": "9.3.1",
+              "title": "The Mahayana is the Buddha’s teaching",
+              "verses_span": "40-51",
+              "summary": {
+                "content_summary": "This subsection directly argues that the Mahayana is the authentic teaching of the Buddha. It counters Shravaka claims that their path (Four Truths) is sufficient, stating scriptures link enlightenment to emptiness. It questions Shravaka scriptural validation, applying similar logic to Mahayana. It refutes that being contested makes Mahayana faulty, noting Shravaka texts are also contested. It highlights the difficulty of true liberation without emptiness, suggesting Shravaka Arhats may still have subtle karmic influences and non-afflictive craving. It argues for Mahayana's consistency with Shravaka sutras and its profundity, which might be beyond the grasp of some, including Mahakashyapa.",
+                "key_concepts": ["Mahayana Authenticity", "Buddha's Teaching", "Emptiness vs. Four Truths", "Scriptural Validation", "Contested Doctrines", "Complete Liberation", "Profundity of Mahayana"],
+                "transformative_goal": "To instill confidence in the Mahayana as the genuine and complete teaching of the Buddha, necessary for attaining full enlightenment.",
+                "function_in_hierarchy": "Provides the direct arguments and refutations to establish the Mahayana's legitimacy within the broader section on its supremacy.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Proofs of the supremacy of the Mahayana",
+                    "related_node_number": "9.3",
+                    "relationship_type": "core_argument_of_parent",
+                    "conceptual_bridge": "Contains the specific textual arguments supporting the parent section's claim about Mahayana's supremacy."
+                  }
+                ],
+                "implicit_concepts": ["The idea of a 'higher' or more complete vehicle", "Progressive revelation of Dharma", "The limits of initial understanding even among advanced disciples"],
+                "commentary_insights": "The commentary elaborates on each point: Shravakas' rejection of emptiness prevents full liberation. Mahayana's scriptural authenticity is as strong or stronger than Shravakayana's. If contestation invalidates, all Buddhist schools would be invalid. Shravaka Arhats, lacking full realization of emptiness (phenomenal No-Self), still possess subtle non-afflictive ignorance and craving, preventing ultimate nirvana. Mahayana's depth means it's not easily understood, even by figures like Mahakashyapa, which doesn't negate its authenticity.",
+                "commentary_citation": "Commentary on verses 40-51, under 'The Mahayana is the Buddha’s teaching'.",
+                "pedagogical_strategy": "Direct argumentation, refutation of counter-arguments, scriptural reasoning, and appeals to the depth of the teachings.",
+                "audience_assumptions": "Familiarity with Shravaka claims and a willingness to consider arguments for Mahayana's unique status."
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": "section",
+          "number": "9.4",
+          "title": "Proofs that the theory and practice of emptiness are the real solution",
+          "verses_span": "52-56",
+          "summary": {
+            "content_summary": "This section proves that understanding and practicing emptiness is the true solution to suffering. It states that realizing emptiness allows one to abide in samsara without craving or fear to benefit others. Emptiness is the cure for both afflictive and cognitive obscurations, essential for omniscience. Far from being fearsome, emptiness allays grief, and since no 'I' truly exists, there's nothing for fear to torment.",
+            "key_concepts": ["Emptiness as Solution", "Benefit of Others", "Freedom from Craving/Fear", "Afflictive Obscurations", "Cognitive Obscurations", "Omniscience", "No-Self and Fearlessness"],
+            "transformative_goal": "To instill conviction that emptiness is not a nihilistic void but a liberating understanding that resolves suffering, facilitates compassion, and removes fear.",
+            "function_in_hierarchy": "Establishes the soteriological value of emptiness, connecting the philosophical view to its practical benefits and transformative power.",
+            "inter_node_relationships": [
+              {
+                "related_node_title": "Wisdom (Chapter 9)",
+                "related_node_number": "9",
+                "relationship_type": "demonstrates_efficacy_of_core_theme",
+                "conceptual_bridge": "Shows why the wisdom of emptiness, the chapter's focus, is the ultimate solution to the problem of suffering."
+              }
+            ],
+            "implicit_concepts": ["The unity of wisdom and compassion", "The psychological benefits of realizing No-Self", "Emptiness as a positive, liberating principle"],
+            "commentary_insights": "The commentary explains that realizing emptiness allows Bodhisattvas to remain in samsara for others, free from attachment or aversion. Emptiness is the sole remedy for both types of obscurations. It shouldn't be feared, as it pacifies suffering. Since the 'self' is non-existent, fear has no object. This section encourages meditation on emptiness without doubt.",
+            "commentary_citation": "Commentary on verses 52-56, under 'Proofs that the theory and practice of emptiness are the real solution'.",
+            "pedagogical_strategy": "Positive framing of emptiness, addressing potential fears, and highlighting its comprehensive benefits.",
+            "audience_assumptions": "Potential apprehension about the implications of emptiness, and a desire for a practical solution to suffering and obscurations."
+          },
+          "children": []
+        },
+        {
+          "level": "section",
+          "number": "9.5",
+          "title": "Wisdom experienced by means of meditation",
+          "verses_span": "57-110",
+          "summary": {
+            "content_summary": "This section details how wisdom is experienced through meditation. It covers meditation on the absence of self in individuals (analyzing the body and consciousness to refute coemergent and imputed self) and the absence of self in phenomena (through close mindfulness of body, feelings, and mind). It also refutes objections related to the two truths and the process of analysis itself, concluding that analysis leads to the cessation of concepts, which is nirvana.",
+            "key_concepts": ["Meditative Experience", "Absence of Self in Individuals (Pudgala-nairātmya)", "Absence of Self in Phenomena (Dharma-nairātmya)", "Close Mindfulness (Smṛtyupasthāna)", "Body", "Feelings", "Mind", "Analysis", "Nirvana"],
+            "transformative_goal": "To guide the practitioner in the actual meditative practices that lead to the direct experience of emptiness and No-Self, transforming intellectual understanding into realization.",
+            "function_in_hierarchy": "Transitions from philosophical exposition to practical meditative instruction, providing the methods for realizing the wisdom previously discussed.",
+            "inter_node_relationships": [
+              {
+                "related_node_title": "Proofs that the theory and practice of emptiness are the real solution",
+                "related_node_number": "9.4",
+                "relationship_type": "provides_method_for_achieving",
+                "conceptual_bridge": "Offers the meditative techniques to actualize the solution (emptiness) previously proven."
+              }
+            ],
+            "implicit_concepts": ["The necessity of meditation for realization", "The analytical nature of insight meditation (Vipassanā)", "The progressive deconstruction of perceived reality"],
+            "commentary_insights": "The commentary explains the systematic analysis of the 'I' in relation to the aggregates (body, consciousness) to demonstrate personal No-Self. Then, it details the analysis of phenomena (body parts, feelings, mind) to establish phenomenal No-Self. Objections regarding the two truths and infinite regress of analysis are resolved by showing that analysis ultimately leads to the exhaustion of conceptual targets, which is nirvana.",
+            "commentary_citation": "Commentary on verses 57-110, under 'Wisdom experienced by means of meditation'.",
+            "pedagogical_strategy": "Detailed instructions for analytical meditation, systematic deconstruction of self and phenomena, and refutation of practical objections to the meditative process.",
+            "audience_assumptions": "A practitioner ready to engage in rigorous analytical meditation and seeking guidance on how to realize emptiness directly."
+          },
+          "children": [
+            {
+              "level": "subsection",
+              "number": "9.5.1",
+              "title": "Meditation on the absence of self in individuals",
+              "verses_span": "57-77",
+              "summary": {
+                "content_summary": "This subsection details the meditation to realize the absence of self in individuals (pudgala-nairātmya). It involves analyzing the coemergent self (the innate sense of 'I') by examining body parts and consciousness, finding no 'I' therein. It then refutes the imputed self (philosophical concepts of self, e.g., a conscious or unconscious self). Finally, it answers objections concerning the implications of No-Self for karma, compassion, and the attainment of results.",
+                "key_concepts": ["Absence of Self in Individuals (Pudgala-nairātmya)", "Coemergent Self", "Imputed Self", "Analysis of Body", "Analysis of Consciousness", "Karma and No-Self", "Compassion and No-Self"],
+                "transformative_goal": "To dismantle the belief in a real, independent personal self, which is the root of suffering, through systematic analytical meditation.",
+                "function_in_hierarchy": "Provides the specific meditative technique for realizing the first type of No-Self (personal), a crucial step in understanding emptiness.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Wisdom experienced by means of meditation",
+                    "related_node_number": "9.5",
+                    "relationship_type": "first_stage_of_meditative_practice_in_parent",
+                    "conceptual_bridge": "Initiates the meditative practices by focusing on the deconstruction of the personal self."
+                  }
+                ],
+                "implicit_concepts": ["The constructed nature of self-identity", "The link between ego-clinging and suffering", "The compatibility of No-Self with ethical responsibility and compassion"],
+                "commentary_insights": "The commentary explains how to analyze the 'I' in relation to body parts (teeth, hair, bones, etc.) and consciousness, finding it neither identical nor separate. It refutes Samkhya's conscious self (purusha) and Naiyayika's unconscious self. Objections are answered: karma functions via mental continuum, not a permanent self; compassion is for beings imputed by ignorance; the goal (nirvana) conceived by ignorance is pursued to end sorrow from false belief in self.",
+                "commentary_citation": "Commentary on verses 57-77, under 'Meditation on the absence of self in individuals'.",
+                "pedagogical_strategy": "Systematic deconstruction of the self through analytical meditation, refutation of specific philosophical views of self, and addressing practical and ethical objections.",
+                "audience_assumptions": "The practitioner holds an innate belief in a personal self and may have concerns about the ethical implications of No-Self."
+              },
+              "children": [
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.1.1",
+                  "title": "Meditation on the emptiness of the coemergent self",
+                  "verses_span": "57-59",
+                  "summary": {
+                    "content_summary": "These verses guide the meditation on the emptiness of the coemergent self, the innate feeling of 'I'. This is done by systematically examining various body parts (teeth, hair, nails, bones, blood, organs, flesh, skin, warmth, breath) and the sixfold consciousness, concluding that none of these, individually or collectively, constitute the 'I'.",
+                    "key_concepts": ["Coemergent Self", "Innate 'I'", "Analysis of Body Parts", "Sixfold Consciousness", "Emptiness of Self"],
+                    "transformative_goal": "To deconstruct the intuitive, unanalyzed sense of a solid, existing 'I' by demonstrating its unfindability within the physical and mental components of a person.",
+                    "function_in_hierarchy": "Initiates the meditation on personal No-Self by targeting the most fundamental, pre-philosophical clinging to an 'I'.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Meditation on the absence of self in individuals",
+                        "related_node_number": "9.5.1",
+                        "relationship_type": "foundational_analysis_for_parent",
+                        "conceptual_bridge": "Provides the initial analytical steps for realizing personal No-Self by examining the constituents of the person."
+                      }
+                    ],
+                    "implicit_concepts": ["The body and mind as composite and impermanent", "The 'I' as a designation rather than an inherent entity"],
+                    "commentary_insights": "The commentary explains that the 'I' identified with the five aggregates must be sought among them. It details how analyzing each body part (teeth, hair, etc.) and consciousness reveals they are not the self due to being inanimate, impermanent, multiple, or ceasing. This is likened to mistaking a rope for a snake in dim light; clear examination (like a bright lamp) reveals the 'I' is a mere imputation on the aggregates.",
+                    "commentary_citation": "Commentary on verses 57-59, under 'Meditation on the emptiness of the coemergent self'.",
+                    "pedagogical_strategy": "Systematic, itemized deconstruction of the physical and mental basis of self-identification.",
+                    "audience_assumptions": "The universal human experience of an innate sense of 'I' associated with the body and mind."
+                  },
+                  "children": []
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.1.2",
+                  "title": "Meditation on the emptiness of the imputed self",
+                  "verses_span": "60-69",
+                  "summary": {
+                    "content_summary": "This section focuses on meditating on the emptiness of the imputed self, specifically refuting philosophical notions of a self that is either conscious (e.g., Samkhya's purusha) or unconscious (e.g., Vaisheshika). Arguments against a permanent conscious self include issues of constant perception, objectless consciousness, and the impossibility of one consciousness transforming into another. Arguments against an unconscious self highlight its inertness and inability to experience.",
+                    "key_concepts": ["Imputed Self", "Conscious Self (Purusha)", "Unconscious Self", "Permanence", "Samkhya", "Vaisheshika/Naiyayika", "Refutation of Philosophical Self"],
+                    "transformative_goal": "To dismantle philosophically constructed notions of a self, complementing the deconstruction of the innate 'I', thereby clearing away more sophisticated forms of self-clinging.",
+                    "function_in_hierarchy": "Addresses and refutes specific philosophical theories of the self, ensuring a comprehensive understanding of personal No-Self.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Meditation on the absence of self in individuals",
+                        "related_node_number": "9.5.1",
+                        "relationship_type": "refutes_philosophical_supports_for_parent_negation",
+                        "conceptual_bridge": "Targets intellectualized versions of self after addressing the coemergent 'I', to ensure no basis for self-clinging remains."
+                      }
+                    ],
+                    "implicit_concepts": ["The limitations of philosophical speculation in defining self", "The consistency of No-Self across different conceptualizations"],
+                    "commentary_insights": "The commentary details the refutation of the Samkhya view of a permanent, conscious self (purusha): if permanent, it should always perceive or be objectless. The 'father-son' analogy is dismissed. If consciousness is just 'knowing,' all beings are one. An unconscious self (Naiyayika) is like a vase, unable to experience; if it gains consciousness when joined with mind, its unconscious nature is refuted. An immutable self cannot be affected by mind.",
+                    "commentary_citation": "Commentary on verses 60-69, under 'Meditation on the emptiness of the imputed self', including refutations of conscious and unconscious self.",
+                    "pedagogical_strategy": "Dialectical refutation of specific philosophical schools (Samkhya, Naiyayika/Vaisheshika) by exposing internal contradictions and absurd consequences of their views on self.",
+                    "audience_assumptions": "Familiarity with or potential adherence to non-Buddhist Indian philosophical views on the nature of the self (atman)."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.1.2.1",
+                      "title": "Refutation of the belief in a self that is conscious",
+                      "verses_span": "60-67",
+                      "summary": {
+                        "content_summary": "These verses refute the belief in a permanent, conscious self (as held by schools like Samkhya). Arguments include: if hearing consciousness is permanent, it must hear always; if objectless, it's not consciousness; if it's like a stick, it's not conscious. If one consciousness (e.g., sound-perceiver) becomes another (e.g., form-perceiver), it's impermanent. The analogy of a man being son and father is about labels, not inherent nature. If its essence is 'knowing,' all beings become one, and conscious/unconscious things become identical.",
+                        "key_concepts": ["Conscious Self", "Permanent Self", "Samkhya", "Refutation", "Nature of Consciousness", "Impermanence"],
+                        "transformative_goal": "To dismantle the specific philosophical view of an eternal, conscious self by exposing its logical inconsistencies and absurd implications.",
+                        "function_in_hierarchy": "Provides detailed arguments against one major type of imputed self (conscious and permanent), contributing to the overall refutation of a substantial self.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Meditation on the emptiness of the imputed self",
+                            "related_node_number": "9.5.1.2",
+                            "relationship_type": "specific_argument_within_parent_refutation",
+                            "conceptual_bridge": "Focuses on disproving the notion of a self that is inherently conscious and eternal."
+                          }
+                        ],
+                        "implicit_concepts": ["The conditioned nature of consciousness", "The distinction between conventional labels and inherent nature", "The problems of reifying consciousness"],
+                        "commentary_insights": "The commentary explains these arguments against the Samkhya purusha. A permanent consciousness without an object is not consciousness. If it changes objects, it's not permanent. The father/son analogy is about mere labels. If consciousness is simply 'knowing,' then all beings, and even conscious and unconscious entities, become indistinguishable and one. If different modes of consciousness are unreal, its underlying real essence cannot be established.",
+                        "commentary_citation": "Commentary on verses 60-67, under 'Refutation of the belief in a self that is conscious'.",
+                        "pedagogical_strategy": "Logical deduction, reductio ad absurdum arguments, and critical analysis of analogies used by opponents.",
+                        "audience_assumptions": "Familiarity with Samkhya philosophy or similar views positing an eternal, conscious soul."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.1.2.2",
+                      "title": "Refutation of the belief in a self that is unconscious",
+                      "verses_span": "68-69",
+                      "summary": {
+                        "content_summary": "These verses refute the belief in an unconscious self (as held by schools like Vaisheshika/Naiyayika). An unconscious self is like matter (a vase) and cannot be a self. If it gains consciousness when joined to mind, its unconscious nature is refuted. If immutable, mind cannot change it. Such a self would be like empty space, inert and mindless.",
+                        "key_concepts": ["Unconscious Self", "Naiyayika/Vaisheshika", "Refutation", "Immutability", "Inertness"],
+                        "transformative_goal": "To dismantle the specific philosophical view of an eternal, unconscious self by showing its inability to function as a self or interact meaningfully with consciousness.",
+                        "function_in_hierarchy": "Provides detailed arguments against another major type of imputed self (unconscious and permanent), completing the refutation of common philosophical self-constructs.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Meditation on the emptiness of the imputed self",
+                            "related_node_number": "9.5.1.2",
+                            "relationship_type": "specific_argument_within_parent_refutation",
+                            "conceptual_bridge": "Focuses on disproving the notion of a self that is inherently unconscious and eternal, complementing the previous refutation."
+                          }
+                        ],
+                        "implicit_concepts": ["The functional requirements of a 'self' (e.g., capacity for experience)", "The problem of interaction between dissimilar substances (immutable self and changing mind)"],
+                        "commentary_insights": "The commentary explains these arguments against the Naiyayika view. A mindless self is like a jug, incapable of experience. If it becomes conscious through mind, it's no longer inherently unconscious and becomes impermanent. An immutable self cannot be affected or changed by consciousness. Attributing selfhood to something inert like space is a mere dogmatic claim.",
+                        "commentary_citation": "Commentary on verses 68-69, under 'Refutation of the belief in a self that is unconscious'.",
+                        "pedagogical_strategy": "Logical deduction and highlighting the functional inadequacy of the proposed unconscious self.",
+                        "audience_assumptions": "Familiarity with Vaisheshika/Naiyayika philosophy or similar views positing an eternal, unconscious self/soul."
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.1.3",
+                  "title": "Answers to objections concerning the nonexistence of the self",
+                  "verses_span": "70-77",
+                  "summary": {
+                    "content_summary": "This section addresses objections arising from the doctrine of No-Self. It explains that No-Self is compatible with cause and effect (karma), as actions and results connect within a single mental stream, not via a permanent self. It affirms compassion for beings imputed by ignorance. It clarifies that the conventionally designated self and its pursuit of a goal (like ending sorrow) are not refuted in a way that undermines practice, as meditation on No-Self is the supreme way to end suffering caused by belief in self.",
+                    "key_concepts": ["No-Self (Anātman)", "Karma", "Cause and Effect", "Mental Continuum", "Compassion", "Conventional Designation", "Meditation on No-Self"],
+                    "transformative_goal": "To alleviate concerns that the doctrine of No-Self undermines ethical responsibility, compassion, or the pursuit of liberation, and to reinforce No-Self meditation as the key to ending suffering.",
+                    "function_in_hierarchy": "Resolves potential contradictions and practical concerns arising from the realization of personal No-Self, ensuring the teaching is understood in a balanced way.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Meditation on the absence of self in individuals",
+                        "related_node_number": "9.5.1",
+                        "relationship_type": "clarifies_implications_of_parent_realization",
+                        "conceptual_bridge": "Addresses the practical and ethical consequences of realizing personal No-Self, ensuring it doesn't lead to nihilism."
+                      }
+                    ],
+                    "implicit_concepts": ["The distinction between ultimate non-existence and conventional functioning", "The pragmatic value of certain conventional notions on the path"],
+                    "commentary_insights": "The commentary explains: karma functions because the basis of action and fruit are different aggregates within one mental stream, not a permanent self. Compassion is for beings imputed by ignorance. The conventionally designated self and its goal (nirvana) are accepted on the relative level to overcome suffering. The root of sorrow is ego-clinging arising from false belief in self; meditation on No-Self is the supreme remedy.",
+                    "commentary_citation": "Commentary on verses 70-77, under 'Answers to objections concerning the nonexistence of the self'.",
+                    "pedagogical_strategy": "Addressing and resolving apparent paradoxes, clarifying the relationship between ultimate truth and conventional practice.",
+                    "audience_assumptions": "Concerns about nihilistic interpretations of No-Self and its impact on ethics and compassion."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.1.3.1",
+                      "title": "The nonexistence of the self is not incompatible with the principle of cause and effect",
+                      "verses_span": "70-74",
+                      "summary": {
+                        "content_summary": "These verses argue that No-Self doesn't negate karma. If the doer vanishes post-act, who reaps the fruit? The reply is that the bases of act and fruit are different (aggregates), and a permanent self is actionless anyway. Connection is via a single mental stream. Past/future thoughts aren't self; present thought is transient. Analysis, like dissecting a banana tree, finds no underlying self.",
+                        "key_concepts": ["No-Self and Karma", "Cause and Effect", "Mental Continuum", "Impermanence of Self/Thoughts", "Analytical Meditation"],
+                        "transformative_goal": "To demonstrate that ethical accountability (karma) can function without a permanent self, relying instead on the continuity of consciousness.",
+                        "function_in_hierarchy": "Addresses a major ethical objection to the No-Self doctrine, ensuring its compatibility with moral responsibility.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Answers to objections concerning the nonexistence of the self",
+                            "related_node_number": "9.5.1.3",
+                            "relationship_type": "specific_objection_addressed_by_parent",
+                            "conceptual_bridge": "Focuses on the crucial issue of how karma operates in the absence of an enduring self."
+                          }
+                        ],
+                        "implicit_concepts": ["The dynamic nature of identity", "Responsibility without a fixed agent", "The 'banana tree' analogy for insubstantiality"],
+                        "commentary_insights": "The commentary explains that both Madhyamikas and opponents agree that aggregates at the time of action and fruition differ. A permanent self would be actionless. The Buddha taught results ripen on aggregates assumed by consciousness in a single mental stream. The 'banana tree' analogy shows that analytical investigation reveals no substantial self.",
+                        "commentary_citation": "Commentary on verses 70-74, under 'The nonexistence of the self is not incompatible with the principle of cause and effect'.",
+                        "pedagogical_strategy": "Logical argument, appeal to scriptural authority (Buddha's teaching on karma), and use of analogy.",
+                        "audience_assumptions": "Concern that No-Self implies a lack of moral continuity and accountability."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.1.3.2",
+                      "title": "The nonexistence of the self is not incompatible with compassion",
+                      "verses_span": "75",
+                      "summary": {
+                        "content_summary": "This verse addresses the objection: if beings don't exist, who is the object of compassion? The answer is: those whom ignorance imputes as existing, for whose sake Bodhisattvas have pledged themselves.",
+                        "key_concepts": ["No-Self and Compassion", "Imputed Beings", "Ignorance", "Bodhisattva Vow"],
+                        "transformative_goal": "To show that compassion remains valid and necessary even when realizing No-Self, as it is directed towards conventionally existing beings suffering due to ignorance.",
+                        "function_in_hierarchy": "Addresses a major altruistic objection to the No-Self doctrine, ensuring its compatibility with the Bodhisattva ideal.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Answers to objections concerning the nonexistence of the self",
+                            "related_node_number": "9.5.1.3",
+                            "relationship_type": "specific_objection_addressed_by_parent",
+                            "conceptual_bridge": "Focuses on how compassion can be directed towards beings if they ultimately lack inherent existence."
+                          }
+                        ],
+                        "implicit_concepts": ["Compassion based on relative truth", "The Bodhisattva's understanding of both truths simultaneously"],
+                        "commentary_insights": "The commentary clarifies that ultimately there's no object/agent of compassion. However, beings impute a self due to ignorance and suffer. Bodhisattvas, realizing No-Self, feel compassion for these beings who don't realize it and suffer from their belief in selfhood. Their compassion is for those existing conventionally due to ignorance.",
+                        "commentary_citation": "Commentary on verse 75, under 'The nonexistence of the self is not incompatible with compassion'.",
+                        "pedagogical_strategy": "Reconciling ultimate truth (No-Self) with relative ethical imperatives (compassion) by grounding compassion in the ignorant suffering of conventionally perceived beings.",
+                        "audience_assumptions": "Concern that No-Self might undermine the motivation for compassionate action."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.1.3.3",
+                      "title": "A demonstration that the self as label is not refuted",
+                      "verses_span": "76-77",
+                      "summary": {
+                        "content_summary": "These verses address: if no beings, who gains the fruit (of practice)? The answer is that beings are said to exist through ignorance, but the goal (ending sorrow), also conceived by ignorance, shouldn't be spurned. The source of sorrow is the pride of 'I' from false belief in self; meditation on No-Self is the supreme way to overcome this.",
+                        "key_concepts": ["Conventional Self (Label)", "Ignorance", "Attainment of Fruit", "Pride of 'I'", "Meditation on No-Self"],
+                        "transformative_goal": "To clarify that while the ultimate self is refuted, the conventional self and its pursuit of liberation are pragmatically accepted on the path, and that No-Self meditation is the means to this liberation.",
+                        "function_in_hierarchy": "Reconciles the refutation of an ultimate self with the practical necessity of a conventional agent pursuing a path and goal.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Answers to objections concerning the nonexistence of the self",
+                            "related_node_number": "9.5.1.3",
+                            "relationship_type": "specific_objection_addressed_by_parent",
+                            "conceptual_bridge": "Explains how the path and its results are meaningful for a conventionally designated self, even if an ultimate self is denied."
+                          }
+                        ],
+                        "implicit_concepts": ["The pragmatic use of conventional reality on the path", "The self-consuming nature of the path (using ignorance-based concepts to overcome ignorance)"],
+                        "commentary_insights": "The commentary explains that on the ultimate level, neither the attainer, the beings, nor the result truly exist. However, for beings perceiving through ignorance, samsara and nirvana appear. The goal of nirvana, though conventionally conceived, is pursued to end suffering. The ignorance of believing in an inherently existing self is the root of suffering and is overcome by meditating on No-Self, while the conventional designation of self is not the target of refutation in the same way.",
+                        "commentary_citation": "Commentary on verses 76-77, under 'A demonstration that the self as label is not refuted'.",
+                        "pedagogical_strategy": "Distinguishing between the refutation of an inherently existent self and the pragmatic acceptance of a conventionally designated self for the purpose of practice.",
+                        "audience_assumptions": "Concern that refuting the self makes the entire spiritual path and its goals meaningless."
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "subsection",
+              "number": "9.5.2",
+              "title": "Meditation on the absence of self in phenomena",
+              "verses_span": "78-105",
+              "summary": {
+                "content_summary": "This subsection details the meditation to realize the absence of self in phenomena (dharma-nairātmya). It involves applying close mindfulness to the body (analyzing its parts down to particles), feelings (examining their nature, cause, result, and subject), and mind (investigating its location and origin). This deconstruction reveals the emptiness of all constituent elements of experience.",
+                "key_concepts": ["Absence of Self in Phenomena (Dharma-nairātmya)", "Close Mindfulness (Smṛtyupasthāna)", "Body", "Feelings", "Mind", "Emptiness of Phenomena", "Analytical Meditation"],
+                "transformative_goal": "To dismantle the belief in the inherent existence of all phenomena (dharmas), extending the realization of No-Self beyond the person to encompass all aspects of reality.",
+                "function_in_hierarchy": "Provides the meditative techniques for realizing the second, more comprehensive type of No-Self (phenomenal), building upon the realization of personal No-Self.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Meditation on the absence of self in individuals",
+                    "related_node_number": "9.5.1",
+                    "relationship_type": "extends_realization_of",
+                    "conceptual_bridge": "Broadens the scope of No-Self meditation from the person to all constituent phenomena of experience."
+                  }
+                ],
+                "implicit_concepts": ["The universal applicability of emptiness", "The deconstruction of all reification", "The interdependence of all phenomena"],
+                "commentary_insights": "The commentary explains the systematic analysis of the body into parts and particles, showing its lack of inherent existence. Feelings are analyzed regarding their nature (not inherently pleasant/painful), cause (contact is problematic), result (craving ceases with understanding), and subject (no real agent of sensation). The mind is shown to be unfindable in location and its origin (before, after, or simultaneous with object) is inconceivable. This leads to understanding phenomena as empty, like space.",
+                "commentary_citation": "Commentary on verses 78-105, under 'Meditation on the absence of self in phenomena'.",
+                "pedagogical_strategy": "Application of analytical meditation (close mindfulness) to the traditional categories of body, feelings, and mind to demonstrate their lack of inherent existence.",
+                "audience_assumptions": "A practitioner who has gained some understanding of personal No-Self and is ready to extend this analysis to all phenomena."
+              },
+              "children": [
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.2.1",
+                  "title": "Close mindfulness of the body",
+                  "verses_span": "78-87",
+                  "summary": {
+                    "content_summary": "This section details the close mindfulness of the body to realize its emptiness. It examines the body in general, showing it's not its parts (feet, shins, etc.) nor a whole existing within or apart from them. It then specifically examines physical parts (hands, fingers, joints) down to particles, which also lack inherent existence. This leads to relinquishing attachment to the dream-like, non-existent body, and questioning gender distinctions.",
+                    "key_concepts": ["Close Mindfulness of Body", "Emptiness of Body", "Analysis of Parts", "Particles", "Relinquishing Attachment", "Dream-like Nature"],
+                    "transformative_goal": "To deconstruct the perceived solidity and inherent existence of the physical body, thereby reducing attachment and aversion related to it.",
+                    "function_in_hierarchy": "Applies analytical meditation to the physical body, the first of the four foundations of mindfulness, to demonstrate phenomenal No-Self.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Meditation on the absence of self in phenomena",
+                        "related_node_number": "9.5.2",
+                        "relationship_type": "first_application_of_mindfulness_in_parent",
+                        "conceptual_bridge": "Begins the meditation on phenomenal No-Self by analyzing the physical body."
+                      }
+                    ],
+                    "implicit_concepts": ["The body as a composite, dependent arising", "The illusory nature of physical form", "The conventionality of gender"],
+                    "commentary_insights": "The commentary explains the body is a mere imputation on its parts. If the body is one with its parts, it's multiple; if different, it's unfindable. Analysis of limbs, joints, down to particles (divisible by direction) shows no ultimate substance. Thus, form is like a dream. Realizing this, attachment to one's own or others' bodies, and distinctions like male/female, lose their basis.",
+                    "commentary_citation": "Commentary on verses 78-87, under 'Close mindfulness of the body'.",
+                    "pedagogical_strategy": "Systematic deconstruction of the body from gross parts to subtle particles, using logical analysis of part-whole relationships.",
+                    "audience_assumptions": "Common identification with and attachment to the physical body as a solid, real entity."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.1.1",
+                      "title": "Examination of the body in general",
+                      "verses_span": "78-84",
+                      "summary": {
+                        "content_summary": "These verses examine the body as a whole, arguing it's not identical to its individual parts (feet, shins, belly, head, etc.). If the 'body' is spread throughout its members, its parts are in those parts, but where is the 'body' itself? If an entire 'body' is in each part, there are many bodies. If not outside or within its parts, and not other than its parts, it doesn't exist. It's an illusion conceived from parts, like mistaking a pile of stones for a man. As long as conditions (parts) assemble, a 'body' appears.",
+                        "key_concepts": ["Body as a Whole", "Part-Whole Analysis", "Imputation", "Illusory Nature", "Dependent Arising"],
+                        "transformative_goal": "To dismantle the notion of the body as a single, inherently existing entity by showing it's unfindable apart from or as a sum of its parts.",
+                        "function_in_hierarchy": "Provides the general analytical framework for deconstructing the body, before moving to specific parts.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the body",
+                            "related_node_number": "9.5.2.1",
+                            "relationship_type": "general_analysis_within_parent",
+                            "conceptual_bridge": "Establishes the principle that the body as a whole is a conceptual imputation based on its components."
+                          }
+                        ],
+                        "implicit_concepts": ["The conventional versus ultimate status of composite objects", "The power of conceptual designation"],
+                        "commentary_insights": "The commentary explains that the body is a mere imputation and doesn't exist inherently. It's not its individual parts. If the body is present throughout its parts, either one body is in all parts (but where is it itself?) or an entire body is in each part (implying multiple bodies). Since it's not found within or outside its parts, and isn't other than its parts, it's an illusion based on the assembly of parts, like mistaking stones for a man.",
+                        "commentary_citation": "Commentary on verses 78-84, under 'Examination of the body in general'.",
+                        "pedagogical_strategy": "Logical analysis of part-whole relationships, reductio ad absurdum, and analogy.",
+                        "audience_assumptions": "The common perception of the body as a unified, singular entity."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.1.2",
+                      "title": "Specific examination of physical parts",
+                      "verses_span": "85-86",
+                      "summary": {
+                        "content_summary": "These verses extend the analysis to specific body parts. The hand, as a group of fingers, doesn't exist as such. Fingers are made of joints, joints of parts. These parts break down into particles, particles divide by direction, and these fragments lack partless parts, being like space. Thus, even particles have no existence.",
+                        "key_concepts": ["Analysis of Body Parts", "Fingers", "Joints", "Particles", "Divisibility", "Emptiness of Particles", "Space-like Nature"],
+                        "transformative_goal": "To demonstrate that not only the whole body but also its constituent parts, down to the most subtle particles, lack inherent existence.",
+                        "function_in_hierarchy": "Deepens the deconstruction of the body by showing that its components are also composite and ultimately unfindable.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the body",
+                            "related_node_number": "9.5.2.1",
+                            "relationship_type": "detailed_analysis_within_parent",
+                            "conceptual_bridge": "Applies the deconstructive principle to progressively smaller components of the body, culminating in the emptiness of particles."
+                          }
+                        ],
+                        "implicit_concepts": ["Infinite divisibility (in a conceptual sense)", "The unfindability of a fundamental building block of matter"],
+                        "commentary_insights": "The commentary explains that just as the body is an assembly of parts, so too are its limbs like hands (assembly of fingers), fingers (assembly of joints), and joints. These can be broken down to infinitesimal particles, which themselves can be divided directionally (above, below, four directions), revealing no truly existent fragment. Thus, all forms are empty like space.",
+                        "commentary_citation": "Commentary on verses 85-86, under 'Specific examination of physical parts'.",
+                        "pedagogical_strategy": "Progressive reduction and analysis of components to demonstrate their lack of ultimate solidity or existence.",
+                        "audience_assumptions": "Potential belief in fundamental, indivisible particles as the basis of reality."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.1.3",
+                      "title": "The need for relinquishing attachment to one’s body",
+                      "verses_span": "87",
+                      "summary": {
+                        "content_summary": "This verse concludes the body analysis: all form is like a dream. Who, after such investigation, will be attached to it? The body has no existence; therefore, what is male and what is female (as inherent realities)?",
+                        "key_concepts": ["Dream-like Form", "Relinquishing Attachment", "Non-existent Body", "Emptiness of Gender"],
+                        "transformative_goal": "To motivate the relinquishing of attachment to the body and its characteristics by internalizing its dream-like, empty nature.",
+                        "function_in_hierarchy": "Draws the practical and attitudinal conclusion from the preceding analysis of the body's emptiness.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the body",
+                            "related_node_number": "9.5.2.1",
+                            "relationship_type": "concludes_and_applies_parent_analysis",
+                            "conceptual_bridge": "States the soteriological outcome of realizing the body's emptiness: freedom from attachment and reified distinctions like gender."
+                          }
+                        ],
+                        "implicit_concepts": ["The link between insight and emotional freedom", "The conventionality of social constructs like gender when viewed from an ultimate perspective"],
+                        "commentary_insights": "The commentary emphasizes that after investigating the body's true mode of being (empty and dream-like), attachment to it is senseless. Since the body lacks inherent existence, distinctions like male or female also lack ultimate reality. This analysis should be extended to others' bodies and all external phenomena, leading to the conviction that all is space-like and empty.",
+                        "commentary_citation": "Commentary on verse 87, under 'The need for relinquishing attachment to one’s body'.",
+                        "pedagogical_strategy": "Rhetorical questioning to prompt internalization and application of the insight gained.",
+                        "audience_assumptions": "The practitioner seeks freedom from attachment rooted in bodily identification."
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.2.2",
+                  "title": "Close mindfulness of the feelings",
+                  "verses_span": "88-101",
+                  "summary": {
+                    "content_summary": "This section details close mindfulness of feelings (vedanā) to realize their emptiness. It examines the nature of feelings (if real, why doesn't suffering always quench joy, or pleasure comfort agony?), their cause (problems with contact between sense power and object), their result (craving ceases when feelings are understood as empty), and the feeling subject (also non-existent). Feelings are thus shown to be mental imputations, not inherent realities.",
+                    "key_concepts": ["Close Mindfulness of Feelings", "Emptiness of Feelings", "Nature of Pleasure/Pain", "Cause of Feelings (Contact)", "Craving", "Feeling Subject"],
+                    "transformative_goal": "To deconstruct the perceived reality and power of feelings (pleasant, painful, neutral), thereby reducing craving, aversion, and suffering rooted in them.",
+                    "function_in_hierarchy": "Applies analytical meditation to feelings, the second foundation of mindfulness, to demonstrate their lack of inherent existence.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Meditation on the absence of self in phenomena",
+                        "related_node_number": "9.5.2",
+                        "relationship_type": "second_application_of_mindfulness_in_parent",
+                        "conceptual_bridge": "Extends the analysis of phenomenal No-Self to the realm of feelings."
+                      }
+                    ],
+                    "implicit_concepts": ["The subjective and conditioned nature of feelings", "The link between feelings, craving, and suffering (as in Dependent Origination)"],
+                    "commentary_insights": "The commentary explains: if suffering were real, it would always prevent joy, and vice-versa. Feelings not experienced due to being overwhelmed are not truly 'feelings.' Subtle pain existing with gross pleasure is problematic. Feelings are mental imputations. The cause (contact between sense faculty and object) is unfindable. If feelings are empty, craving (their result) ceases. The feeling subject (mind/self) is also empty. Thus, feelings, like dreams, cannot harm a self-less aggregate.",
+                    "commentary_citation": "Commentary on verses 88-101, under 'Close mindfulness of the feelings'.",
+                    "pedagogical_strategy": "Systematic deconstruction of feelings by analyzing their nature, cause, result, and experiencer, using logical arguments and questioning common assumptions.",
+                    "audience_assumptions": "The common experience of being strongly influenced by pleasant and painful feelings, and the desire for freedom from this."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.2.1",
+                      "title": "Examination of the nature of the feelings",
+                      "verses_span": "88-92",
+                      "summary": {
+                        "content_summary": "These verses examine the inherent nature of feelings. If suffering is real, why doesn't it always negate joy? If pleasure is real, why doesn't it always comfort agony? If a feeling isn't experienced (e.g., subtle pain overwhelmed by stronger pleasure), how is it a 'feeling'? If discomfort is absent due to its opposite, isn't 'feeling' a mental imputation? Meditation on this analysis is food for yogis.",
+                        "key_concepts": ["Nature of Feelings", "Pleasure/Pain Interaction", "Experience of Feeling", "Mental Imputation", "Analytical Meditation"],
+                        "transformative_goal": "To demonstrate that feelings like pleasure and pain do not have a fixed, inherent nature but are context-dependent and ultimately mental constructs.",
+                        "function_in_hierarchy": "Initiates the deconstruction of feelings by questioning their supposed intrinsic reality and stability.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the feelings",
+                            "related_node_number": "9.5.2.2",
+                            "relationship_type": "first_aspect_of_analysis_in_parent",
+                            "conceptual_bridge": "Focuses on the ontological status of feelings themselves."
+                          }
+                        ],
+                        "implicit_concepts": ["The relativity of experience", "The role of mind in constituting feelings"],
+                        "commentary_insights": "The commentary argues that if feelings were inherently real, one type (e.g., pain) would consistently block its opposite (e.g., pleasure). A feeling not felt (e.g., subtle pain during strong pleasure) isn't truly a feeling. The idea of subtle pain coexisting with or being transformed by pleasure is untenable. Feelings are thus shown to be mental imputations, not intrinsic to objects or mind. Analytical meditation on this is 'food for yogis,' nourishing their realization.",
+                        "commentary_citation": "Commentary on verses 88-92, under 'Examination of the nature of the feelings'.",
+                        "pedagogical_strategy": "Logical questioning of common assumptions about feelings, using hypothetical scenarios to expose inconsistencies.",
+                        "audience_assumptions": "The common experience of feelings as powerful, seemingly objective realities."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.2.2",
+                      "title": "Examination of the cause of the feelings",
+                      "verses_span": "93-97",
+                      "summary": {
+                        "content_summary": "These verses examine the cause of feelings, focusing on the problem of contact. If sense power and object are spaced, how do they meet? If no space, they're a unity, so what meets what? Partless particles can't penetrate or merge, so no encounter. Contact between partless things is inconceivable. Immaterial consciousness can't contact physical things. A combination (of object, sense, consciousness) is also unreal. If no contact, whence do feelings arise? What torments what?",
+                        "key_concepts": ["Cause of Feelings", "Contact (Sparśa)", "Sense Power", "Object", "Partless Particles", "Immaterial Consciousness"],
+                        "transformative_goal": "To dismantle the belief in a real causal mechanism (contact) for feelings, thereby undermining their perceived solidity and inevitability.",
+                        "function_in_hierarchy": "Deconstructs the supposed origin of feelings by analyzing the impossibility of true contact between subject and object.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the feelings",
+                            "related_node_number": "9.5.2.2",
+                            "relationship_type": "second_aspect_of_analysis_in_parent",
+                            "conceptual_bridge": "Investigates the causal basis of feelings, specifically the notion of contact."
+                          }
+                        ],
+                        "implicit_concepts": ["The problematic nature of subject-object interaction if both are reified", "The emptiness of causality at an ultimate level"],
+                        "commentary_insights": "The commentary details the dilemma: if sense faculty and object are separated, no contact; if not separated, they are one, so no meeting. Partless particles cannot penetrate or merge, so no contact. Contact between partless entities is impossible from one side or all sides. Immaterial mind cannot contact material objects. A 'gathering' of object, sense, and consciousness is also unreal. Without contact, feelings have no real cause. Thus, striving for pleasure and avoiding pain based on these illusory feelings is pointless.",
+                        "commentary_citation": "Commentary on verses 93-97, under 'Examination of the cause of the feelings'.",
+                        "pedagogical_strategy": "Logical analysis of the conditions required for contact, demonstrating their unfulfillability under scrutiny, particularly concerning partless particles and material/immaterial interaction.",
+                        "audience_assumptions": "Acceptance of the conventional model of perception involving contact between senses and objects."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.2.3",
+                      "title": "Examination of the result of the feelings",
+                      "verses_span": "98",
+                      "summary": {
+                        "content_summary": "This verse examines the result of feelings. Since there is no real subject for sensation, and sensation (feeling) itself lacks existence, how can craving (the result of feeling) not be arrested when this is clearly understood?",
+                        "key_concepts": ["Result of Feelings", "Craving (Tṛṣṇā)", "Emptiness of Sensation", "Cessation of Craving"],
+                        "transformative_goal": "To show that understanding the emptiness of feelings and their subject directly leads to the cessation of craving, a key to liberation.",
+                        "function_in_hierarchy": "Connects the insight into the emptiness of feelings with its soteriological consequence: the overcoming of craving.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the feelings",
+                            "related_node_number": "9.5.2.2",
+                            "relationship_type": "third_aspect_of_analysis_in_parent",
+                            "conceptual_bridge": "Explores the impact of realizing the emptiness of feelings on their primary psychological result, craving."
+                          }
+                        ],
+                        "implicit_concepts": ["The causal link between feeling and craving in Dependent Origination", "Insight as the antidote to craving"],
+                        "commentary_insights": "The commentary states that craving is also a delusion, not real. When it's realized that both the feeler (mind/self) and the felt (feeling) lack inherent existence, craving, which arises from feeling, is naturally averted as its cause is removed.",
+                        "commentary_citation": "Commentary on verse 98, under 'Examination of the result of the feelings'.",
+                        "pedagogical_strategy": "Logical deduction based on cause and effect: if the cause (feeling) is empty, the effect (craving) cannot sustain itself.",
+                        "audience_assumptions": "Understanding of craving as a primary driver of suffering and its connection to feelings."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.2.4",
+                      "title": "Examination of the feeling subject",
+                      "verses_span": "99-101",
+                      "summary": {
+                        "content_summary": "These verses examine the subject that feels. What is seen and touched is dream-like. If feeling is coincident with consciousness, it's not seen by it. If one arises after the other, it's memory, not direct sensation. Sensation cannot perceive itself, nor be perceived by another. The agent of sensation has no real existence, so sensation has no being. What damage can sensation do to this self-less aggregate?",
+                        "key_concepts": ["Feeling Subject", "Agent of Sensation", "Consciousness and Feeling", "Memory vs. Direct Sensation", "Self-Perception", "Self-less Aggregate"],
+                        "transformative_goal": "To dismantle the notion of a real, existing subject or agent that experiences feelings, thereby completing the deconstruction of the entire feeling-process.",
+                        "function_in_hierarchy": "Analyzes the experiencer of feelings, showing its lack of inherent existence, which is crucial for fully realizing the emptiness of feelings.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the feelings",
+                            "related_node_number": "9.5.2.2",
+                            "relationship_type": "fourth_aspect_of_analysis_in_parent",
+                            "conceptual_bridge": "Completes the analysis of feelings by deconstructing the 'feeler' or subject."
+                          }
+                        ],
+                        "implicit_concepts": ["The emptiness of the perceiver", "The interdependent but unfindable nature of subject-object experience"],
+                        "commentary_insights": "The commentary explains that sensory experiences are dream-like. If feeling and consciousness are simultaneous, consciousness cannot observe feeling (as they are independent yet co-occurring). If feeling precedes consciousness, it's mere memory when consciousness arises. Feeling cannot feel itself, nor can a distinct consciousness feel it (due to issues of simultaneity or succession). Since the agent of sensation is unreal, feeling itself is unreal. Thus, an empty feeling cannot harm an empty, self-less aggregate.",
+                        "commentary_citation": "Commentary on verses 99-101, under 'Examination of the feeling subject'.",
+                        "pedagogical_strategy": "Logical analysis of the relationship between consciousness and feeling, and between the feeling and a supposed feeler, exposing temporal and relational paradoxes.",
+                        "audience_assumptions": "The intuitive belief in a distinct 'I' that experiences feelings."
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.2.3",
+                  "title": "Close mindfulness of the mind",
+                  "verses_span": "102-105",
+                  "summary": {
+                    "content_summary": "This section details close mindfulness of the mind (citta) to realize its emptiness. It argues the mind is without inherent existence: it's not in senses, outer things, or between; not in the body nor elsewhere; it doesn't merge or stand apart. It's also unborn: if consciousness precedes its object, what does it arise regarding? Same if simultaneous or later. Thus, the origin of phenomena (including mind) is beyond understanding.",
+                    "key_concepts": ["Close Mindfulness of Mind", "Emptiness of Mind", "Location of Mind", "Unborn Mind", "Origin of Consciousness"],
+                    "transformative_goal": "To deconstruct the perceived reality of the mind itself, showing its unfindability and unoriginated nature, leading to liberation from reifying consciousness.",
+                    "function_in_hierarchy": "Applies analytical meditation to the mind, the third foundation of mindfulness, to demonstrate its lack of inherent existence, a crucial step towards understanding the emptiness of all phenomena.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Meditation on the absence of self in phenomena",
+                        "related_node_number": "9.5.2",
+                        "relationship_type": "third_application_of_mindfulness_in_parent",
+                        "conceptual_bridge": "Extends the analysis of phenomenal No-Self to the mind or consciousness itself."
+                      }
+                    ],
+                    "implicit_concepts": ["The mind as a process, not an entity", "The ultimate inconceivability of origins", "The space-like nature of mind"],
+                    "commentary_insights": "The commentary explains the mind is unfindable: not in sense organs, objects, or between. Not in the body, yet not elsewhere. It doesn't merge with body nor stand apart. It's like space, as stated in Ratnakuta and Prajnaparamita sutras. The mind is also unborn: if it precedes its object, it has no basis for arising; if simultaneous, also no basis; if subsequent, the object has ceased. Thus, its origin is inconceivable.",
+                    "commentary_citation": "Commentary on verses 102-105, under 'Close mindfulness of the mind'.",
+                    "pedagogical_strategy": "Systematic investigation of the mind's location and origin, using logical dilemmas to demonstrate its unfindability and unoriginated nature.",
+                    "audience_assumptions": "The common perception of the mind as a real, existing entity, possibly located within the body, and having a definable origin."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.3.1",
+                      "title": "The mind is without inherent existence",
+                      "verses_span": "102-103",
+                      "summary": {
+                        "content_summary": "These verses argue that the mind lacks inherent existence by being unfindable. It's not in the senses, outer objects, or between them. It's not in the body, nor elsewhere. It doesn't merge with the body nor stand apart. Such a thing (an inherently existing mind) doesn't exist even slightly. Beings are by nature beyond suffering (as the mind, the basis of suffering, is empty).",
+                        "key_concepts": ["Emptiness of Mind", "Unfindability of Mind", "Inherent Existence", "Location of Mind", "Nature Beyond Suffering"],
+                        "transformative_goal": "To realize that the mind, often considered the core of self, lacks any inherent, findable existence, thereby loosening a fundamental point of reification.",
+                        "function_in_hierarchy": "Establishes the mind's lack of inherent existence by demonstrating its unfindability, a key aspect of mindfulness of mind.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the mind",
+                            "related_node_number": "9.5.2.3",
+                            "relationship_type": "first_argument_for_parent_thesis",
+                            "conceptual_bridge": "Focuses on the spatial unlocatability of the mind to argue for its emptiness."
+                          }
+                        ],
+                        "implicit_concepts": ["Mind as a designation for a process", "The link between reifying mind and experiencing suffering"],
+                        "commentary_insights": "The commentary explains that the mind cannot be located in sense organs, sense objects, or in between. It's not inside the body's torso or limbs, nor outside. It doesn't merge with the body nor exist separately. It's unfindable, like space. The Ratnakuta and Prajnaparamita sutras are cited to support this: 'The mind indeed is not a mind; the nature of the mind is lucent clarity.'",
+                        "commentary_citation": "Commentary on verses 102-103, under 'The mind is without inherent existence'.",
+                        "pedagogical_strategy": "Systematic elimination of possible locations for an inherently existing mind.",
+                        "audience_assumptions": "The intuitive sense that the mind is 'somewhere,' likely within the body or brain."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.2.3.2",
+                      "title": "The mind is unborn",
+                      "verses_span": "104-105",
+                      "summary": {
+                        "content_summary": "These verses argue that the mind is unborn by analyzing its temporal relationship with its object. If consciousness precedes its object, regarding what does it arise? If it arises simultaneously with its object, again, regarding what does it arise? If it comes later than its object, from what does it arise (as the object has ceased)? Thus, the origin of all phenomena (including mind) is beyond understanding.",
+                        "key_concepts": ["Unborn Mind", "Origin of Consciousness", "Temporal Relationship (Consciousness-Object)", "Inconceivable Origin"],
+                        "transformative_goal": "To realize that the mind, like all phenomena, lacks an ultimately establishable origin, further deconstructing its perceived reality.",
+                        "function_in_hierarchy": "Complements the argument for the mind's unfindability by demonstrating its unoriginated nature, reinforcing its emptiness.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "Close mindfulness of the mind",
+                            "related_node_number": "9.5.2.3",
+                            "relationship_type": "second_argument_for_parent_thesis",
+                            "conceptual_bridge": "Focuses on the temporal unestablishability of the mind's origin to argue for its emptiness."
+                          }
+                        ],
+                        "implicit_concepts": ["The emptiness of causality when applied to ultimate origins", "The process-nature of consciousness without a fixed starting point"],
+                        "commentary_insights": "The commentary explains the dilemma: if consciousness (e.g., visual) exists before its object (e.g., form), it has no basis to arise. If simultaneous, the object cannot generate the consciousness as a perceptual condition if consciousness isn't already there to perceive it. If consciousness arises after the object, the object has ceased and cannot be its cause. Thus, the mind's origin is inconceivable, like all phenomena.",
+                        "commentary_citation": "Commentary on verses 104-105, under 'The mind is unborn'.",
+                        "pedagogical_strategy": "Logical analysis of the possible temporal relationships between consciousness and its object, leading to aporia regarding its origin.",
+                        "audience_assumptions": "The assumption that consciousness, like other things, must have a definable point of origin."
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": "subsection",
+              "number": "9.5.3",
+              "title": "Refutation of objections",
+              "verses_span": "106-110",
+              "summary": {
+                "content_summary": "This subsection refutes further objections arising from the analysis of emptiness. It addresses concerns that if phenomena are unoriginated, the two truths become untenable and beings cannot escape sorrow (answered by distinguishing the individual's relative from others'). It refutes the idea that phenomena are inaccessible to analysis (analysis relies on conventional consensus). Finally, it refutes the objection of infinite regress in analysis (analysis ceases when its object is removed, leading to nirvana).",
+                "key_concepts": ["Objections to Emptiness Analysis", "Two Truths", "Conventional Consensus", "Infinite Regress", "Cessation of Analysis", "Nirvana"],
+                "transformative_goal": "To resolve lingering doubts about the implications and process of analyzing emptiness, ensuring the practitioner's confidence in the path of analytical meditation.",
+                "function_in_hierarchy": "Addresses methodological and philosophical challenges related to the practice of wisdom meditation, clearing obstacles to its application.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Wisdom experienced by means of meditation",
+                    "related_node_number": "9.5",
+                    "relationship_type": "clarifies_methodology_within_parent",
+                    "conceptual_bridge": "Defends the process of analytical meditation against potential criticisms, ensuring its validity as a path to wisdom."
+                  }
+                ],
+                "implicit_concepts": ["The self-negating nature of ultimate analysis", "The role of conventional agreement in philosophical discourse", "Nirvana as the exhaustion of conceptual proliferation"],
+                "commentary_insights": "The commentary explains: if phenomena are unoriginated, the relative truth (characterized by origin/cessation) seems to collapse. This is resolved by noting that the relative is posited for didactic purposes and that an individual's attainment of nirvana (cessation of their relative conceptions) doesn't depend on others' minds. Analysis is possible based on conventional consensus. The infinite regress objection is met by stating that when phenomena are truly analyzed, no basis for analysis remains; when the object is removed, the analyzing subject (mind) also subsides, which is nirvana.",
+                "commentary_citation": "Commentary on verses 106-110, under 'Refutation of objections'.",
+                "pedagogical_strategy": "Addressing and resolving sophisticated objections to the Madhyamaka analytical method and its implications for the two truths and the nature of nirvana.",
+                "audience_assumptions": "A philosophically astute audience capable of raising and understanding complex objections to the emptiness doctrine and its methodology."
+              },
+              "children": [
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.3.1",
+                  "title": "Eliminating the objection that the two truths are untenable",
+                  "verses_span": "106-107",
+                  "summary": {
+                    "content_summary": "These verses address the objection that if all is unoriginated (as per previous analysis), the relative truth collapses, and thus the two truths become untenable. Furthermore, if the relative derives from beings' minds, how can they escape sorrow? The reply is that this 'relative' (of others' minds) is not what is meant; if an individual's thoughts cease, their relative ceases, and they attain nirvana, irrespective of others.",
+                    "key_concepts": ["Two Truths Tenability", "Relative Truth", "Cessation of Thought", "Individual Liberation", "Unoriginated Nature"],
+                    "transformative_goal": "To clarify how the doctrine of universal emptiness and non-origination is compatible with the framework of the two truths and the possibility of individual liberation.",
+                    "function_in_hierarchy": "Defends the coherence of the two truths framework even when phenomena are understood as ultimately unoriginated.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Refutation of objections",
+                        "related_node_number": "9.5.3",
+                        "relationship_type": "specific_objection_addressed_by_parent",
+                        "conceptual_bridge": "Focuses on the compatibility of ultimate emptiness with the conventional framework of the two truths."
+                      }
+                    ],
+                    "implicit_concepts": ["The subjective aspect of relative truth for an individual practitioner", "Nirvana as the cessation of an individual's deluded perceptions"],
+                    "commentary_insights": "The commentary explains that the two truths are posited for didactic purposes; ultimately, there's only dharmadhatu. The objection that if the relative is mind-dependent, beings can't escape sorrow is answered by distinguishing one's own relative conceptions from those of others. When an individual's dualistic thoughts cease, their relative world ceases, and they attain nirvana, like waking from a dream while others still sleep. This cessation of the individual's relative is nirvana.",
+                    "commentary_citation": "Commentary on verses 106-107, under 'Eliminating the objection that the two truths are untenable'.",
+                    "pedagogical_strategy": "Clarifying the scope and application of the two truths, particularly in relation to individual experience and liberation.",
+                    "audience_assumptions": "Concern that the ultimate view of emptiness might invalidate the conventional framework necessary for the path."
+                  },
+                  "children": []
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.3.2",
+                  "title": "Refutation of the objection that phenomena are inaccessible to reasoned analysis",
+                  "verses_span": "108",
+                  "summary": {
+                    "content_summary": "This verse refutes the objection that if knower and known are empty, analysis is impossible. It states that the analyzing mind and what is analyzed are mutually dependent. All investigation is expressed based on conventional consensus.",
+                    "key_concepts": ["Reasoned Analysis", "Knower and Known", "Mutual Dependence", "Conventional Consensus"],
+                    "transformative_goal": "To affirm the validity and possibility of reasoned analysis within the framework of emptiness, by grounding it in conventional reality and interdependence.",
+                    "function_in_hierarchy": "Justifies the methodological tool of analysis used throughout the chapter, even when its objects are ultimately empty.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Refutation of objections",
+                        "related_node_number": "9.5.3",
+                        "relationship_type": "specific_objection_addressed_by_parent",
+                        "conceptual_bridge": "Addresses a methodological concern about how analysis can proceed if its components (analyzer and analyzed) are empty."
+                      }
+                    ],
+                    "implicit_concepts": ["The pragmatic use of conventional tools for ultimate aims", "Interdependence as the basis for conventional functioning"],
+                    "commentary_insights": "The commentary explains that although subject and object are by nature empty, they are said to be mutually dependent. Analysis is conducted based on conventionalities accepted by common consensus, where things seem real if unexamined. Therefore, analyzing them is tenable on this conventional level.",
+                    "commentary_citation": "Commentary on verse 108, under 'Refutation of the objection that phenomena are inaccessible to reasoned analysis'.",
+                    "pedagogical_strategy": "Appealing to the principle of interdependence and the pragmatic validity of conventional consensus for philosophical inquiry.",
+                    "audience_assumptions": "Concern that the emptiness of knower and known might lead to a cognitive paralysis, making analysis impossible."
+                  },
+                  "children": []
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.3.3",
+                  "title": "Refutation of the objection that analysis must result in an infinite regress",
+                  "verses_span": "109-110",
+                  "summary": {
+                    "content_summary": "These verses refute the objection that if the process of analysis itself is analyzed, it leads to an infinite regress. The reply is: if phenomena are truly analyzed, no basis for analysis remains. When the object is removed, the analyzing subject also subsides. That is said to be nirvana.",
+                    "key_concepts": ["Infinite Regress", "Analysis of Analysis", "Cessation of Analysis", "Removal of Object", "Subsiding of Subject", "Nirvana"],
+                    "transformative_goal": "To show that analytical meditation on emptiness does not lead to an endless conceptual loop but culminates in the cessation of conceptual activity, which is liberation.",
+                    "function_in_hierarchy": "Addresses a critical methodological objection concerning the endpoint of analysis, linking it directly to the attainment of nirvana.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Refutation of objections",
+                        "related_node_number": "9.5.3",
+                        "relationship_type": "specific_objection_addressed_by_parent",
+                        "conceptual_bridge": "Resolves the problem of infinite regress by showing that analysis is self-terminating when its object (false reification) is exhausted."
+                      }
+                    ],
+                    "implicit_concepts": ["The self-liberating nature of wisdom", "Nirvana as non-conceptual peace", "The ultimate unfindability of a basis for reification"],
+                    "commentary_insights": "The commentary explains that when phenomena are investigated and found to be without true existence, the analysis itself ceases to have an identifiable object. With no object, the analyzing subject (mind) also subsides, like ripples on water. This cessation of concepts is 'natural nirvana in the state of dharmata.'",
+                    "commentary_citation": "Commentary on verses 109-110, under 'Refutation of the objection that analysis must result in an infinite regress'.",
+                    "pedagogical_strategy": "Explaining the self-terminating nature of Madhyamaka analysis, where the tool (analysis) deconstructs its own basis for operation.",
+                    "audience_assumptions": "A sophisticated concern that the process of deconstruction might itself become an endless intellectual exercise without a clear endpoint."
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": "subsection",
+              "number": "9.5.4",
+              "title": "Misconceptions dispelled through reasoning",
+              "verses_span": "111-150",
+              "summary": {
+                "content_summary": "This extensive subsection further dispels misconceptions using reasoning, focusing on causality and the nature of existence. It first refutes arguments of those who believe in true existence (e.g., mutual dependence of consciousness and objects). Then, it expounds proofs for emptiness by investigating the cause (diamond splinters argument refuting uncaused, other-caused, and self-caused origination), the nature (great interdependence argument), and the result (refuting origination of existent/nonexistent effects). This culminates in understanding phenomena as dream-like and unoriginated.",
+                "key_concepts": ["Reasoning", "True Existence", "Emptiness Proofs", "Causality", "Diamond Splinters Argument", "Interdependence", "Origination (Existent/Nonexistent Effect)", "Unoriginated Nature"],
+                "transformative_goal": "To provide rigorous logical proofs for the emptiness of all phenomena, particularly by deconstructing conventional notions of causality and existence, leading to a profound intellectual certainty in emptiness.",
+                "function_in_hierarchy": "Offers advanced philosophical arguments (the 'great Madhyamaka reasonings') to solidify the understanding of emptiness, moving beyond initial refutations to a comprehensive deconstruction of reified existence.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "Wisdom experienced by means of meditation",
+                    "related_node_number": "9.5",
+                    "relationship_type": "provides_advanced_reasoning_for_parent_meditation",
+                    "conceptual_bridge": "Supplies the deep analytical tools and arguments that inform and empower the meditation on emptiness."
+                  }
+                ],
+                "implicit_concepts": ["The power of logical analysis in spiritual transformation", "The core Madhyamaka arguments against inherent existence", "The ultimate identity of samsara and nirvana from the perspective of emptiness"],
+                "commentary_insights": "The commentary details the refutation of true existence claims (e.g., if consciousness and objects mutually prove each other, both lack true existence). It then explains the 'diamond splinters' argument against uncaused origination, other-production (e.g., from Ishvara or permanent particles), and self-production (e.g., Samkhya's prakriti, or an effect pre-existing in its cause). The interdependence argument shows things are like reflections. The argument refuting existent/nonexistent effects shows things are unoriginated and unceasing. All phenomena are thus dream-like, and ultimately samsara and nirvana are indistinguishable.",
+                "commentary_citation": "Commentary on verses 111-150, under 'Misconceptions dispelled through reasoning'.",
+                "pedagogical_strategy": "Employing sophisticated logical arguments and classical Madhyamaka reasonings to deconstruct fundamental assumptions about existence and causality.",
+                "audience_assumptions": "A high level of philosophical engagement and familiarity with Indian philosophical debates on causality and ontology."
+              },
+              "children": [
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.4.1",
+                  "title": "A refutation of the argument of those who believe in true existence",
+                  "verses_span": "111-115",
+                  "summary": {
+                    "content_summary": "These verses refute arguments by those who believe in the true existence of both consciousness and its objects. If consciousness reveals things' truth, what establishes consciousness's existence? If objects establish consciousness, what establishes objects? Mutual dependence means both lose true existence. Like a father needing a son and vice-versa, neither can be independently established. The analogy of a plant proving a seed is flawed, as a separate mind infers the seed; what mind establishes the primary consciousness that establishes the object?",
+                    "key_concepts": ["True Existence", "Consciousness and Objects", "Mutual Dependence", "Circular Reasoning", "Problem of Establishment"],
+                    "transformative_goal": "To dismantle the realist view that consciousness and its objects truly and independently exist, by exposing the circularity and lack of ultimate foundation in their arguments.",
+                    "function_in_hierarchy": "Critiques the foundational assumptions of philosophical realism as a prelude to presenting Madhyamaka arguments for emptiness.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Misconceptions dispelled through reasoning",
+                        "related_node_number": "9.5.4",
+                        "relationship_type": "critiques_opposing_view_for_parent",
+                        "conceptual_bridge": "Clears the ground by refuting arguments for true existence before presenting proofs for emptiness."
+                      }
+                    ],
+                    "implicit_concepts": ["The unfindability of an ultimate ground for existence", "The limitations of inferential reasoning when applied to ultimate reality without understanding emptiness"],
+                    "commentary_insights": "The commentary explains that if consciousness and objects mutually prove each other's true existence, this is circular and establishes neither. The father-son analogy illustrates this interdependence. The plant-seed analogy fails because a distinct mind infers the seed from the plant based on prior knowledge of their causal link; however, there's no independent way to establish the true existence of the initial consciousness that would then establish the object's true existence.",
+                    "commentary_citation": "Commentary on verses 111-115, under 'A refutation of the argument of those who believe in true existence'.",
+                    "pedagogical_strategy": "Logical critique, exposing circular arguments and unexamined assumptions in realist philosophies.",
+                    "audience_assumptions": "Familiarity with philosophical arguments for realism and the concept of valid cognition (pramāṇa)."
+                  },
+                  "children": []
+                },
+                {
+                  "level": "sub-subsection",
+                  "number": "9.5.4.2",
+                  "title": "An exposition of the proofs of those who uphold the doctrine of emptiness",
+                  "verses_span": "116-150",
+                  "summary": {
+                    "content_summary": "This section expounds the core Madhyamaka proofs for emptiness. It investigates the cause using the 'diamond splinters' argument (refuting uncaused, other-caused by a permanent cause like Ishvara or particles, and self-caused origination like Samkhya's prakriti or an effect pre-existing in its cause). It concludes this argument, then investigates the nature of phenomena using the 'great interdependence' argument (things are like reflections). Finally, it investigates the result, refuting the origination of an already existent or a non-existent effect. This leads to the understanding that all beings are unoriginated, unceasing, and dream-like.",
+                    "key_concepts": ["Proofs for Emptiness", "Diamond Splinters Argument (Vajrakaṇa)", "Investigation of Cause (Hetu-parīkṣā)", "Uncaused Origination", "Other-Production", "Self-Production", "Interdependence Argument (Pratītyasamutpāda)", "Investigation of Nature (Svabhāva-parīkṣā)", "Refutation of Existent/Nonexistent Effect", "Investigation of Result (Phala-parīkṣā)"],
+                    "transformative_goal": "To provide a comprehensive set of logical arguments that deconstruct all possible modes of inherent existence and origination, leading to a firm intellectual conviction in universal emptiness and interdependence.",
+                    "function_in_hierarchy": "Presents the main positive arguments (via negation) for the Madhyamaka view of emptiness, forming the core of its philosophical demonstration.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_title": "Misconceptions dispelled through reasoning",
+                        "related_node_number": "9.5.4",
+                        "relationship_type": "provides_core_proofs_for_parent",
+                        "conceptual_bridge": "Offers the classical Madhyamaka logical tools for dismantling misconceptions about inherent existence."
+                      }
+                    ],
+                    "implicit_concepts": ["The exhaustive nature of Madhyamaka analysis (covering all logical possibilities of origination)", "Emptiness as the middle way beyond extremes of existence and non-existence", "The ultimate unfindability of inherent nature (svabhāva)"],
+                    "commentary_insights": "The commentary systematically explains each major Madhyamaka reasoning. The 'diamond splinters' argument dissects and refutes theories of uncaused creation, creation by a permanent other (like Ishvara or permanent atoms), and self-creation (like Samkhya's prakriti or the idea of the effect existing in the cause). The interdependence argument shows phenomena are like illusions or reflections, arising dependently. The argument refuting the production of an already existing or a non-existing effect demonstrates that phenomena are ultimately unproduced and unceasing. This leads to the conclusion that beings are dream-like, and samsara and nirvana are ultimately indistinguishable.",
+                    "commentary_citation": "Commentary on verses 116-150, under 'An exposition of the proofs of those who uphold the doctrine of emptiness'.",
+                    "pedagogical_strategy": "Systematic application of classical Madhyamaka logical arguments (the 'four great reasonings' or variations thereof) to analyze cause, nature, and effect, demonstrating their emptiness of inherent existence.",
+                    "audience_assumptions": "A high degree of philosophical sophistication, capable of following complex logical arguments and familiar with various Indian philosophical schools' theories of causality and ontology."
+                  },
+                  "children": [
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.4.2.1",
+                      "title": "Investigation of the cause: the diamond splinters argument",
+                      "verses_span": "116-140",
+                      "summary": {
+                        "content_summary": "This section employs the 'diamond splinters' argument to investigate and refute various theories of causation. It first refutes uncaused origination (things arise from causes). Then it refutes other-production from a permanent cause, critiquing theories of a creator god (Īshvara) and permanent particles. Finally, it refutes self-production, critiquing the Sāṃkhya theory of prakṛiti (primal substance) and the general idea that effects pre-exist in their causes, showing the absurd consequences of such views.",
+                        "key_concepts": ["Diamond Splinters Argument", "Investigation of Cause", "Uncaused Origination", "Other-Production (Parata-utpāda)", "Permanent Cause (Īshvara, Particles)", "Self-Production (Svata-utpāda)", "Sāṃkhya Prakṛiti", "Effect Pre-existing in Cause"],
+                        "transformative_goal": "To dismantle all conceivable notions of inherent causal production, thereby revealing the empty and dependently arisen nature of phenomena by showing that they do not arise from self, other, both, or without cause.",
+                        "function_in_hierarchy": "Forms a major part of the Madhyamaka proofs for emptiness by systematically deconstructing conventional and philosophical theories of causality.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "An exposition of the proofs of those who uphold the doctrine of emptiness",
+                            "related_node_number": "9.5.4.2",
+                            "relationship_type": "first_major_proof_within_parent",
+                            "conceptual_bridge": "Initiates the detailed proofs for emptiness by focusing on the analysis of causality, a cornerstone of Madhyamaka philosophy."
+                          }
+                        ],
+                        "implicit_concepts": ["The four alternatives of arising (catuṣkoṭi)", "The incompatibility of permanence with causality", "The problems of reifying cause and effect"],
+                        "commentary_insights": "The commentary explains: uncaused origination is refuted by everyday perception of causality. Other-production from a permanent cause like Ishvara is refuted by analyzing Ishvara's nature (if elements, just a name; if space, inert; if self, refuted; if inconceivable, so is creatorship) and the contradictions in his creative process (dependence on conditions, will vs. omnipotence). Permanent particles were refuted earlier. Self-production (Samkhya's prakriti as equilibrium of three gunas) is refuted by showing prakriti's unity and threefold nature are contradictory, and its qualities (pleasure, etc.) can't be permanent if they manifest grossly/subtly. The idea of an effect existing in its cause leads to absurdities like eating excrement with food.",
+                        "commentary_citation": "Commentary on verses 116-140, under 'Investigation of the cause: the diamond splinters argument'.",
+                        "pedagogical_strategy": "Systematic refutation of the four logical possibilities of origination (from self, other, both, neither/uncaused), with detailed critiques of specific philosophical schools (Charvaka, Theists, Samkhya).",
+                        "audience_assumptions": "Familiarity with various Indian philosophical theories of creation and causality."
+                      },
+                      "children": [
+                        {
+                          "level": "sub-sub-sub-subsection",
+                          "number": "9.5.4.2.1.1",
+                          "title": "Refutation of the belief in uncaused origination",
+                          "verses_span": "116-117",
+                          "summary": {
+                            "content_summary": "These verses refute the belief in uncaused origination. Everyday perception shows causes for everything (e.g., lotus segments from various causes). Variety in causes arises from earlier variety. Causes yield fruits through the power of preceding causes, illustrating the nature of things.",
+                            "key_concepts": ["Uncaused Origination (Ahetuka-utpāda)", "Causality", "Variety of Causes", "Nature of Things"],
+                            "transformative_goal": "To establish the principle of causality as a conventional reality, refuting nihilistic views that deny cause and effect, as a preliminary step to analyzing the nature of that causality.",
+                            "function_in_hierarchy": "Addresses and dismisses the first and simplest alternative for origination (uncaused) in the diamond splinters argument.",
+                            "inter_node_relationships": [
+                              {
+                                "related_node_title": "Investigation of the cause: the diamond splinters argument",
+                                "related_node_number": "9.5.4.2.1",
+                                "relationship_type": "first_refutation_in_parent_argument",
+                                "conceptual_bridge": "Begins the systematic deconstruction of causal theories by refuting the denial of causality itself."
+                              }
+                            ],
+                            "implicit_concepts": ["Conventional validity of cause and effect", "The principle of sufficient reason (conventionally)"],
+                            "commentary_insights": "The commentary explains that schools like Charvaka argue for uncaused origination (e.g., thorn's sharpness). This is refuted by everyday perception (including inference) of causality. The variety in a lotus comes from varied causes in the seed, which in turn come from earlier varied causes. This is simply the nature of things, not requiring an external arranger. Phenomena are caused because they appear sporadically.",
+                            "commentary_citation": "Commentary on verses 116-117, under 'Refutation of the belief in uncaused origination'.",
+                            "pedagogical_strategy": "Appeal to common experience and observation, establishing conventional causality before deconstructing its ultimate nature.",
+                            "audience_assumptions": "Potential exposure to nihilistic views that deny causality (e.g., Charvaka school)."
+                          },
+                          "children": []
+                        },
+                        {
+                          "level": "sub-sub-sub-subsection",
+                          "number": "9.5.4.2.1.2",
+                          "title": "Refutation of the belief in other-production",
+                          "verses_span": "118-126",
+                          "summary": {
+                            "content_summary": "This section refutes the belief in other-production, specifically from a permanent cause. It focuses on refuting the idea of a creator god (Īshvara). Arguments include: defining Īshvara (if elements, just a name; if space, inert; if self, refuted; if inconceivable, so is creatorship); questioning what Īshvara creates if self/elements are eternal; issues with a beginningless cause producing effects with beginnings; why not constant creation if Īshvara is independent; dependence on conditions negates Īshvara as sole cause and omnipotence. It also notes permanent particles were refuted earlier.",
+                            "key_concepts": ["Other-Production (Parata-utpāda)", "Permanent Cause", "Creator God (Īshvara)", "Theism", "Omnipotence", "Permanent Particles"],
+                            "transformative_goal": "To dismantle the belief in creation by an external, permanent, and independent entity (like a creator god), showing its logical inconsistencies and lack of explanatory power.",
+                            "function_in_hierarchy": "Addresses and refutes a major category of causal theories (other-production from a permanent cause) within the diamond splinters argument.",
+                            "inter_node_relationships": [
+                              {
+                                "related_node_title": "Investigation of the cause: the diamond splinters argument",
+                                "related_node_number": "9.5.4.2.1",
+                                "relationship_type": "second_refutation_in_parent_argument",
+                                "conceptual_bridge": "Targets theories that posit an external, permanent creator as the source of phenomena."
+                              }
+                            ],
+                            "implicit_concepts": ["The incompatibility of permanence and creative agency", "The problem of divine will and dependence", "The Madhyamaka critique of substantialist theism"],
+                            "commentary_insights": "The commentary details the arguments against Ishvara as creator: If Ishvara is the elements, it's a semantic issue. If space, it's inert. If the self, it's already refuted. If inconceivable, so is his creatorship. If self and elements are eternal like Ishvara, what does he create? A beginningless cause (Ishvara) shouldn't produce effects with beginnings. If independent, creation should be constant. If dependent on conditions, he's not the sole cause and loses omnipotence (constrained by conditions or his own desires). The Mimamsaka theory of permanent particles was also refuted earlier (verse 9.5.2.1.2).",
+                            "commentary_citation": "Commentary on verses 118-126, under 'Refutation of the belief in other-production from a permanent cause'.",
+                            "pedagogical_strategy": "Systematic logical critique of the concept of a creator god, exposing internal contradictions related to permanence, omnipotence, will, and dependence.",
+                            "audience_assumptions": "Familiarity with theistic creation theories prevalent in Indian philosophy."
+                          },
+                          "children": [
+                            {
+                              "level": "sub-sub-sub-sub-subsection",
+                              "number": "9.5.4.2.1.2.1",
+                              "title": "Refutation of the belief in production from a permanent cause",
+                              "verses_span": "118-126",
+                              "summary": {
+                                "content_summary": "These verses specifically refute production from a permanent cause, focusing on the creator god Īshvara. If Īshvara is the elements, it's a naming issue. Elements are many, impermanent, inert, impure, not Īshvara. Īshvara can't be space (inert) or self (refuted). If inconceivable, so is creatorship. If self/elements are eternal like Īshvara, what does he create? Pain/pleasure from karma, consciousness from objects. A beginningless cause implies beginningless effects. If Īshvara is independent, why not constant creation? If dependent, he's not the sole cause or omnipotent. Permanent particles were also refuted.",
+                                "key_concepts": ["Permanent Cause", "Īshvara", "Creator God", "Elements", "Space", "Self", "Inconceivability", "Eternality", "Karma", "Dependence vs. Independence", "Omnipotence", "Permanent Particles"],
+                                "transformative_goal": "To thoroughly dismantle the specific notion of a permanent creator god (Īshvara) as the origin of the universe by exposing numerous logical and conceptual problems with this belief.",
+                                "function_in_hierarchy": "Provides the detailed arguments against a specific type of 'other-production' – that from a permanent, divine cause – which is a significant philosophical target.",
+                                "inter_node_relationships": [
+                                  {
+                                    "related_node_title": "Refutation of the belief in other-production",
+                                    "related_node_number": "9.5.4.2.1.2",
+                                    "relationship_type": "core_argument_of_parent",
+                                    "conceptual_bridge": "Contains the specific verses and arguments that constitute the refutation of a permanent creator god."
+                                  }
+                                ],
+                                "implicit_concepts": ["The problem of evil/suffering if a benevolent omnipotent god exists", "The conflict between divine agency and natural/karmic laws", "The philosophical demand for consistency in defining a cause"],
+                                "commentary_insights": "The commentary elaborates on each point: Ishvara cannot be the elements (multiple, impermanent, impure), space (inert), or the self (already refuted). If Ishvara is inconceivable, his creative role is also. If he creates eternal things like the self or elements, this contradicts their eternality. If he creates transient consciousness or experiences, these arise from their own specific causes (objects, karma). A beginningless, independent Ishvara should create constantly and simultaneously. If he depends on conditions, he is not the ultimate cause and not truly omnipotent, being subject to his own desires or external constraints. The theory of permanent particles as a cause was also previously refuted.",
+                                "commentary_citation": "Commentary on verses 118-126, under 'Refutation of the belief in production from a permanent cause'.",
+                                "pedagogical_strategy": "Systematic deconstruction of the attributes and actions of a proposed permanent creator, highlighting logical inconsistencies and undesirable consequences.",
+                                "audience_assumptions": "Familiarity with theistic arguments for a creator god and the concept of permanent atoms as foundational substances."
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "level": "sub-sub-sub-subsection",
+                          "number": "9.5.4.2.1.3",
+                          "title": "Refutation of the belief in self-production",
+                          "verses_span": "127-140",
+                          "summary": {
+                            "content_summary": "This section refutes self-production (svata-utpāda). It first critiques the Sāṃkhya theory of prakṛiti (primal substance made of three gunas in equilibrium) as the self-producing cause, arguing its unity and threefold nature are contradictory, and its qualities (pleasure, etc.) can't be permanent if they manifest variably. The main argument against self-production is that if results pre-exist in their cause, absurdities follow (e.g., eating food is eating excrement, buying cotton is wearing seeds). If worldly perception is invalid, then what is seen is false. If valid knowledge is invalid, its assessment of emptiness is also false. This is resolved by noting that deceptive objects have a deceptive nonexistence; like a dream child's death, both thoughts (alive, dead) are deceptive.",
+                            "key_concepts": ["Self-Production (Svata-utpāda)", "Sāṃkhya Prakṛiti", "Three Gunas", "Effect Pre-existing in Cause", "Absurd Consequences", "Validity of Perception/Knowledge", "Deceptive Nonexistence"],
+                            "transformative_goal": "To dismantle the belief that things produce themselves or that effects are already latently present in their causes, showing the logical fallacies and absurd outcomes of such views, thereby reinforcing the understanding of emptiness and dependent origination.",
+                            "function_in_hierarchy": "Addresses and refutes another major category of causal theories (self-production) within the diamond splinters argument.",
+                            "inter_node_relationships": [
+                              {
+                                "related_node_title": "Investigation of the cause: the diamond splinters argument",
+                                "related_node_number": "9.5.4.2.1",
+                                "relationship_type": "third_refutation_in_parent_argument",
+                                "conceptual_bridge": "Targets theories that posit phenomena as arising from themselves or containing their own effects."
+                              }
+                            ],
+                            "implicit_concepts": ["The distinction between cause and effect", "The problem of reifying potentiality", "The Madhyamaka understanding of how to use conventional logic to point to ultimate truth without reifying the path itself"],
+                            "commentary_insights": "The commentary details the refutation of Samkhya's prakriti: its claimed unity and threefold nature (sattva, rajas, tamas) are incompatible. If its gunas (pleasure, etc.) are permanent, their variable gross/subtle manifestation is problematic. The core refutation of self-production: if the effect (e.g., excrement) exists in the cause (e.g., food), eating food means eating excrement. If Samkhyas dismiss worldly perception as ignorant, their own 'truth' (effect in cause) should also be perceptible to the worldly if it's a universal reality. The objection that if valid knowledge is deceptive, then emptiness (known by it) is also deceptive, is answered: the nonexistence of a deceptive object is itself a deceptive nonexistence. Like a dream death, the thought 'it is no more' supplants 'it is living,' but both are dream-level deceptions.",
+                            "commentary_citation": "Commentary on verses 127-140, under 'Refutation of the belief in self-production'.",
+                            "pedagogical_strategy": "Critique of a specific philosophical school (Sāṃkhya), reductio ad absurdum arguments, and addressing meta-level objections about the validity of the analytical process itself.",
+                            "audience_assumptions": "Familiarity with Sāṃkhya philosophy and the general concept of an effect being inherent in its cause."
+                          },
+                          "children": [
+                            {
+                              "level": "sub-sub-sub-sub-subsection",
+                              "number": "9.5.4.2.1.3.1",
+                              "title": "Refutation of the primal substance",
+                              "verses_span": "127-134",
+                              "summary": {
+                                "content_summary": "These verses refute the Sāṃkhya concept of prakṛiti (primal substance) as a permanent, self-producing cause. Prakṛiti, as the equilibrium of three gunas (pleasure, pain, neutrality), is said to produce the universe when disturbed. However, a unity with three natures is disallowed, so prakṛiti is non-existent. The gunas themselves, being threefold each, also don't exist. If qualities are non-existent, sound is implausible. Mindless objects like cloth can't be seats of pleasure. If things possess their cause's nature (pleasure), but cloth doesn't spring from pleasure (rather pleasure from cloth), this is problematic. Permanent pleasure is unobserved. If pleasure is manifest, why not always perceived? If subtle, how both gross and subtle? If grossness is abandoned for subtlety, both are impermanent. If grossness is pleasure, pleasure is impermanent.",
+                                "key_concepts": ["Primal Substance (Prakṛiti)", "Sāṃkhya", "Three Gunas (Sattva, Rajas, Tamas)", "Self-Production", "Permanence vs. Impermanence", "Manifestation (Gross/Subtle)"],
+                                "transformative_goal": "To dismantle the Sāṃkhya theory of a permanent, self-creating primal substance by exposing its internal contradictions regarding unity, multiplicity, permanence, and manifestation.",
+                                "function_in_hierarchy": "Provides a detailed critique of a specific instance of 'self-production' theory (Sāṃkhya's prakṛiti), a major opponent in Indian philosophy.",
+                                "inter_node_relationships": [
+                                  {
+                                    "related_node_title": "Refutation of the belief in self-production",
+                                    "related_node_number": "9.5.4.2.1.3",
+                                    "relationship_type": "specific_case_critiqued_by_parent",
+                                    "conceptual_bridge": "Focuses on the Sāṃkhya school's doctrine of prakṛiti as a prime example of a self-production theory."
+                                  }
+                                ],
+                                "implicit_concepts": ["The problem of reconciling unity and multiplicity in a fundamental substance", "The incompatibility of inherent permanence with observable change and manifestation"],
+                                "commentary_insights": "The commentary explains that prakṛiti's definition as a unity with three natures (gunas) is contradictory. Each guna, if also threefold, leads to an infinite regress or non-existence. If gunas are non-existent, their products (like sound) are also. Inanimate objects like cloth cannot inherently possess qualities like pleasure. The Sāṃkhya claim that cloth (effect) has the nature of its cause (pleasure/gunas) is flawed because pleasure arises from cloth, not vice-versa. If pleasure (a guna) is permanent, it should be constantly perceived. If it manifests as gross or subtle, it's impermanent. If its gross aspect is identical to pleasure, then pleasure itself is impermanent.",
+                                "commentary_citation": "Commentary on verses 127-134, under 'Refutation of the primal substance'.",
+                                "pedagogical_strategy": "Detailed logical analysis of the Sāṃkhya concept of prakṛiti and its gunas, exposing internal inconsistencies and contradictions with observed reality.",
+                                "audience_assumptions": "Familiarity with the Sāṃkhya philosophical system, particularly its concepts of prakṛiti, puruṣa, and the three gunas."
+                              },
+                              "children": []
+                            },
+                            {
+                              "level": "sub-sub-sub-sub-subsection",
+                              "number": "9.5.4.2.1.3.2",
+                              "title": "The actual refutation of self-production: the main argument",
+                              "verses_span": "135-140",
+                              "summary": {
+                                "content_summary": "These verses present the main refutation of self-production (effect pre-existing in cause). If what doesn't exist can't manifest, yet Sāṃkhyas deny birth of new things, they contradict themselves. If results exist in causes, eating food is eating excrement; buying cotton is wearing seeds. If this is 'truth' unseen by the 'ignorant world,' then this knowledge should be in the worldly too; why don't they see it? If worldly perception is invalid, what they see is false. If valid knowledge is invalid, its assessment of emptiness is also false. This is resolved: if no object for analysis, no grasping its nonexistence. Deceptive objects have deceptive nonexistence. Like a dream child's death, the thought 'no more' supplants 'living,' yet both are deceptive.",
+                                "key_concepts": ["Self-Production", "Effect Pre-existing in Cause", "Absurd Consequences", "Validity of Perception", "Valid Knowledge (Pramāṇa)", "Deceptive Nonexistence", "Dream Analogy"],
+                                "transformative_goal": "To decisively refute the theory of self-production by highlighting its absurd practical implications and to address meta-objections about the validity of knowledge used in Madhyamaka analysis, showing that even analysis of deceptive phenomena operates within a framework of relative deception.",
+                                "function_in_hierarchy": "Provides the core logical arguments against the general principle of self-production and tackles epistemological challenges arising from the Madhyamaka critique.",
+                                "inter_node_relationships": [
+                                  {
+                                    "related_node_title": "Refutation of the belief in self-production",
+                                    "related_node_number": "9.5.4.2.1.3",
+                                    "relationship_type": "core_argument_of_parent",
+                                    "conceptual_bridge": "Generalizes the refutation beyond Sāṃkhya to the principle that an effect cannot pre-exist in its cause, and addresses the validity of the Madhyamaka method."
+                                  }
+                                ],
+                                "implicit_concepts": ["The principle of non-contradiction in argument", "The Madhyamaka use of conventional logic to transcend conventional thought", "The two truths applied to epistemology"],
+                                "commentary_insights": "The commentary explains that if Sāṃkhyas say an effect pre-exists in its cause (to avoid saying something non-existent becomes existent), this leads to absurdities like eating excrement when eating food. If they dismiss worldly perception as ignorant, their 'truth' should also be perceptible if it's a reality. The Madhyamaka response to the charge that its own (deceptive) analysis of emptiness is therefore invalid is crucial: the nonexistence of a deceptive object is itself a deceptive nonexistence. Just as in a dream, the thought of a child's death replaces the thought of its life, but both are dream-level deceptions. Similarly, the thought 'phenomena are non-existent' replaces 'phenomena are existent,' but both are conceptual constructs; the ultimate is beyond both.",
+                                "commentary_citation": "Commentary on verses 135-140, under 'The actual refutation of self-production: the main argument'.",
+                                "pedagogical_strategy": "Reductio ad absurdum, epistemological counter-argument, and use of analogy (dream) to explain the status of Madhyamaka assertions about emptiness.",
+                                "audience_assumptions": "Ability to follow complex epistemological arguments and understand the subtle Madhyamaka stance on the nature of its own claims."
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.4.2.2",
+                      "title": "Conclusion of the argument",
+                      "verses_span": "141-142",
+                      "summary": {
+                        "content_summary": "These verses conclude the 'diamond splinters' argument regarding causality. Investigation shows nothing is uncaused, and nothing exists inherently in its causes (individually or aggregated). It doesn't come from elsewhere, nor stay, nor depart. What confusion takes for truth is no different from a mirage.",
+                        "key_concepts": ["Conclusion on Causality", "No Uncaused Phenomena", "No Inherent Existence in Causes", "No Coming/Going/Staying", "Mirage-like Nature", "Emptiness of Origination"],
+                        "transformative_goal": "To summarize the findings of the extensive analysis of causality, reinforcing the understanding that phenomena, being unfindable in their causes or as independent entities, are like mirages, empty of inherent existence.",
+                        "function_in_hierarchy": "Synthesizes the results of the preceding detailed refutations of causal theories (uncaused, self-caused, other-caused), leading to a general statement about the empty nature of all caused phenomena.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "An exposition of the proofs of those who uphold the doctrine of emptiness",
+                            "related_node_number": "9.5.4.2",
+                            "relationship_type": "summarizes_preceding_argument_section",
+                            "conceptual_bridge": "Draws the overall conclusion from the 'diamond splinters' analysis of cause, paving the way for other proofs of emptiness."
+                          }
+                        ],
+                        "implicit_concepts": ["The 'neither one nor many' argument applied to causes", "The unfindability of motion and stasis in an ultimate sense (Nagarjuna's arguments)"],
+                        "commentary_insights": "The commentary explains that this summarizes the refutation of the four theories of production (from self, other, both, neither). Phenomena don't exist uncaused, nor do they arise from an eternal cause. They don't coexist in their causes (individually or as a collection). They don't come from elsewhere, abide independently, or depart elsewhere. Thus, all phenomena are by nature empty of their causes and are like mirages.",
+                        "commentary_citation": "Commentary on verses 141-142, under 'Conclusion of the argument'.",
+                        "pedagogical_strategy": "Concise summary of complex arguments, reinforcing the core insight through the mirage analogy.",
+                        "audience_assumptions": "Assimilation of the preceding detailed arguments against various causal theories."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.4.2.3",
+                      "title": "Investigation of the nature: the great interdependence argument",
+                      "verses_span": "143-144",
+                      "summary": {
+                        "content_summary": "These verses present the argument from interdependence to prove emptiness. Things produced by magic spells and things produced by causes should be examined: whence do they arise, where do they go? What is seen when circumstances meet and unseen in their absence is not real, like a mirror image. How can true existence be ascribed to it?",
+                        "key_concepts": ["Interdependence (Pratītyasamutpāda)", "Emptiness of Nature (Svabhāva-śūnyatā)", "Dependent Arising", "Conditionality", "Mirror Image Analogy", "Lack of True Existence"],
+                        "transformative_goal": "To realize that phenomena lack inherent existence precisely because they are dependently arisen, like reflections, and are not independent, self-subsistent entities.",
+                        "function_in_hierarchy": "Introduces another core Madhyamaka proof for emptiness, focusing on the nature of phenomena as dependently originated.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "An exposition of the proofs of those who uphold the doctrine of emptiness",
+                            "related_node_number": "9.5.4.2",
+                            "relationship_type": "second_major_proof_within_parent",
+                            "conceptual_bridge": "Shifts from analyzing cause to analyzing the inherent nature (or lack thereof) of phenomena through the lens of interdependence."
+                          }
+                        ],
+                        "implicit_concepts": ["Emptiness as equivalent to dependent origination", "The unreality of appearances that are entirely conditional"],
+                        "commentary_insights": "The commentary explains that both magical illusions and causally produced phenomena should be investigated regarding their origin, abiding, and cessation – they are found to be equally unfindable. Things that appear only when causes and conditions converge, and disappear when they don't, are like reflections in a mirror: they appear but lack true, independent existence. Interdependent origination means phenomena are free from extremes like permanence/annihilation and are like the eight examples of illusion.",
+                        "commentary_citation": "Commentary on verses 143-144, under 'Investigation of the nature: the great interdependence argument'.",
+                        "pedagogical_strategy": "Using the principle of dependent origination and analogy (mirror image) to demonstrate the lack of inherent existence.",
+                        "audience_assumptions": "Understanding of the basic Buddhist doctrine of dependent origination, now to be understood as implying emptiness."
+                      },
+                      "children": []
+                    },
+                    {
+                      "level": "sub-sub-subsection",
+                      "number": "9.5.4.2.4",
+                      "title": "Investigation of the result: the argument that refutes the origination of the existent and the nonexistent effect",
+                      "verses_span": "145-150",
+                      "summary": {
+                        "content_summary": "These verses investigate the result, refuting the origination of an already existent or a non-existent effect. An existing thing needs no cause; a non-existing thing cannot be changed by causes or transform. If non-existent things can't become, when could existent things occur? If entities don't arise, nonentities don't depart. If nonentity isn't dispersed, entity can't manifest. Entity can't become nonentity without having a double nature. Thus, no entities arise or cease. Beings are unoriginated, unceasing, like dreams or a banana tree. Ultimately, sorrow and beyond-sorrow are indistinguishable.",
+                        "key_concepts": ["Investigation of Result", "Origination of Existent/Nonexistent Effect", "Causelessness of Existent", "Impotence of Nonexistent", "Unoriginated", "Unceasing", "Dream-like Beings", "Banana Tree Analogy", "Ultimate Non-distinction (Samsara/Nirvana)"],
+                        "transformative_goal": "To dismantle the concepts of real origination and cessation by showing the impossibility of either an already existing or a non-existing effect coming into being, leading to the realization of the unproduced and unceasing nature of all phenomena.",
+                        "function_in_hierarchy": "Provides a third major Madhyamaka proof for emptiness by analyzing the nature of the effect or result of any causal process.",
+                        "inter_node_relationships": [
+                          {
+                            "related_node_title": "An exposition of the proofs of those who uphold the doctrine of emptiness",
+                            "related_node_number": "9.5.4.2",
+                            "relationship_type": "third_major_proof_within_parent",
+                            "conceptual_bridge": "Completes the analysis by focusing on the result, showing its emptiness of inherent origination and cessation."
+                          }
+                        ],
+                        "implicit_concepts": ["The 'neither produced nor destroyed' aspect of emptiness", "The ultimate groundlessness of being and non-being", "The non-dual nature of reality"],
+                        "commentary_insights": "The commentary explains: if an effect already exists, it needs no cause. If it's non-existent, even millions of causes can't make it exist or transform it. A non-existent thing cannot become existent. If entities don't arise, non-entities (their absence) don't depart. If non-entity doesn't disperse, entity cannot manifest. An existent thing cannot become non-existent without having a contradictory dual nature. Therefore, ultimately, nothing truly arises or ceases. Beings are like dreams or a banana tree (hollow). In ultimate reality, there's no distinction between samsara and nirvana, as both are empty of inherent existence.",
+                        "commentary_citation": "Commentary on verses 145-150, under 'Investigation of the result: the argument that refutes the origination of the existent and the nonexistent effect'.",
+                        "pedagogical_strategy": "Logical dilemma (existent vs. non-existent effect), reductio ad absurdum, and drawing profound conclusions about the nature of beings and reality, using analogies.",
+                        "audience_assumptions": "Capacity to follow abstract logical arguments about existence, non-existence, origination, and cessation."
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": "section",
+          "number": "9.6",
+          "title": "The benefits of realizing emptiness",
+          "verses_span": "151-167",
+          "summary": {
+            "content_summary": "This final section describes the benefits of realizing emptiness. It leads to the equivalence of the eight worldly concerns (gain/loss, praise/blame, etc.), as there's nothing to gain/lose and no real self to be affected. This realization also fosters the effortless display of great compassion for beings who, ignorant of emptiness, suffer in samsara. The practitioner, seeing beings' plight, is moved to alleviate their suffering, aspiring to share the truth of emptiness with them.",
+            "key_concepts": ["Benefits of Emptiness", "Eight Worldly Concerns", "Equanimity", "Great Compassion", "Ignorance of Beings", "Aspiration to Liberate Others"],
+            "transformative_goal": "To inspire the practitioner by highlighting the profound positive outcomes of realizing emptiness, including inner peace, equanimity, and boundless compassion, thereby motivating continued effort on the path.",
+            "function_in_hierarchy": "Concludes the chapter on wisdom by showing its practical and ethical fruits, linking profound insight with compassionate action and ultimate liberation.",
+            "inter_node_relationships": [
+              {
+                "related_node_title": "Wisdom (Chapter 9)",
+                "related_node_number": "9",
+                "relationship_type": "describes_fruition_of_parent_theme",
+                "conceptual_bridge": "Illustrates the transformative impact of cultivating the wisdom detailed throughout the chapter."
+              }
+            ],
+            "implicit_concepts": ["The inseparability of wisdom and compassion", "The psychological freedom arising from non-attachment", "The Bodhisattva's ultimate motivation"],
+            "commentary_insights": "The commentary explains that realizing emptiness leads to indifference to the eight worldly concerns, as there's no real self to be affected by gain/loss or praise/blame. This realization naturally gives rise to great compassion for beings still trapped by ignorance and belief in true existence. Shantideva's verses express deep empathy for suffering beings and the aspiration to share the liberating truth of emptiness. The section underscores that wisdom is the supreme path, its cause being study and reflection.",
+            "commentary_citation": "Commentary on verses 151-167, under 'The benefits of realizing emptiness'.",
+            "pedagogical_strategy": "Evocative description of the psychological and ethical benefits of realizing emptiness, culminating in a compassionate aspiration.",
+            "audience_assumptions": "A practitioner seeking not only intellectual understanding but also personal transformation and the ability to benefit others."
+          },
+          "children": [
+            {
+              "level": "subsection",
+              "number": "9.6.1",
+              "title": "The equivalence of the eight worldly concerns",
+              "verses_span": "151-154",
+              "summary": {
+                "content_summary": "These verses describe how realizing emptiness leads to equanimity regarding the eight worldly concerns. With things being empty, what is there to gain or lose? Who is there to be honored or scorned? Whence arise pleasure and sorrow? Who is craving, what is craved? Who passes away, comes, or has been? Who are relatives and friends? The practitioner wishes that all beings may grasp that all things are like space.",
+                "key_concepts": ["Eight Worldly Concerns (Gain/Loss, Pleasure/Pain, Praise/Blame, Good/Ill Repute)", "Equanimity", "Emptiness", "No-Self", "Space-like Nature of Phenomena"],
+                "transformative_goal": "To cultivate profound detachment from worldly vicissitudes by understanding their lack of ultimate substance and the non-existence of a solid self to be affected by them.",
+                "function_in_hierarchy": "Details the first major benefit of realizing emptiness: freedom from attachment and aversion related to worldly conditions.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "The benefits of realizing emptiness",
+                    "related_node_number": "9.6",
+                    "relationship_type": "first_benefit_explained_in_parent",
+                    "conceptual_bridge": "Explains how the realization of emptiness directly impacts one's relationship with worldly experiences, leading to equanimity."
+                  }
+                ],
+                "implicit_concepts": ["Non-attachment", "Inner peace independent of external circumstances", "The universal application of emptiness to all experiences"],
+                "commentary_insights": "The commentary explains that since all things (food, clothing, etc.) are empty, there's nothing to truly gain or lose. Praise, honor, insults, humiliation have no real target if the self is empty. Pleasure and sorrow lack inherent existence. Craver and craved are unfindable. Beings, friends, relatives are also without ultimate existence. The wise see all phenomena as space-like and treat the eight worldly concerns with equanimity, as advised by Nagarjuna.",
+                "commentary_citation": "Commentary on verses 151-154, under 'The equivalence of the eight worldly concerns'.",
+                "pedagogical_strategy": "Rhetorical questioning to prompt reflection on the implications of emptiness for everyday concerns, fostering detachment.",
+                "audience_assumptions": "Experience of being swayed by the eight worldly concerns and a desire for inner stability."
+              },
+              "children": []
+            },
+            {
+              "level": "subsection",
+              "number": "9.6.2",
+              "title": "The effortless display of great compassion",
+              "verses_span": "155-167",
+              "summary": {
+                "content_summary": "These verses describe how realizing emptiness leads to the effortless display of great compassion. Seeing beings troubled, striving, suffering, and ignorant of their plight in samsara (a shoreless sea of pain where life is brief and discernment hard), the practitioner is moved. Beings are like those who alternate bathing and burning, proclaiming bliss in suffering, or acting as if death won't come. The practitioner aspires to quench this suffering with the rain of their merit-derived bliss and reveal the truth of emptiness to those ruined by belief in real existence.",
+                "key_concepts": ["Great Compassion (Mahākaruṇā)", "Effortless Display", "Ignorance of Beings", "Samsaric Suffering", "Aspiration to Liberate", "Revealing Emptiness"],
+                "transformative_goal": "To cultivate boundless compassion that arises spontaneously from the wisdom realizing emptiness, motivating the practitioner to work for the liberation of all beings.",
+                "function_in_hierarchy": "Details the second major benefit of realizing emptiness: the natural and profound arising of compassion, fulfilling the Bodhisattva ideal.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_title": "The benefits of realizing emptiness",
+                    "related_node_number": "9.6",
+                    "relationship_type": "second_benefit_explained_in_parent",
+                    "conceptual_bridge": "Shows how wisdom (emptiness) and compassion are inextricably linked, with insight leading to profound empathy and altruistic motivation."
+                  }
+                ],
+                "implicit_concepts": ["The Bodhisattva's path as the union of wisdom and compassion", "The understanding that true benefit for others comes from sharing the Dharma of emptiness", "The urgency of liberating beings from ignorance-based suffering"],
+                "commentary_insights": "The commentary, citing Atisha, states that when emptiness is realized, great compassion arises. Ordinary beings, ignorant of emptiness, take the unreal as real and suffer immensely in samsara's 'chasmic abysses.' They are unaware of their suffering, like those alternating hot and cold baths yet claiming happiness. Shantideva's verses express deep lament for beings' plight and the aspiration to use his merit and understanding of emptiness (gained without conceptual target) to alleviate their suffering and guide them to liberation. This highlights the natural emergence of compassion from realizing emptiness.",
+                "commentary_citation": "Commentary on verses 155-167, under 'The effortless display of great compassion'.",
+                "pedagogical_strategy": "Evocative and empathetic depiction of samsaric suffering to stir compassion, followed by aspirational verses expressing the Bodhisattva's resolve.",
+                "audience_assumptions": "An altruistic motivation and a desire to understand how profound wisdom translates into effective compassionate action."
+              },
+              "children": []
+            }
+          ]
+        }
+      ],
+      "processing_notes": "The summaries have been generated by analyzing the provided chapter structure and commentary. For each node, the commentary was referenced based on verse spans and section titles. The 'inter_node_relationships' field has been simplified to focus on primary connections to parent nodes and the overall flow, rather than exhaustive sibling or cross-hierarchical links, due to complexity. The aim was to capture the core meaning and function of each structural unit as elucidated by the commentary within the hierarchical context of the chapter. The 'verse_text_excerpt' field has been removed from all nodes as requested."
+    }
+  ]
