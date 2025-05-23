@@ -36,13 +36,13 @@ The output will be a JSON object that maintains the exact hierarchical structure
 
 ```json
 "summary": {
-  "content_summary": "(String) A concise summary (2-5 sentences) of the core content, main arguments, and purpose of this structural unit",
+  "content_summary"(String) : "A concise summary (2-5 sentences) of the core content, main arguments, and purpose of this structural unit",
   
-  "key_concepts": "(Array of Strings) Primary philosophical terms, practices, or ideas introduced or elaborated in this unit",
+  "key_concepts"(Array of Strings) : "Primary philosophical terms, practices, or ideas introduced or elaborated in this unit",
   
-  "transformative_goal": "(String) The primary inner transformation, realization, or development this unit aims to facilitate",
+  "transformative_goal"(String) : "The primary inner transformation, realization, or development this unit aims to facilitate",
   
-  "function_in_hierarchy": "(String) The role and purpose of this unit within the broader chapter structure and argument",
+  "function_in_hierarchy"(String) : "The role and purpose of this unit within the broader chapter structure and argument",
   
   "inter_node_relationships": "(Array of Objects) Connections to sibling, parent, or related nodes, each with:",
   // "related_node_id": "(String) Identifier of the related node",
@@ -61,17 +61,17 @@ The output will be a JSON object that maintains the exact hierarchical structure
 },
 
 "functional_transformative_analysis_of_root_text_unit": {
-  "transformative_goal_of_root_text_unit": "(String) The primary inner transformation, realization, or development this root text section aims to facilitate in the reader.",
+  "transformative_goal_of_root_text_unit"(String): " The primary inner transformation, realization, or development this root text section aims to facilitate in the reader.",
   
-  "means_of_transformation": "(String) How this section attempts to produce its intended transformation (e.g., through logical argument, evocative imagery, etc.).",
+  "means_of_transformation"(String): " How this section attempts to produce its intended transformation (e.g., through logical argument, evocative imagery, etc.).",
   
-  "prerequisite_realizations": "(Array of Strings) Prior insights or understandings the reader must have to fully engage with this section.",
+  "prerequisite_realizations"(Array of Strings): " Prior insights or understandings the reader must have to fully engage with this section.",
   
-  "progressive_insights": "(Array of Strings) The sequence of realizations or understandings this section attempts to generate in the reader.",
+  "progressive_insights"(Array of Strings): " The sequence of realizations or understandings this section attempts to generate in the reader.",
   
-  "obstacles_addressed": "(Array of Strings) Cognitive, emotional or practical hindrances this section helps the reader overcome.",
+  "obstacles_addressed"(Array of Strings): " Cognitive, emotional or practical hindrances this section helps the reader overcome.",
   
-  "practice_implications": "(String) How the content of this section might inform or modify meditation practice or daily conduct."
+  "practice_implications"(String): " How the content of this section might inform or modify meditation practice or daily conduct."
 }
 ```
 
