@@ -108,3 +108,6 @@ The output will be a JSON object that maintains the exact hierarchical structure
 
 ## Expected Outcome:
 A comprehensive, hierarchically-structured JSON document that serves as an "AI-ready authoritative interpretation" of the entire chapter, with each structural unit enriched by detailed summaries that capture both explicit content and implicit conceptual relationships, informed by the commentary and structural position within the broader chapter argument.
+
+## Critical
+Please don't include the verse_text_excerpt in the output
