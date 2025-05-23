@@ -1,7 +1,8 @@
 import json
 import unittest
+import copy
 from pathlib import Path
-from outline_parser import process_outline_json, extract_parent_verses, collect_leaf_texts
+from outline_parser import process_outline_json, process_node_recursive
 
 class TestOutlineParser(unittest.TestCase):
     def setUp(self):
@@ -90,72 +91,70 @@ class TestOutlineParser(unittest.TestCase):
             }
         ]
         
+    def test_process_node_recursive(self):
+        """Test the recursive node processing function with dummy data"""
+        # Make a deep copy of the dummy outline to avoid modifying the original
+        test_outline = copy.deepcopy(self.dummy_outline)
+        
+        # Process the test chapter node
+        result = process_node_recursive(test_outline[0])
+        
+        # Check that function returns True since there is verse text
+        self.assertTrue(result)
+        
+        # Check that the chapter node now has verse_text_excerpt
+        self.assertIn("verse_text_excerpt", test_outline[0])
+        
+        # Check that the verse text in the chapter includes all leaf node texts
+        chapter_text = test_outline[0]["verse_text_excerpt"]
+        self.assertIn("These are verses 1-3 of the root text.", chapter_text)
+        self.assertIn("These are verses 4-5 of the root text.", chapter_text)
+        self.assertIn("These are verses 6-8 of the root text.", chapter_text)
+        self.assertIn("These are verses 9-10 of the root text.", chapter_text)
+        
+        # Check that each section also has verse_text_excerpt
+        section1 = test_outline[0]["children"][0]
+        self.assertIn("verse_text_excerpt", section1)
+        self.assertIn("These are verses 1-3 of the root text.", section1["verse_text_excerpt"])
+        self.assertIn("These are verses 4-5 of the root text.", section1["verse_text_excerpt"])
+        
+        section2 = test_outline[0]["children"][1]
+        self.assertIn("verse_text_excerpt", section2)
+        self.assertIn("These are verses 6-8 of the root text.", section2["verse_text_excerpt"])
+        self.assertIn("These are verses 9-10 of the root text.", section2["verse_text_excerpt"])
+    
     def test_process_outline_json(self):
         """Test the main processing function with dummy data"""
-        result = process_outline_json(self.dummy_outline)
+        # Make a deep copy of the dummy outline to avoid modifying the original
+        test_outline = copy.deepcopy(self.dummy_outline)
         
-        # Check that we got the expected number of parent nodes
-        self.assertEqual(len(result), len(self.expected_output))
+        # Process the test outline
+        result = process_outline_json(test_outline)
         
-        # Check that each parent node has the expected fields and values
-        for i, parent_node in enumerate(result):
-            expected_node = self.expected_output[i]
+        # The result should be the same object as the input, modified in place
+        self.assertEqual(id(result), id(test_outline))
+        
+        # Check that the chapter node has verse_text_excerpt
+        self.assertIn("verse_text_excerpt", result[0])
+        
+        # Check that all verse text from leaves is included
+        chapter_text = result[0]["verse_text_excerpt"]
+        for text in ["These are verses 1-3 of the root text.", 
+                    "These are verses 4-5 of the root text.",
+                    "These are verses 6-8 of the root text.",
+                    "These are verses 9-10 of the root text."]:
+            self.assertIn(text, chapter_text)
             
-            self.assertEqual(parent_node["level"], expected_node["level"])
-            self.assertEqual(parent_node["number"], expected_node["number"])
-            self.assertEqual(parent_node["title"], expected_node["title"])
-            self.assertEqual(parent_node["verses_span"], expected_node["verses_span"])
-            self.assertEqual(parent_node["combined_verse_text_excerpt"], expected_node["combined_verse_text_excerpt"])
-    
-    def test_collect_leaf_texts(self):
-        """Test the leaf text collection function"""
-        # Test with a leaf node
-        leaf_node = {
-            "level": "subsection",
-            "number": "1.1.1",
-            "title": "Test Subsection",
-            "verses_span": "1-3",
-            "verse_text_excerpt": "Test verse text",
-            "children": []
-        }
+        # Check that each section has verse_text_excerpt with appropriate text
+        section1_text = result[0]["children"][0]["verse_text_excerpt"]
+        self.assertIn("These are verses 1-3 of the root text.", section1_text)
+        self.assertIn("These are verses 4-5 of the root text.", section1_text)
+        self.assertNotIn("These are verses 6-8 of the root text.", section1_text)
         
-        text_list = []
-        collect_leaf_texts(leaf_node, text_list)
-        self.assertEqual(text_list, ["Test verse text"])
-        
-        # Test with a parent node containing leaves
-        parent_node = self.dummy_outline[0]["children"][0]  # Section 1.1
-        text_list = []
-        collect_leaf_texts(parent_node, text_list)
-        self.assertEqual(len(text_list), 2)
-        self.assertEqual(text_list[0], "These are verses 1-3 of the root text.")
-        self.assertEqual(text_list[1], "These are verses 4-5 of the root text.")
-    
-    def test_extract_parent_verses(self):
-        """Test the parent verse extraction function"""
-        parent_data_list = []
-        extract_parent_verses(self.dummy_outline[0], parent_data_list)
-        
-        # Should extract data for the chapter and both sections
-        self.assertEqual(len(parent_data_list), 3)
-        
-        # Check the chapter data
-        chapter_data = next((item for item in parent_data_list if item["number"] == "1"), None)
-        self.assertIsNotNone(chapter_data)
-        self.assertEqual(chapter_data["level"], "chapter")
-        self.assertEqual(chapter_data["title"], "Test Chapter")
-        
-        # Check section 1.1 data
-        section_1_data = next((item for item in parent_data_list if item["number"] == "1.1"), None)
-        self.assertIsNotNone(section_1_data)
-        self.assertEqual(section_1_data["level"], "section")
-        self.assertEqual(section_1_data["title"], "Test Section 1")
-        
-        # Check section 1.2 data
-        section_2_data = next((item for item in parent_data_list if item["number"] == "1.2"), None)
-        self.assertIsNotNone(section_2_data)
-        self.assertEqual(section_2_data["level"], "section")
-        self.assertEqual(section_2_data["title"], "Test Section 2")
+        section2_text = result[0]["children"][1]["verse_text_excerpt"]
+        self.assertIn("These are verses 6-8 of the root text.", section2_text)
+        self.assertIn("These are verses 9-10 of the root text.", section2_text)
+        self.assertNotIn("These are verses 1-3 of the root text.", section2_text)
 
     def test_end_to_end(self):
         """Test the full process with a temporary file"""
@@ -165,27 +164,36 @@ class TestOutlineParser(unittest.TestCase):
         
         # Write dummy outline to a temporary file
         test_outline_file = test_dir / "test_outline.json"
-        with open(test_outline_file, "w") as f:
-            json.dump(self.dummy_outline, f, indent=2)
+        with open(test_outline_file, "w", encoding='utf-8') as f:
+            json.dump(self.dummy_outline, f, indent=2, ensure_ascii=False)
         
         # Process the outline
-        outline_data_str = test_outline_file.read_text()
+        outline_data_str = test_outline_file.read_text(encoding='utf-8')
         outline_data = json.loads(outline_data_str)
-        processed_output = process_outline_json(outline_data)
+        processed_outline = process_outline_json(outline_data)
         
         # Write the processed output to a temporary file
-        output_file = test_dir / "test_output.json"
-        with open(output_file, "w") as f:
-            json.dump(processed_output, f, indent=2)
+        output_file = test_dir / "updated_outline.json"
+        with open(output_file, "w", encoding='utf-8') as f:
+            json.dump(processed_outline, f, indent=2, ensure_ascii=False)
         
         # Verify the output file exists
         self.assertTrue(output_file.exists())
         
         # Read the output file and verify its contents
-        with open(output_file, "r") as f:
+        with open(output_file, "r", encoding='utf-8') as f:
             result = json.load(f)
         
-        self.assertEqual(len(result), len(self.expected_output))
+        # Check that the result has the same structure as the original but with verse_text_excerpt added
+        self.assertEqual(len(result), len(self.dummy_outline))
+        
+        # Check that chapter has verse_text_excerpt
+        chapter = result[0]
+        self.assertIn("verse_text_excerpt", chapter)
+        
+        # Check that all sections have verse_text_excerpt
+        for section in chapter["children"]:
+            self.assertIn("verse_text_excerpt", section)
         
         # Clean up test files
         test_outline_file.unlink()
