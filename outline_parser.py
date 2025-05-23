@@ -72,8 +72,8 @@ def process_outline_json(input_json_data):
 
 
 if __name__ =="__main__":
-    chapter_dir = Path("./data/chapter_one")
-    chapter_outline_file = chapter_dir / "chapter_1_outline.json"
+    chapter_dir = Path("./data/chapter_nine")
+    chapter_outline_file = chapter_dir / "chapter_9_outline.json"
     outline_data_str = chapter_outline_file.read_text()
     outline_data = json.loads(outline_data_str)
     processed_output = process_outline_json(outline_data)
