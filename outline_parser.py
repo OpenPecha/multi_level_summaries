@@ -1,5 +1,7 @@
 import json
 
+from pathlib import Path
+
 def extract_parent_verses(node, parent_data_list):
     """
     Recursively traverses the outline tree, extracts verse_text_excerpt from leaf nodes,
@@ -70,7 +72,8 @@ def process_outline_json(input_json_data):
 
 
 if __name__ =="__main__":
-    
+    outline_data_str = Path('./data/chapter_one/chapter_1_outline.json').read_text()
+    outline_data = json.loads(outline_data_str)
     processed_output = process_outline_json(outline_data)
 
     # Save the processed data to a new JSON file
@@ -79,3 +82,4 @@ if __name__ =="__main__":
         json.dump(processed_output, f, indent=2)
 
     print(f"Extracted parent node data and combined verse excerpts saved to '{output_file_name}'")
+    
