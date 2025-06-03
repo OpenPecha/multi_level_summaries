@@ -88,8 +88,8 @@ def process_outline_json(input_json_data):
     return input_json_data
 
 if __name__ == "__main__":
-    chapter_dir = Path("./data/chapter_one")
-    chapter_outline_file = chapter_dir / "chapter_1_outline_bo.json"
+    chapter_dir = Path("./data/heart_sutra")
+    chapter_outline_file = chapter_dir / "outline_bo.json"
     output_file_name = chapter_dir / "updated_outline_with_verses_bo.json"
     
     try:
