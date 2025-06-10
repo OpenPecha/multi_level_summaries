@@ -1,2 +1,7 @@
 json
+google-generativeai
+pydantic
+langgraph
+langchain-core
+langchain-google-genai
 

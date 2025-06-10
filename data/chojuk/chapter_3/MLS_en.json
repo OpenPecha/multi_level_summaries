@@ -1,0 +1,596 @@
+[
+    {
+      "level": "chapter-3",
+      "title": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ། (Chapter 3: Fully Embracing the Mind of Awakening)",
+      "verses_span": "1-36",
+      "processing_notes": "The analysis was conducted by processing the hierarchy from the lowest-level nodes (sub-sections) upwards. Summaries for parent nodes synthesize the analyses of their children. The provided commentary was mapped to the verse spans to inform the semantic content of each summary field. A key challenge was ensuring that the 'inter_node_relationships' accurately captured the logical and pedagogical flow of Shantideva's argument, especially how the initial generation of merit through the seven-branch prayer logically transitions into the radical act of giving everything for the benefit of others.",
+      "children": [
+        {
+          "level": "section-3.1",
+          "title": "སྦྱོར་བ། ཡན་ལག་བདུན་པ་དང་བསྔོ་བ། (Preliminaries: The Seven-Branch Prayer and Dedication)",
+          "verses_span": "1-12",
+          "children": [
+            {
+              "level": "subsection-3.1.1",
+              "title": "ཡི་རང་བ། (Rejoicing)",
+              "verses_span": "1-5",
+              "children": [],
+              "summary": {
+                "content_summary": "This section outlines the practice of rejoicing (anumodanā) in all forms of virtue and happiness. It covers rejoicing in the temporary worldly happiness of beings, the virtues leading to the liberation of Śrāvakas and Pratyekabuddhas, their attainment of nirvana, and most importantly, the supreme virtue of the Bodhisattvas—their generation of bodhicitta and their tireless compassionate activities for the welfare of all beings.",
+                "key_concepts": [
+                  "ཡི་རང་། (yirang / anumodanā - rejoicing)",
+                  "དགེ་བ། (gewa - virtue)",
+                  "བྱང་ཆུབ་ཀྱི་སེམས། (changchub kyi sem - bodhicitta)",
+                  "སྐྱེས་བུ་གསུམ། (kyebu sum - three types of individuals)"
+                ],
+                "transformative_goal": "To overcome jealousy and envy, and to accumulate vast merit effortlessly by cultivating a mind that genuinely delights in the goodness and happiness of others, thereby aligning oneself with the compassionate activity of the Bodhisattvas.",
+                "function_in_hierarchy": "This subsection serves as the fourth branch of the seven-branch preliminary practice. It functions to purify the mind of envy and to gather merit, creating a positive foundation for the subsequent generation and application of bodhicitta.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.1.2",
+                    "relationship_type": "precedes_and_enables",
+                    "conceptual_bridge": "By accumulating merit through rejoicing, the practitioner develops the mental fortitude and positive disposition required to then request the Buddhas to teach, ensuring the Dharma continues to be available for all."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The power of intention in accumulating merit.",
+                  "The interconnectedness of all beings' happiness and virtue.",
+                  "The superiority of Mahayana motivation over other spiritual paths."
+                ],
+                "pedagogical_strategy": "Progressive scope of rejoicing: The instruction moves systematically from rejoicing in mundane happiness to the virtue of the Hinayana paths, and finally to the ultimate virtue of the Mahayana path, training the mind in ever-expanding circles of altruistic joy.",
+                "intended_impact_on_reader": "To inspire the reader to feel a sense of profound, non-competitive joy in the accomplishments of all beings, from the smallest good deed to the attainment of Buddhahood, and to realize this as a powerful practice in itself.",
+                "audience_assumptions": "The reader is assumed to have a basic understanding of the Buddhist paths (the three types of individuals) and the concept of merit (puṇya)."
+              }
+            },
+            {
+              "level": "subsection-3.1.2",
+              "title": "ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བར་བསྐུལ་བ། (Requesting to Turn the Wheel of Dharma)",
+              "verses_span": "6-6",
+              "children": [],
+              "summary": {
+                "content_summary": "This verse is a formal request to all the Buddhas residing in the ten directions, beseeching them to teach the Dharma. The practitioner, visualizing themselves making offerings, asks the Buddhas to light the lamp of the Dharma for all sentient beings who are lost and suffering in the darkness of ignorance.",
+                "key_concepts": [
+                  "བསྐུལ་བ། (kulwa - requesting, exhorting)",
+                  "ཆོས་ཀྱི་འཁོར་ལོ། (chö kyi khorlo - Wheel of Dharma)",
+                  "མ་རིག་པའི་མུན་པ། (marigpé münpa - darkness of ignorance)"
+                ],
+                "transformative_goal": "To create the cause for encountering the Dharma in all future lives and to ensure the teachings remain accessible to the world. It shifts the practitioner's focus from personal gain to the universal need for wisdom.",
+                "function_in_hierarchy": "This is the fifth branch of the seven-branch prayer. It directly follows rejoicing and precedes the request for the Buddhas to remain, establishing the practitioner's commitment not only to appreciating virtue but also to ensuring its source (the teachings) is ever-present.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.1.1",
+                    "relationship_type": "builds_on",
+                    "conceptual_bridge": "Having rejoiced in the existence of virtue and enlightenment, the practitioner now actively seeks its cause—the teachings of the Buddhas—for the benefit of all who have not yet found the path."
+                  },
+                  {
+                    "related_node_id": "subsection-3.1.3",
+                    "relationship_type": "is_complemented_by",
+                    "conceptual_bridge": "Requesting the teachings is vital, but their continued presence depends on the teachers remaining in the world. This node and the next form a pair: ensuring the Dharma is taught and that the teachers are present to teach it."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The teachings are not spontaneously available; they depend on the compassionate response of the Buddhas to the needs of beings.",
+                  "The practitioner's aspiration can have a cosmic effect, influencing the actions of enlightened beings."
+                ],
+                "pedagogical_strategy": "Direct supplication and evocative metaphor. The 'lamp of the Dharma' in the 'darkness of ignorance' creates a powerful, easily understood image of the purpose and benefit of the teachings.",
+                "intended_impact_on_reader": "To instill a sense of urgency and responsibility for the continued existence of the Dharma in the world, and to cultivate a deep reverence for the Buddhas as the source of this wisdom.",
+                "audience_assumptions": "Assumes familiarity with the concept of Buddhas existing in multiple world-systems and the belief that they respond to the prayers of the faithful."
+              }
+            },
+            {
+              "level": "subsection-3.1.3",
+              "title": "མྱ་ངན་ལས་མི་འདའ་བར་གསོལ་བ། (Requesting Not to Pass into Nirvana)",
+              "verses_span": "7-7",
+              "children": [],
+              "summary": {
+                "content_summary": "This verse is a heartfelt plea to the Buddhas who may be intending to pass into parinirvāṇa. The practitioner requests them to remain in the world for countless eons, so as not to leave the world's beings 'blind' and without guidance, thereby ensuring the continuous presence of enlightened guides.",
+                "key_concepts": [
+                  "མྱ་ངན་ལས་འདའ་བ། (nyangen lé dewa - nirvāṇa)",
+                  "གསོལ་བ་འདེབས་པ། (solwa debpa - to offer a plea/request)",
+                  "འགྲོ་བ་ལྡོངས་པ། (drowa longpa - blind beings)"
+                ],
+                "transformative_goal": "To create the cause for one's own long life and to always have access to spiritual guides. It cultivates a profound appreciation for the presence of a teacher and counters the subtle selfishness that is content with receiving teachings without considering their source.",
+                "function_in_hierarchy": "This constitutes the sixth branch of the seven-branch prayer. It ensures the long-term accessibility of the Dharma, which was requested in the previous branch, by beseeching the teachers to remain physically present and active in the world.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.1.2",
+                    "relationship_type": "supports",
+                    "conceptual_bridge": "The request for the Buddhas to teach the Dharma is made sustainable by this request for them to remain in the world. The teaching requires a teacher."
+                  },
+                  {
+                    "related_node_id": "subsection-3.1.4",
+                    "relationship_type": "is_a_precondition_for",
+                    "conceptual_bridge": "The accumulation of all the merit from these preliminary practices is what is ultimately dedicated in the final branch. This act of requesting the Buddhas to remain is a key source of that merit."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The physical presence of a Buddha or a qualified teacher is of immense value.",
+                  "Parinirvāṇa is a choice made by a Buddha for the benefit of disciples, and can be influenced by their requests."
+                ],
+                "pedagogical_strategy": "Direct supplication and emotional appeal. The image of beings becoming 'blind' without the Buddhas evokes a sense of dependence and preciousness regarding the teacher.",
+                "intended_impact_on_reader": "To generate a deep feeling of reliance on and appreciation for the Buddhas and lineage masters, motivating the reader to pray for their long lives.",
+                "audience_assumptions": "The reader understands the traditional account of the Buddha's life, including the requests made by Brahma and Indra for him to teach and remain in the world."
+              }
+            },
+            {
+              "level": "subsection-3.1.4",
+              "title": "བསྔོ་བ་དང་སྨོན་ལམ། (Dedication and Aspiration)",
+              "verses_span": "8-12",
+              "children": [],
+              "summary": {
+                "content_summary": "This section serves as the dedication (pariṇāmanā), the seventh branch of the prayer. The practitioner dedicates all the merit accumulated from the preceding practices, and all their virtue from the past, present, and future, for the complete alleviation of the suffering of all sentient beings. This is followed by specific aspirations to become medicine for the sick, a guide for the lost, food for the hungry, and an inexhaustible treasure to fulfill the needs of the poor.",
+                "key_concepts": [
+                  "བསྔོ་བ། (ngowa - dedication)",
+                  "སྨོན་ལམ། (mönlam - aspiration)",
+                  "སྡུག་བསྔལ། (dukngal - suffering)",
+                  "གཏེར། (ter - treasure)"
+                ],
+                "transformative_goal": "To transform self-centered motivation into pure, universal altruism. By dedicating all personal merit for the benefit of others, the practitioner seals the virtue, prevents it from being destroyed by anger, and directs its power toward the ultimate goal of enlightenment for all.",
+                "function_in_hierarchy": "This is the culminating and most critical part of the preliminary practices. It gathers the force of all previous branches and channels it into the Bodhisattva's core mission. It acts as a bridge from the preparatory practices to the main practice of generating and applying bodhicitta.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "section-3.2",
+                    "relationship_type": "transitions_to",
+                    "conceptual_bridge": "The general dedication to alleviate suffering here becomes the specific, radical commitment in the next section: the willingness to give one's own body, wealth, and merit entirely over to others. This section states the 'what' (alleviate suffering), and the next section details the ultimate 'how' (complete giving)."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Merit is a transferable energy that can be directed by intention.",
+                  "Aspiration is a creative force that shapes future reality and capacity.",
+                  "The Bodhisattva's path is one of active, tangible service, not just abstract goodwill."
+                ],
+                "pedagogical_strategy": "Universal dedication followed by specific, poetic aspirations. The text moves from the all-encompassing wish to end suffering to a series of powerful, relatable metaphors (becoming medicine, food, a treasure) that make the abstract intention concrete and emotionally resonant.",
+                "intended_impact_on_reader": "To inspire a profound sense of purpose and boundless generosity. The reader is moved to see their own potential as a source of limitless benefit for others in all possible ways.",
+                "audience_assumptions": "Assumes an understanding of the concepts of merit (puṇya) and its dedication, a central practice in all schools of Buddhism."
+              }
+            }
+          ],
+          "summary": {
+            "content_summary": "This section covers the foundational preliminary practices, specifically focusing on the last four branches of the seven-branch prayer: rejoicing in virtue, requesting the Buddhas to teach, beseeching them not to enter nirvana, and dedicating the accumulated merit. This sequence purifies the mind, accumulates merit, and orients the practitioner's motivation entirely toward the welfare of all beings, culminating in powerful aspirations to be a direct, tangible source of relief and support for them.",
+            "key_concepts": [
+              "ཡན་ལག་བདུན་པ། (yenlak dünpa - seven-branch prayer)",
+              "ཡི་རང་། (yirang - rejoicing)",
+              "ཆོས་འཁོར་བསྐོར་བར་བསྐུལ་བ། (chökhor korwar kulwa - requesting the turning of the Dharma wheel)",
+              "བསྔོ་བ། (ngowa - dedication)"
+            ],
+            "transformative_goal": "To systematically reorient the practitioner's mind away from self-concern and towards a universal, altruistic perspective. It serves to accumulate the necessary merit and create the psychological readiness for the profound commitment of the Bodhisattva vow.",
+            "function_in_hierarchy": "This entire section serves as the 'Sambhāra' or accumulation phase. It builds the necessary spiritual capital (merit) and proper motivation (altruism) that are the prerequisites for the main subject of the chapter: the actual generation and embracing of bodhicitta through the act of giving.",
+            "inter_node_relationships": [
+              {
+                "related_node_id": "section-3.2",
+                "relationship_type": "is_the_foundation_for",
+                "conceptual_bridge": "The merit and universal altruistic aspiration cultivated in this preliminary section provide the necessary context and power for the radical act of 'Mind Training' (giving away one's body, possessions, and merit) that is detailed in the following section."
+              }
+            ],
+            "implicit_concepts": [
+              "Spiritual practice requires a structured preparation.",
+              "The path is not just about meditation but also about cultivating specific attitudes and intentions towards the sources of refuge and other beings."
+            ],
+            "pedagogical_strategy": "Structured liturgical sequence. The section follows the traditional order of the latter part of the seven-branch prayer, guiding the practitioner through a logical flow of thought: appreciating virtue, wanting it to be taught, wanting the teachers to remain, and dedicating the results.",
+            "intended_impact_on_reader": "To lead the reader through a powerful mental and emotional exercise that leaves them with a strong sense of connection to the Buddhas, a vast store of positive energy, and a clear, altruistic direction for their spiritual path.",
+            "audience_assumptions": "The reader is likely a practitioner intending to engage in Mahayana practice and is familiar with its preliminary rites (ngöndro)."
+          }
+        },
+        {
+          "level": "section-3.2",
+          "title": "བློ་སྦྱང་བ། (Mind Training)",
+          "verses_span": "13-25",
+          "children": [
+            {
+              "level": "subsection-3.2.1",
+              "title": "བློ་སྦྱང་བ་དངོས། (The Actual Practice of Giving)",
+              "verses_span": "13-13",
+              "children": [],
+              "summary": {
+                "content_summary": "This single, potent verse contains the core declaration of the Bodhisattva's generosity. It is the formal mental act of giving away one's body, all possessions, and the entirety of one's virtue accumulated across the three times (past, present, and future). This offering is made without any sense of regret or hope for personal reward, solely for the purpose of accomplishing the welfare of all sentient beings.",
+                "key_concepts": [
+                  "གཏོང་བ། (tongwa - giving, letting go)",
+                  "ལུས། (lü - body)",
+                  "ལོངས་སྤྱོད། (longchöd - possessions, enjoyments)",
+                  "དུས་གསུམ་དགེ་བ། (dü sum gewa - virtue of the three times)"
+                ],
+                "transformative_goal": "To sever the root of self-grasping (ātmagrāha) by mentally relinquishing the three things one cherishes most: body, possessions, and personal merit. This act directly counteracts the ego's tendency to appropriate and cling, which is the fundamental source of suffering.",
+                "function_in_hierarchy": "This is the pivotal statement of the entire 'Mind Training' section. It is the direct and uncompromised expression of the intention cultivated in the preliminaries. The following verses will provide the reasoning for and the application of this radical vow.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.1.4",
+                    "relationship_type": "actualizes_the_aspiration_of",
+                    "conceptual_bridge": "The previous section ended with the aspiration to be a treasure for all beings; this verse is the concrete fulfillment of that aspiration by mentally giving that treasure away completely."
+                  },
+                  {
+                    "related_node_id": "subsection-3.2.2",
+                    "relationship_type": "is_justified_by",
+                    "conceptual_bridge": "This radical act of giving might seem counter-intuitive. The next subsection provides the logical reasoning that demonstrates why this is the most supreme and logical course of action for one seeking enlightenment."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Mental giving is as powerful, if not more so, than physical giving.",
+                  "True generosity is free from any attachment to the gift, the recipient, or the act itself.",
+                  "The path to enlightenment requires the complete abandonment of self-interest."
+                ],
+                "pedagogical_strategy": "Declarative vow. The verse is stated as a direct, powerful resolution. It's not a suggestion but a formula for an internal speech act that the practitioner is meant to adopt as their own.",
+                "intended_impact_on_reader": "To inspire the reader to make this profound mental commitment, to challenge their deepest attachments, and to introduce them to the radical scope of a Bodhisattva's generosity.",
+                "audience_assumptions": "The reader is prepared, through the preliminary practices, to contemplate such a profound act of renunciation and understands it as a mental training rather than an immediate physical instruction."
+              }
+            },
+            {
+              "level": "subsection-3.2.2",
+              "title": "དེའི་འཐད་པ་དགོད་པ། (The Reasoning for Giving)",
+              "verses_span": "14-14",
+              "children": [],
+              "summary": {
+                "content_summary": "This verse provides the logical justification for the preceding declaration of total giving. It presents two core reasons: 1) The goal is nirvana, which is defined by the relinquishing of all attachments and afflictions; therefore, giving everything away is the direct path to this goal. 2) Since death will inevitably force one to give up everything anyway, it is far more logical and beneficial to give it all away now, voluntarily, for the benefit of all beings, thereby transforming a certain loss into a supreme gain.",
+                "key_concepts": [
+                  "མྱ་ངན་འདའ། (nyangen da - to pass beyond sorrow; nirvana)",
+                  "གཏོང་བ། (tongwa - giving)",
+                  "ཆབས་གཅིག (chabchik - in any case, inevitably)"
+                ],
+                "transformative_goal": "To overcome hesitation and attachment by appealing to logic. It reframes the act of giving not as a loss, but as the most intelligent and pragmatic strategy for achieving liberation and making one's life meaningful.",
+                "function_in_hierarchy": "This subsection provides the crucial logical foundation for the practice of total giving. It answers the 'why' that naturally arises after the 'what' is presented in the previous verse, making the practice intellectually coherent and not merely an act of faith.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.2.1",
+                    "relationship_type": "provides_rationale_for",
+                    "conceptual_bridge": "This verse directly explains why the seemingly extreme act of giving everything away, as stated in verse 13, is the most logical and effective path. It provides the intellectual conviction needed to sustain the practice."
+                  },
+                  {
+                    "related_node_id": "subsection-3.2.3",
+                    "relationship_type": "enables",
+                    "conceptual_bridge": "Once the practitioner is intellectually convinced of the logic of giving, they are better prepared to engage in the specific and challenging practice of mentally giving their body to others, as detailed in the next section."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The path of the Bodhisattva is supremely logical.",
+                  "Impermanence and death are not just sources of suffering, but can be powerful motivators for practice.",
+                  "Enlightenment is a state of relinquishment, not acquisition."
+                ],
+                "pedagogical_strategy": "Logical argument and appeal to reason. It uses two undeniable truths—the nature of nirvana and the certainty of death—to construct an inescapable argument for the wisdom of giving.",
+                "intended_impact_on_reader": "To replace any feelings of doubt or loss with a strong sense of conviction and intelligent purpose regarding the practice of generosity. It empowers the reader to see giving as a skillful means, not a sacrifice.",
+                "audience_assumptions": "The reader accepts the Buddhist goal of nirvana and the reality of impermanence and death."
+              }
+            },
+            {
+              "level": "subsection-3.2.3",
+              "title": "ལུས་བྱེ་བྲག་ཏུ་གཏོང་བ། (Specifically Giving the Body)",
+              "verses_span": "15-19",
+              "children": [],
+              "summary": {
+                "content_summary": "This section deepens the practice of giving by focusing specifically on the body. Having mentally given the body away, the practitioner resolves to remain unperturbed whether others praise, harm, or even kill them. They relinquish any sense of ownership or protectiveness, viewing the body as a tool for others to use as they please. The aspiration is made that any interaction with the practitioner's body, whether positive or negative, becomes a cause for that other person's ultimate enlightenment and never a cause for them to have a wasted or harmful thought.",
+                "key_concepts": [
+                  "ལུས་གཏོང་བ། (lü tongwa - giving the body)",
+                  "བདག་འཛིན། (dakdzin - self-grasping)",
+                  "ཅི་དགར་བྱེད། (chi gar jed - to do as one pleases)",
+                  "བྱང་ཆུབ་ཀྱི་སྐལ། (changchub kyi kal - an opportunity for enlightenment)"
+                ],
+                "transformative_goal": "To radically sever the deepest form of attachment: the identification with and cherishing of one's physical body. This practice aims to cultivate complete equanimity and fearlessness in the face of praise, blame, pleasure, and pain.",
+                "function_in_hierarchy": "This operationalizes the general vow of giving (3.2.1) by applying it to the most challenging object of attachment—the body. It's a specific, intensive training module within the broader 'Mind Training' section.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.2.2",
+                    "relationship_type": "is_an_application_of",
+                    "conceptual_bridge": "The logical conviction that giving is supreme (3.2.2) is now put to the test with the most difficult object. This section trains the mind to apply that logic to the physical self."
+                  },
+                  {
+                    "related_node_id": "subsection-3.2.4",
+                    "relationship_type": "is_a_precursor_to",
+                    "conceptual_bridge": "By relinquishing the self-cherishing of the body, the practitioner is now free to genuinely aspire to become a universal resource for others in myriad ways, as detailed in the expansive aspirations of the next section. One cannot become a wish-fulfilling jewel for others while still clinging to one's own body."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The body is merely a conditioned phenomenon, not an intrinsic self.",
+                  "The reactions of others are opportunities for practice.",
+                  "A Bodhisattva's primary concern is the spiritual state of others, not their own physical comfort."
+                ],
+                "pedagogical_strategy": "Intensive visualization and repeated affirmation. The text encourages the practitioner to actively imagine various scenarios (being beaten, praised, etc.) and to repeatedly affirm their relinquishment of the body, thereby habituating the mind to this new perspective.",
+                "intended_impact_on_reader": "To provoke a profound re-evaluation of the reader's relationship with their own body, pushing them towards fearlessness and a radical decentering of the ego.",
+                "audience_assumptions": "This is an advanced mental practice. It assumes the reader understands this is a training in letting go of attachment, not a literal instruction to seek harm."
+              }
+            },
+            {
+              "level": "subsection-3.2.4",
+              "title": "བློ་སྦྱོང་གི་འབྲས་བུ་གཞན་དོན་ལ་བསྔོ་བ། (Dedicating the Results of Mind Training)",
+              "verses_span": "20-25",
+              "children": [],
+              "summary": {
+                "content_summary": "This section consists of a series of expansive and poetic aspirations that represent the fruit of the mind training. Having given everything away, the practitioner now aspires to become whatever beings need to find happiness and liberation. They wish to be a protector for the protectorless, a guide for travelers, a boat for those who need to cross over, a wish-granting jewel, a vase of plenty, a powerful mantra, a great medicine, a wish-fulfilling tree, and a cow of plenty. Finally, they aspire to be a source of sustenance for all beings in all ways, just as the great elements (earth, water, fire, wind) and space support all life, and to do so until every last being has attained nirvana.",
+                "key_concepts": [
+                  "སྨོན་ལམ། (mönlam - aspiration)",
+                  "མགོན། (gön - protector)",
+                  "དཔག་བསམ་གྱི་ཤིང་། (paksam gyi shing - wish-fulfilling tree)",
+                  "འབྱུང་བ་ཆེན་པོ། (jungwa chenpo - the great elements)"
+                ],
+                "transformative_goal": "To expand the mind to a state of limitless, creative compassion. It transforms the practitioner's self-identity from a limited, individual being into a universal, inexhaustible resource for the welfare of others.",
+                "function_in_hierarchy": "This is the glorious result and dedication of the 'Mind Training'. It takes the space created by the 'giving away' and fills it with boundless, positive aspirations. It answers the question: 'Now that I have given everything away, what will I be?' The answer is: 'Everything for everyone.'",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.2.3",
+                    "relationship_type": "is_the_fruition_of",
+                    "conceptual_bridge": "The radical relinquishment of the body and self-cherishing in the previous section creates the necessary freedom and non-attachment for the mind to genuinely and boundlessly aspire to become all these beneficial things for others."
+                  },
+                  {
+                    "related_node_id": "section-3.3",
+                    "relationship_type": "is_a_direct_expression_of",
+                    "conceptual_bridge": "These expansive aspirations are the very essence of the Bodhisattva's intention. They lead directly into the next section, which is the formal undertaking of the Bodhisattva vow, crystallizing these aspirations into a concrete commitment."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The power of aspiration can shape one's capacities and future existences.",
+                  "A Bodhisattva's compassion is not passive but actively seeks creative ways to benefit beings.",
+                  "The ultimate state of a being is not a static self but a dynamic, responsive presence."
+                ],
+                "pedagogical_strategy": "Cumulative poetic metaphor. The text builds a powerful emotional and imaginative crescendo through a series of vivid, mythological, and natural symbols of inexhaustible bounty and support. The final comparison to the elements and space brings the aspiration to a cosmic scale.",
+                "intended_impact_on_reader": "To completely blow open the reader's conception of what is possible. It aims to inspire a sense of awe, boundless optimism, and a powerful desire to embody this universal, compassionate responsiveness.",
+                "audience_assumptions": "The reader is familiar with Indian cultural and Buddhist mythological symbols like the wish-granting jewel (cintāmaṇi), vase of plenty (kumbha), etc."
+              }
+            }
+          ],
+          "summary": {
+            "content_summary": "This section, titled 'Mind Training,' details the radical practice of completely giving away one's body, possessions, and merit for the benefit of all beings. It begins with the core declaration of giving, provides the logical reasoning for this act (it is the path to nirvana and makes a virtue of the inevitable loss at death), intensifies the practice by focusing on giving the body, and culminates in a series of magnificent aspirations to become an inexhaustible, universal resource for all beings until their ultimate liberation.",
+            "key_concepts": [
+              "བློ་སྦྱོང་། (lojong - mind training)",
+              "གཏོང་བ། (tongwa - giving, generosity)",
+              "བདག་མེད་པ། (dagmepa - selflessness)",
+              "སྨོན་ལམ། (mönlam - aspiration)"
+            ],
+            "transformative_goal": "To fundamentally dismantle the structure of self-cherishing (ātma-sneha) and replace it with other-cherishing (para-sneha). This training is the direct antidote to the ego and the principal method for cultivating practical, boundless compassion.",
+            "function_in_hierarchy": "This section is the heart of the chapter's practical instruction on how to generate the 'mind of application' (prasthāna-citta). It transforms the aspirational prayers of the first section into a concrete, internal practice of radical generosity, which is the necessary ground for formally taking the Bodhisattva vow.",
+            "inter_node_relationships": [
+              {
+                "related_node_id": "section-3.1",
+                "relationship_type": "actualizes",
+                "conceptual_bridge": "This section takes the general, other-directed motivation cultivated in the preliminary practices and transforms it into the specific, radical, and deeply personal act of giving away the self."
+              },
+              {
+                "related_node_id": "section-3.3",
+                "relationship_type": "is_the_direct_preparation_for",
+                "conceptual_bridge": "Having trained the mind in this way to completely relinquish self-interest, the practitioner is now psychologically and spiritually prepared to undertake the formal commitment, the Bodhisattva Vow, which is the subject of the next section."
+              }
+            ],
+            "implicit_concepts": [
+              "The battlefield of the Bodhisattva is primarily internal—the mind itself.",
+              "Radical mental transformation is the key to authentic spiritual practice.",
+              "The ultimate expression of wisdom is boundless compassion."
+            ],
+            "pedagogical_strategy": "Systematic intensification. The section moves from a general principle (giving), to its logical justification, to its most challenging application (the body), and finally to its glorious, aspirational result. This creates a complete and compelling psychological process for the practitioner.",
+            "intended_impact_on_reader": "To guide the reader through a profound inner shift, from seeing generosity as giving *something* to seeing it as giving *oneself*, and to inspire them with the limitless, creative potential that this relinquishment unlocks.",
+            "audience_assumptions": "The reader is a dedicated Mahayana practitioner who is ready to engage with the core transformative practices of the path, not just its philosophical tenets."
+          }
+        },
+        {
+          "level": "section-3.3",
+          "title": "དངོས་གཞི་དམ་བཅའ་བ། (Main Practice: Taking the Vow)",
+          "verses_span": "26-27",
+          "children": [],
+          "summary": {
+            "content_summary": "This is the formal ceremony of taking the Bodhisattva vow, the central act of the chapter. The practitioner explicitly resolves to follow the example of the previous Buddhas (Sugatas). Just as they generated the mind of awakening (bodhicitta) and trained progressively in the Bodhisattva precepts, the practitioner now vows to do the same: to generate bodhicitta for the benefit of all beings and to train in the precepts in a gradual manner.",
+            "key_concepts": [
+              "དམ་བཅའ། (damcha - vow, commitment)",
+              "བདེ་བར་གཤེགས་པ། (dewar shekpa - Sugata, Buddha)",
+              "བྱང་ཆུབ་སེམས་བསྐྱེད་པ། (changchub sem kyepa - generating bodhicitta)",
+              "བསླབ་པ་ལ་སློབ་པ། (labpa la lobpa - training in the precepts)"
+            ],
+            "transformative_goal": "To formally and irreversibly commit oneself to the Mahayana path. This act plants the seed of enlightenment, transforms one's identity into that of a Bodhisattva (a child of the Buddhas), and provides the foundational commitment that structures all subsequent practice.",
+            "function_in_hierarchy": "This is the climax of the first part of the chapter. All the preceding sections—the preliminaries and the mind training—were preparations for this single, definitive act of taking the vow. This is the main practice (dngos gzhi) itself.",
+            "inter_node_relationships": [
+              {
+                "related_node_id": "section-3.2",
+                "relationship_type": "is_the_culmination_of",
+                "conceptual_bridge": "The intense 'Mind Training' of the previous section prepares the practitioner to make this vow with genuine understanding and resolve. The vow formalizes the internal transformation that the mind training initiated."
+              },
+              {
+                "related_node_id": "section-3.4",
+                "relationship_type": "triggers",
+                "conceptual_bridge": "The act of taking this profound vow is what leads to the immense joy and sense of purpose that is celebrated and explored in the final section of the chapter. The vow is the cause; the joy is the immediate effect."
+              }
+            ],
+            "implicit_concepts": [
+              "Lineage is crucial; the practitioner is joining a succession of enlightened beings.",
+              "The path is gradual ('rim pa bzhin du'). One commits to the full path but trains progressively.",
+              "A formal vow has a transformative power that a mere informal wish does not."
+            ],
+            "pedagogical_strategy": "Formal vow formula based on precedent. The strategy is to have the practitioner align their own actions with the archetypal actions of all past Buddhas, lending immense power and authority to the commitment.",
+            "intended_impact_on_reader": "To lead the reader through the actual ritual speech act of taking the Bodhisattva vow, thereby formally initiating them onto the path and instilling a profound sense of commitment and belonging to the Buddha's lineage.",
+            "audience_assumptions": "The reader is at a point of sincere commitment and wishes to formally undertake the Bodhisattva path. The text itself becomes the medium for the ceremony."
+          }
+        },
+        {
+          "level": "section-3.4",
+          "title": "མཇུག་རང་གཞན་དགའ་བ་བསྒོམ་པ། (Conclusion: Meditating on One's Own and Others' Joy)",
+          "verses_span": "28-36",
+          "children": [
+            {
+              "level": "subsection-3.4.1",
+              "title": "རང་དགའ་བ་བསྒོམ་པ། (Meditating on One's Own Joy)",
+              "verses_span": "28-35",
+              "children": [
+                {
+                  "level": "subsubsection-3.4.1.1",
+                  "title": "གཟེངས་བསྟོད་པ། (Arousing Inspiration and Joy)",
+                  "verses_span": "28-31",
+                  "children": [],
+                  "summary": {
+                    "content_summary": "Having taken the Bodhisattva vow, this section is an exultation of the profound significance of this event. The practitioner reflects on how their life has now become fruitful and their precious human existence has been made meaningful. They rejoice in having been born into the family of the Buddhas, becoming a Bodhisattva. This is followed by a resolution to always act in accordance with this new, noble lineage and never defile it. The rarity of this event is likened to a blind person accidentally finding a wish-fulfilling jewel in a pile of rubbish.",
+                    "key_concepts": [
+                      "གཟེངས་བསྟོད་པ། (zeng töpa - to uplift, to inspire)",
+                      "འབྲས་བུ་ཡོད། (drebu yö - fruitful)",
+                      "སངས་རྒྱས་ཀྱི་རིགས། (sangye kyi rik - Buddha-family)",
+                      "རིན་ཆེན་རྙེད་པ། (rinchen nyepa - finding a jewel)"
+                    ],
+                    "transformative_goal": "To generate a powerful sense of joy, confidence, and purpose that will sustain the practitioner on the long Bodhisattva path. This joy acts as an antidote to discouragement and reinforces the commitment just made.",
+                    "function_in_hierarchy": "This is the immediate, joyful reaction to taking the vow. It serves to seal the commitment with positive emotion and to provide the motivation to protect the vows and appreciate their value.",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_id": "section-3.3",
+                        "relationship_type": "is_the_direct_result_of",
+                        "conceptual_bridge": "The formal act of taking the vow in the previous section is the direct cause of the profound joy and sense of new identity celebrated in these verses."
+                      },
+                      {
+                        "related_node_id": "subsubsection-3.4.1.2",
+                        "relationship_type": "is_thematic_introduction_for",
+                        "conceptual_bridge": "This section establishes the practitioner's personal joy in attaining bodhicitta. The next section expands on this by contemplating the universal qualities and benefits of bodhicitta itself."
+                      }
+                    ],
+                    "implicit_concepts": [
+                      "Spiritual attainment is a source of profound joy, not just solemn duty.",
+                      "A change in commitment brings about a change in identity.",
+                      "The opportunity for enlightenment is both precious and exceedingly rare."
+                    ],
+                    "pedagogical_strategy": "Exhortation and analogy. The text uses uplifting language to boost the practitioner's spirit and employs the powerful analogy of the blind person and the jewel to emphasize the incredible fortune of generating bodhicitta.",
+                    "intended_impact_on_reader": "To make the reader feel an overwhelming sense of joy, relief, and preciousness about their decision to embark on the Bodhisattva path. It aims to create a state of inspired determination.",
+                    "audience_assumptions": "The reader has just followed the instruction in the previous section and has, at least mentally, taken the Bodhisattva vow."
+                  }
+                },
+                {
+                  "level": "subsubsection-3.4.1.2",
+                  "title": "བྱང་ཆུབ་སེམས་ཀྱི་ཡོན་ཏན་བསམ་པ། (Contemplating the Qualities of Bodhicitta)",
+                  "verses_span": "32-35",
+                  "children": [],
+                  "summary": {
+                    "content_summary": "This section extols the virtues of bodhicitta through a series of powerful metaphors. Bodhicitta is described as the supreme nectar that overcomes death, the inexhaustible treasure that eliminates poverty, the ultimate medicine that cures all ills, the tree that gives rest to weary travelers on the path of existence, the universal bridge saving all beings from lower realms, the rising moon that soothes the pain of afflictions, the great sun that dispels the darkness of ignorance, and the quintessential butter churned from the milk of the true Dharma.",
+                    "key_concepts": [
+                      "ཡོན་ཏན། (yönten - qualities, virtues)",
+                      "བདུད་རྩི། (dütsi - nectar, amṛta)",
+                      "སྨན། (men - medicine)",
+                      "ཉི་ཟླ། (nyi da - sun and moon)"
+                    ],
+                    "transformative_goal": "To deepen the practitioner's appreciation and conviction in the value of bodhicitta. By contemplating its immense benefits for self and others, the motivation to cultivate and protect it is greatly strengthened.",
+                    "function_in_hierarchy": "This subsection serves to analytically and poetically elaborate on the value of the 'jewel' found in the previous verses. It provides the content for the joy, moving from 'I have found this wonderful thing!' to 'This is *why* it is so wonderful.'",
+                    "inter_node_relationships": [
+                      {
+                        "related_node_id": "subsubsection-3.4.1.1",
+                        "relationship_type": "elaborates_on",
+                        "conceptual_bridge": "The previous verses established the joy of finding the 'jewel' of bodhicitta. These verses describe the many facets of that jewel, explaining its supreme value through a series of metaphors."
+                      }
+                    ],
+                    "implicit_concepts": [
+                      "Bodhicitta is not just a 'good intention' but a potent, active force with transformative power.",
+                      "Bodhicitta is the panacea for all forms of suffering, from the material to the spiritual.",
+                      "Bodhicitta is the essence of the entire Dharma."
+                    ],
+                    "pedagogical_strategy": "Cumulative metaphor. The text employs a rapid succession of universally positive and powerful images (nectar, medicine, sun, moon) to create an overwhelming impression of the supreme value and multifaceted nature of bodhicitta.",
+                    "intended_impact_on_reader": "To generate a sense of awe and profound reverence for bodhicitta. The reader should feel inspired and convinced that in cultivating this one mind, they are cultivating the source of all possible good.",
+                    "audience_assumptions": "The reader is receptive to poetic and metaphorical language as a means of conveying profound spiritual truths."
+                  }
+                }
+              ],
+              "summary": {
+                "content_summary": "This subsection focuses on generating and sustaining joy from the practitioner's own perspective after having taken the Bodhisattva vow. It begins by celebrating the new, noble identity as a Bodhisattva and the immense good fortune of this event, using the analogy of a blind person finding a jewel. It then deepens this joy by contemplating the multifaceted qualities of bodhicitta itself, comparing it to nectar, medicine, a treasure, a resting place, the sun, and the moon, showing it to be the universal panacea for all suffering.",
+                "key_concepts": [
+                  "དགའ་བ་བསྒོམ་པ། (gawa gompa - meditating on joy)",
+                  "སངས་རྒྱས་ཀྱི་སྲས། (sangye kyi sé - Child of the Buddhas)",
+                  "ཡོན་ཏན། (yönten - qualities)"
+                ],
+                "transformative_goal": "To firmly establish a joyful and confident mindset as the foundation for the Bodhisattva's path. This joy serves as both a reward for the commitment made and a source of strength for the challenges ahead.",
+                "function_in_hierarchy": "This is the first part of the concluding section, focusing on internalizing the significance of the vow. It solidifies the practitioner's personal resolve and provides them with the reasons to cherish their newfound commitment.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.4.2",
+                    "relationship_type": "is_complemented_by",
+                    "conceptual_bridge": "After celebrating one's own joy in taking the vow, the logical next step is to share this joy and its merit with others. This subsection focuses on the internal experience, while the next one externalizes it by inviting all beings to rejoice."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Positive emotional states like joy are a vital component of the spiritual path.",
+                  "Understanding the qualities of one's object of practice deepens commitment to it."
+                ],
+                "pedagogical_strategy": "A two-step process of celebration: first, celebrating the personal event of finding the path ('I did it!'), and second, contemplating the universal qualities of the path itself ('This is what I found!').",
+                "intended_impact_on_reader": "To leave the reader in a state of uplifted, confident joy, fully convinced of the precious and powerful nature of the Bodhisattva vow they have undertaken.",
+                "audience_assumptions": "The reader has followed the text's progression and is in a state of post-commitment reflection."
+              }
+            },
+            {
+              "level": "subsection-3.4.2",
+              "title": "གཞན་དགའ་བ་བསྒོམ་དུ་གཞུག་པ། (Causing Others to Rejoice)",
+              "verses_span": "36-36",
+              "children": [],
+              "summary": {
+                "content_summary": "This final verse of the chapter is a public declaration and an invitation. The practitioner, having generated bodhicitta, now calls upon all the protectors (Buddhas and Bodhisattvas) as witnesses. Before them, they invite all beings—from the gods and demigods down to all others in samsara—to be their guests. The feast offered is the promise of ultimate happiness (full enlightenment) and all temporary joys leading up to it. The verse concludes by calling on all these beings to rejoice in this momentous declaration.",
+                "key_concepts": [
+                  "མགྲོན་དུ་འབོད་པ། (drön du böpa - to invite as guests)",
+                  "དཔང་པོ། (pangpo - witness)",
+                  "བདེ་བར་གཤེགས་པ་ཉིད། (dewar shekpa nyi - Buddhahood itself)",
+                  "དགའ་བར་གྱིས། (gawar gyi - rejoice!)"
+                ],
+                "transformative_goal": "To make the private commitment public (even if only mentally), which strengthens the vow through accountability. It also functions as a final act of generosity, sharing the joy and merit of the occasion with all beings and inviting them to partake in the happiness.",
+                "function_in_hierarchy": "This is the grand finale of the chapter. It takes the internal commitment and joy and externalizes it, announcing the Bodhisattva's pledge to the entire universe and completing the process of embracing bodhicitta by sharing it.",
+                "inter_node_relationships": [
+                  {
+                    "related_node_id": "subsection-3.4.1",
+                    "relationship_type": "extends",
+                    "conceptual_bridge": "The personal joy cultivated in the previous subsection is now extended outwards as an invitation for all other beings to share in that joy. It moves from 'I am happy' to 'May all be happy because of this'."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The Bodhisattva's path is not a private affair but a public commitment to the universe.",
+                  "The act of inviting others to rejoice is a way of multiplying merit and joy.",
+                  "Non-human beings (gods, etc.) are part of the audience and community of the practitioner."
+                ],
+                "pedagogical_strategy": "Public proclamation and invitation. The tone is that of a royal host or a town crier making a joyous and momentous announcement, which serves to create a sense of universal significance and celebration.",
+                "intended_impact_on_reader": "To create a feeling of universal communion and shared purpose. The reader feels they are not alone on the path but are supported by the enlightened beings and responsible for all unenlightened beings, sealing their commitment with a grand, celebratory gesture.",
+                "audience_assumptions": "The reader is willing to engage in a visualization that includes a vast assembly of both enlightened and worldly beings as witnesses and guests."
+              }
+            }
+          ],
+          "summary": {
+            "content_summary": "This concluding section describes the joyful aftermath of taking the Bodhisattva vow. It is divided into two parts. First, the practitioner meditates on their own joy, reflecting on the new, profound meaning their life has acquired, the rarity of this opportunity, and the supreme qualities of bodhicitta itself through a series of vivid metaphors. Second, they extend this joy outwards, publicly announcing their commitment before all enlightened beings and inviting all other beings in existence to be their guests at a feast of happiness, urging them all to rejoice.",
+            "key_concepts": [
+              "མཇུག (juk - conclusion)",
+              "དགའ་བ། (gawa - joy)",
+              "གཟེངས་བསྟོད་པ། (zeng töpa - uplifting inspiration)",
+              "མགྲོན་དུ་འབོད་པ། (drön du böpa - inviting guests)"
+            ],
+            "transformative_goal": "To seal the Bodhisattva vow with the powerful emotions of joy and confidence, and to universalize the commitment by making it a public declaration for the benefit of all. This ensures the vow is not a dry, intellectual exercise but a vibrant, living, and shared reality.",
+            "function_in_hierarchy": "This is the 'Anumodanā' or concluding rejoicing phase of the chapter. It provides the emotional and psychological ratification of the central vow, ensuring the practitioner leaves this chapter not just with a new commitment, but with the inspired energy needed to carry it out.",
+            "inter_node_relationships": [
+              {
+                "related_node_id": "section-3.3",
+                "relationship_type": "is_the_emotional_consequence_of",
+                "conceptual_bridge": "The profound act of taking the vow in section 3.3 is the direct cause that gives rise to the celebration and joyful contemplation detailed in this final section. The vow is the act; this is the celebration of that act."
+              }
+            ],
+            "implicit_concepts": [
+              "The path to enlightenment should be a joyful process.",
+              "Personal commitment gains strength when it is shared and witnessed.",
+              "The culmination of practice is an offering back to the world."
+            ],
+            "pedagogical_strategy": "Internal reflection followed by external proclamation. The structure guides the practitioner to first solidify their own feeling of joy and then to generously share that positive energy with all others, creating a complete psychological arc.",
+            "intended_impact_on_reader": "To leave the reader in a state of profound, uplifted joy and universal love, fully energized and ready to engage with the subsequent chapters on how to guard and practice the vows they have just so joyfully embraced.",
+            "audience_assumptions": "The reader has completed the journey of the chapter and is ready to celebrate and consolidate their newfound commitment."
+          }
+        }
+      ],
+      "summary": {
+        "content_summary": "Chapter 3, 'Fully Embracing the Mind of Awakening,' provides a complete guide to the generation of bodhicitta, the compassionate intention to attain enlightenment for the benefit of all beings. It begins with preliminary practices to accumulate merit and cultivate an altruistic mindset (the seven-branch prayer). It then moves to the core 'mind training' of radically giving away one's body, possessions, and merit. This prepares the practitioner for the chapter's climax: the formal taking of the Bodhisattva vow. The chapter concludes with a powerful and joyful meditation on the supreme value of this vow, celebrating the practitioner's new identity and inviting the entire universe to rejoice.",
+        "key_concepts": [
+          "བྱང་ཆུབ་ཀྱི་སེམས། (changchub kyi sem - bodhicitta)",
+          "ཡོངས་སུ་བཟུང་བ། (yongsu zungwa - to fully embrace/hold)",
+          "གཏོང་བ། (tongwa - giving)",
+          "དམ་བཅའ། (damcha - vow)",
+          "དགའ་བ། (gawa - joy)"
+        ],
+        "transformative_goal": "To guide a practitioner through the entire psychological and ritual process of becoming a Bodhisattva. The chapter aims to dismantle the practitioner's fundamental self-cherishing and replace it with a joyful, unwavering, and formally committed resolve to live solely for the welfare of others.",
+        "function_in_hierarchy": "This chapter is the pivotal entry point into the actual Bodhisattva path. While previous chapters may have described the benefits and prepared the ground, this chapter contains the essential commitment that defines a Bodhisattva. It is the gateway through which the practitioner formally enters the Mahayana.",
+        "inter_node_relationships": [
+          {
+            "related_node_id": null,
+            "relationship_type": "builds_on_previous_chapters",
+            "conceptual_bridge": "This chapter assumes the practitioner has already contemplated the benefits of bodhicitta (Chapter 1) and purified negativities (Chapter 2), and is now ready to formally generate it."
+          },
+          {
+            "related_node_id": null,
+            "relationship_type": "is_the_foundation_for_subsequent_chapters",
+            "conceptual_bridge": "The vow taken in this chapter is the subject of all subsequent chapters, which detail how to guard this vow (Chapter 4), maintain mindfulness (Chapter 5), and practice the perfections (pāramitās) that are the substance of the vow."
+          }
+        ],
+        "implicit_concepts": [
+          "The Mahayana path is structured and systematic.",
+          "Internal transformation through mental training is the prerequisite for formal vows.",
+          "Commitment is sealed and sustained through joy."
+        ],
+        "pedagogical_strategy": "A complete psychological and liturgical arc. The chapter is structured like a ceremony: preparation (preliminaries), main practice (vow), and conclusion (rejoicing). This guides the reader not just intellectually but experientially through the process.",
+        "intended_impact_on_reader": "To provide the reader with everything they need to genuinely generate bodhicitta and take the Bodhisattva vow. The intended impact is a life-altering commitment and a profound sense of newfound purpose and joy.",
+        "audience_assumptions": "The reader is a serious spiritual aspirant who is not merely curious about the Bodhisattva path, but is potentially ready to commit to it."
+      }
+    }
+  ]
+  

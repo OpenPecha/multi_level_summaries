@@ -88,26 +88,29 @@ def process_outline_json(input_json_data):
     return input_json_data
 
 if __name__ == "__main__":
-    chapter_dir = Path("./data/heart_sutra")
-    chapter_outline_file = chapter_dir / "outline_bo.json"
-    output_file_name = chapter_dir / "updated_outline_with_verses_bo.json"
+    chapter_dirs = list(Path("./data/chojuk").iterdir())
+    chapter_dirs.sort()
+
+    for chapter_dir in chapter_dirs[2:8]:
+        chapter_outline_file = chapter_dir / "outline_bo.json"
+        output_file_name = chapter_dir / "updated_outline_with_verses_bo.json"
     
-    try:
-        # Read the input JSON file
-        print(f"Reading outline from {chapter_outline_file}...")
-        outline_data_str = chapter_outline_file.read_text(encoding='utf-8')
-        outline_data = json.loads(outline_data_str)
-        
-        # Process the outline, adding verse_text_excerpt to parent nodes
-        print("Processing outline and combining verses for parent nodes...")
-        processed_outline = process_outline_json(outline_data)
-        
-        # Save the updated outline with verse_text_excerpt at all levels
-        with open(output_file_name, "w", encoding='utf-8') as f:
-            json.dump(processed_outline, f, indent=2, ensure_ascii=False)
-        
-        print(f"Updated outline with combined verses saved to '{output_file_name}'")
-        
-    except Exception as e:
-        print(f"Error processing outline: {str(e)}")
+        try:
+            # Read the input JSON file
+            print(f"Reading outline from {chapter_outline_file}...")
+            outline_data_str = chapter_outline_file.read_text(encoding='utf-8')
+            outline_data = json.loads(outline_data_str)
+            
+            # Process the outline, adding verse_text_excerpt to parent nodes
+            print("Processing outline and combining verses for parent nodes...")
+            processed_outline = process_outline_json(outline_data)
+            
+            # Save the updated outline with verse_text_excerpt at all levels
+            with open(output_file_name, "w", encoding='utf-8') as f:
+                json.dump(processed_outline, f, indent=2, ensure_ascii=False)
+            
+            print(f"Updated outline with combined verses saved to '{output_file_name}'")
+            
+        except Exception as e:
+            print(f"Error processing outline: {str(e)}")
  

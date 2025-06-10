@@ -1,0 +1,209 @@
+[
+  {
+    "level": "1",
+    "title": "སྔོན་འགྲོ། (Prologue)",
+    "segments_span": "1-12",
+    "children": [
+      {
+        "level": "1.1",
+        "title": "མཚན་བསྒྱུར་ཞིང་དོན་བཤད་པ། (Translating and Explaining the Title)",
+        "segments_span": "1-3",
+        "children": []
+      },
+      {
+        "level": "1.2",
+        "title": "འགྱུར་གྱི་ཕྱག (Homage of the Translator)",
+        "segments_span": "4-4",
+        "children": []
+      },
+      {
+        "level": "1.3",
+        "title": "གླེང་གཞི། (The Setting)",
+        "segments_span": "5-12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level": "2",
+    "title": "དངོས་གཞི། (Main Body)",
+    "segments_span": "13-424",
+    "children": [
+      {
+        "level": "2.1",
+        "title": "ཐོག་མར་ཞུས་ཚུལ། (The Initial Request)",
+        "segments_span": "13-19",
+        "children": []
+      },
+      {
+        "level": "2.2",
+        "title": "དེའི་ལན་རྣམས་རིམ་པར་བཤད་པ། (The Sequential Explanation of the Replies)",
+        "segments_span": "20-424",
+        "children": [
+          {
+            "level": "2.2.1",
+            "title": "The Buddha's Initial Reply and Instruction to Listen",
+            "segments_span": "20-28",
+            "children": []
+          },
+          {
+            "level": "2.2.2",
+            "title": "Generating Bodhicitta and the Emptiness of Beings",
+            "segments_span": "29-32",
+            "children": []
+          },
+          {
+            "level": "2.2.3",
+            "title": "The Perfection of Generosity Without Reference Points",
+            "segments_span": "33-43",
+            "children": []
+          },
+          {
+            "level": "2.2.4",
+            "title": "Viewing the Tathagata Through Marks",
+            "segments_span": "44-51",
+            "children": []
+          },
+          {
+            "level": "2.2.5",
+            "title": "Faith in the Teaching in the Future",
+            "segments_span": "52-61",
+            "children": []
+          },
+          {
+            "level": "2.2.6",
+            "title": "The Nature of Future Bodhisattvas (Absence of a Self-View)",
+            "segments_span": "62-71",
+            "children": []
+          },
+          {
+            "level": "2.2.7",
+            "title": "The Unreality of Attainment and the Taught Dharma",
+            "segments_span": "72-81",
+            "children": []
+          },
+          {
+            "level": "2.2.8",
+            "title": "The Merit of Material Giving vs. Sharing the Dharma",
+            "segments_span": "82-93",
+            "children": []
+          },
+          {
+            "level": "2.2.9",
+            "title": "The Fruits of the Path are Not Grasped (Stream-Enterer, etc.)",
+            "segments_span": "94-124",
+            "children": []
+          },
+          {
+            "level": "2.2.10",
+            "title": "The Unreality of the Dharma Received from Dipamkara Buddha",
+            "segments_span": "125-128",
+            "children": []
+          },
+          {
+            "level": "2.2.11",
+            "title": "The Unreality of Buddha-Fields",
+            "segments_span": "129-135",
+            "children": []
+          },
+          {
+            "level": "2.2.12",
+            "title": "The Unreality of the Body (Simile of Mount Meru)",
+            "segments_span": "136-141",
+            "children": []
+          },
+          {
+            "level": "2.2.13",
+            "title": "Merit of Giving vs. Sharing the Dharma (Ganges Sand Simile)",
+            "segments_span": "142-155",
+            "children": []
+          },
+          {
+            "level": "2.2.14",
+            "title": "The Name of the Teaching: Prajnaparamita",
+            "segments_span": "156-174",
+            "children": []
+          },
+          {
+            "level": "2.2.15",
+            "title": "The 32 Marks Do Not Define the Tathagata",
+            "segments_span": "175-180",
+            "children": []
+          },
+          {
+            "level": "2.2.16",
+            "title": "Subhuti's Deep Understanding and the Wonder of Future Hearers",
+            "segments_span": "181-199",
+            "children": []
+          },
+          {
+            "level": "2.2.17",
+            "title": "The Perfection of Patience (Kalinga Raja Story)",
+            "segments_span": "200-223",
+            "children": []
+          },
+          {
+            "level": "2.2.18",
+            "title": "The Merit of Upholding the Teaching and Purification of Karma",
+            "segments_span": "224-252",
+            "children": []
+          },
+          {
+            "level": "2.2.19",
+            "title": "The Ultimate Unreality of Attainment and Teaching",
+            "segments_span": "253-284",
+            "children": []
+          },
+          {
+            "level": "2.2.20",
+            "title": "The Unreality of Beings, Buddha-fields, and the Five Eyes",
+            "segments_span": "285-319",
+            "children": []
+          },
+          {
+            "level": "2.2.21",
+            "title": "The Unreality of Merit, the Form Body, and the Taught Dharma",
+            "segments_span": "320-348",
+            "children": []
+          },
+          {
+            "level": "2.2.22",
+            "title": "The Equality of All Dharmas and Final Comparison of Merit",
+            "segments_span": "349-361",
+            "children": []
+          },
+          {
+            "level": "2.2.23",
+            "title": "The Unreality of Liberating Beings and the Self",
+            "segments_span": "362-369",
+            "children": []
+          },
+          {
+            "level": "2.2.24",
+            "title": "The Dharmakaya is the True Buddha (Verse on Form and Sound)",
+            "segments_span": "370-384",
+            "children": []
+          },
+          {
+            "level": "2.2.25",
+            "title": "Rejection of Annihilationism and Final Instructions",
+            "segments_span": "385-420",
+            "children": []
+          },
+          {
+            "level": "2.2.26",
+            "title": "Final Merit Comparison and Concluding Summary Verse",
+            "segments_span": "421-424",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "3",
+    "title": "མཇུག་གི་རིམ་པ། (Conclusion)",
+    "segments_span": "425-427",
+    "children": []
+  }
+]
