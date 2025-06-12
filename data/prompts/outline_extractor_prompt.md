@@ -46,30 +46,26 @@ Please provide the full outline tree for the root text, as structured by the com
 ```json
 [
   {
-    "level": "chapter",
-    "number": "1",                // e.g., "1", "2"
+    "level": "chapter-1",               // e.g., "1", "2"
     "title": "[Title derived from Commentary, or a descriptive title if none in Commentary]",
     "verses_span": "[start]-[end]",  // e.g., "1-25"
     // No "verse_text_excerpt" here as it's a parent node
     "children": [
       {
-        "level": "section",
-        "number": "1.1",            // e.g., "1.1", "1.2"
+        "level": "section-1.1",           // e.g., "1.1", "1.2"
         "title": "[Title derived from Commentary, or a descriptive title if none in Commentary]",
         "verses_span": "[start]-[end]",  // e.g., "1-10"
         // No "verse_text_excerpt" here if it has children
         "children": [
           {
-            "level": "subsection",
-            "number": "1.1.1",        // e.g., "1.1.1", "1.1.2"
+            "level": "subsection-1.1.1",      // e.g., "1.1.1", "1.1.2"
             "title": "[Title derived from Commentary, or a descriptive title if none in Commentary]",
             "verses_span": "[start]-[end]",  // e.g., "1-5"
             "verse_text_excerpt": "[Exact text of verses [start]-[end] from the Root Text, as this is a leaf node]",  // Included for leaf nodes
             "children": []           // Empty, indicating a leaf node
           },
           {
-            "level": "subsection",
-            "number": "1.1.2",
+            "level": "subsection-1.1.2",
             "title": "[Title derived from Commentary, or a descriptive title if none in Commentary]",
             "verses_span": "[start]-[end]",  // e.g., "6-10"
             "verse_text_excerpt": "[Exact text of verses [start]-[end] from the Root Text, as this is a leaf node]",  // Included for leaf nodes
@@ -78,8 +74,7 @@ Please provide the full outline tree for the root text, as structured by the com
         ]
       },
       {
-        "level": "section",
-        "number": "1.2",
+        "level": "section-1.2",
         "title": "[Title derived from Commentary, or a descriptive title if none in Commentary]",
         "verses_span": "[start]-[end]",  // e.g., "11-25"
         "verse_text_excerpt": "[Exact text of verses [start]-[end] from the Root Text, if this section has NO children and is a leaf node]",  // Example if this section were a leaf
@@ -105,8 +100,9 @@ Please provide the full outline tree for the root text, as structured by the com
 
 6. The `level` field in the JSON should indicate the type of division (e.g., "chapter", "section", "subsection").
 
-7. The `number` field in the JSON should provide the sequential identifier for that level (e.g., "1" for chapter 1, "1.1" for section 1 of chapter 1, "2.3.4" for subsection 4 of section 3 of chapter 2).
 
-8. Nested structures should be represented using the `children` array. If an item has no further subdivisions, its children array should be empty.
+7. Nested structures should be represented using the `children` array. If an item has no further subdivisions, its children array should be empty.
+
+8. The hierarchical outline can extend up to 10 levels deep to accommodate highly detailed commentaries.
 
 Please generate the JSON outline.

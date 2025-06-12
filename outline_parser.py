@@ -7,6 +7,7 @@ def process_node_recursive(node):
     - If a node is a leaf node, leaves it as is
     - If a node has children, combines all verse_text_excerpt from its descendants
       and adds it to the node with the key "verse_text_excerpt"
+    - Ensures verse_text_excerpt appears before children in the output JSON
     
     Args:
         node (dict): The current node in the outline tree to process.
@@ -31,8 +32,35 @@ def process_node_recursive(node):
         
         # Combine all collected verse texts for this parent node
         if all_verse_texts:
-            node["verse_text_excerpt"] = "\n\n".join(all_verse_texts)
-            return True
+            # Store verse_text_excerpt to add it in the correct position later
+            verse_text = "\n\n".join(all_verse_texts)
+            has_text = True
+        else:
+            verse_text = None
+        
+        # To ensure verse_text_excerpt appears before children in the output,
+        # we need to reorder the node dictionary
+        if has_text:
+            # Create a new ordered dictionary with the desired field order
+            reordered_node = {}
+            
+            # Copy all fields except 'children' and 'verse_text_excerpt'
+            for key, value in node.items():
+                if key != "children" and key != "verse_text_excerpt":
+                    reordered_node[key] = value
+            
+            # Add verse_text_excerpt before children
+            if verse_text:
+                reordered_node["verse_text_excerpt"] = verse_text
+            
+            # Add children at the end
+            if "children" in node:
+                reordered_node["children"] = node["children"]
+            
+            # Replace the node's contents with our reordered version
+            # This is a bit of a hack but works because we're modifying the dict in-place
+            node.clear()
+            node.update(reordered_node)
         
         return has_text
     else:
@@ -60,14 +88,41 @@ def process_outline_json(input_json_data):
     return input_json_data
 
 if __name__ == "__main__":
-    chapter_dir = Path("./data/chapter_two")
-    chapter_outline_file = chapter_dir / "chapter_2_outline.json"
-    output_file_name = chapter_dir / "updated_outline_with_verses.json"
+    # chapter_dirs = list(Path("./data/chojuk").iterdir())
+    # chapter_dirs.sort()
+
+    # for chapter_dir in chapter_dirs[2:8]:
+    #     chapter_outline_file = chapter_dir / "outline_bo.json"
+    #     output_file_name = chapter_dir / "updated_outline_with_verses_bo.json"
     
+    #     try:
+    #         # Read the input JSON file
+    #         print(f"Reading outline from {chapter_outline_file}...")
+    #         outline_data_str = chapter_outline_file.read_text(encoding='utf-8')
+    #         outline_data = json.loads(outline_data_str)
+            
+    #         # Process the outline, adding verse_text_excerpt to parent nodes
+    #         print("Processing outline and combining verses for parent nodes...")
+    #         processed_outline = process_outline_json(outline_data)
+            
+    #         # Save the updated outline with verse_text_excerpt at all levels
+    #         with open(output_file_name, "w", encoding='utf-8') as f:
+    #             json.dump(processed_outline, f, indent=2, ensure_ascii=False)
+            
+    #         print(f"Updated outline with combined verses saved to '{output_file_name}'")
+            
+    #     except Exception as e:
+    #         print(f"Error processing outline: {str(e)}")
+
+    text_dir = Path('./data/Phadoe/')
+
+    text_outline_file = text_dir / "outline_bo.json"
+    output_file_name = text_dir / "updated_outline_with_verses_bo.json"
+
     try:
         # Read the input JSON file
-        print(f"Reading outline from {chapter_outline_file}...")
-        outline_data_str = chapter_outline_file.read_text(encoding='utf-8')
+        print(f"Reading outline from {text_outline_file}...")
+        outline_data_str = text_outline_file.read_text(encoding='utf-8')
         outline_data = json.loads(outline_data_str)
         
         # Process the outline, adding verse_text_excerpt to parent nodes
@@ -82,4 +137,3 @@ if __name__ == "__main__":
         
     except Exception as e:
         print(f"Error processing outline: {str(e)}")
- 

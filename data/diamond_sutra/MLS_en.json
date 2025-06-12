@@ -1,0 +1,1847 @@
+[
+    {
+      "level": "1",
+      "title": "སྔོན་འགྲོ། (Preliminary)",
+      "verses_span": "1-10",
+      "children": [
+        {
+          "level": "1.1",
+          "title": "མཚན་བསྒྱུར་ཞིང་དོན་བཤད་པ། (The Translated Title and its Meaning)",
+          "verses_span": "1-2",
+          "children": [],
+          "summary": {
+            "content_summary": "This section presents the sutra's title in both Sanskrit (the original language) and Tibetan (the translated language). The commentary elaborates on the meaning of the title, 'Ārya Vajracchedikā Prajñāpāramitā Sūtra' or 'The Noble Diamond-Cutter Perfection of Wisdom Sutra'. It explains that just as a vajra (རྡོ་རྗེ།) is indestructible and can destroy any other object, the wisdom (ཤེས་རབ།) taught in this sutra is invulnerable to opposing views and has the power to cut through all afflictions (ཉོན་མོངས།) and suffering at their root.",
+            "key_concepts": [
+              "བཛྲ་ (vajra/diamond)",
+              "ཙྪེད་ཀ་ (cutter/to cut)",
+              "པྲཛྙཱ་པཱ་ར་མི་ཏཱ་ (Prajñāpāramitā/Perfection of Wisdom)",
+              "བརྗོད་བྱ་ (subject matter)",
+              "སྟོང་ཉིད་རྟོགས་པའི་ཡེ་ཤེས། (wisdom realizing emptiness)"
+            ],
+            "transformative_goal": "To establish the supreme power and function of the wisdom of emptiness as the ultimate tool for liberation.",
+            "function_in_hierarchy": "Establishes the sutra's core theme and its potency from the outset, framing the entire text as a vehicle for a powerful, transformative wisdom.",
+            "inter_node_relationships": [
+              {
+                "relationship_type": "introduces",
+                "conceptual_bridge": "The title's meaning directly introduces the primary topic of the entire sutra—the 'diamond-like wisdom'—which will be elaborated in the main body (དངོས་གཞི།)."
+              }
+            ],
+            "implicit_concepts": [
+              "The instrumental value of wisdom",
+              "The non-conceptual nature of ultimate reality"
+            ],
+            "pedagogical_strategy": "Direct Declaration. The title itself serves as a concise summary and statement of purpose for the entire teaching.",
+            "intended_impact_on_reader": "To inspire reverence and confidence in the teaching by presenting it as a powerful, indestructible force capable of cutting through all delusion.",
+            "audience_assumptions": "Assumes the reader is familiar with the tradition of naming texts based on their core content and function."
+          }
+        },
+        {
+          "level": "1.2",
+          "title": "འགྱུར་གྱི་ཕྱག (Translator's Homage)",
+          "verses_span": "3-3",
+          "children": [],
+          "summary": {
+            "content_summary": "This section contains the translator's homage to all Buddhas and Bodhisattvas. The commentary notes that this is a standard and straightforward practice in translated Buddhist texts, expressing reverence and seeking blessings for the work of translation and transmission.",
+            "key_concepts": [
+              "འགྱུར་ཕྱག (translator's homage)",
+              "ཕྱག་འཚལ་ལོ། (homage/prostration)"
+            ],
+            "transformative_goal": "To cultivate an attitude of humility and reverence in both the translator and the reader, acknowledging the source of the teachings.",
+            "function_in_hierarchy": "Serves as a formal opening that situates the text within a lineage of enlightened transmission and fulfills the traditional requirement of paying homage before presenting the main teaching.",
+            "inter_node_relationships": [
+              {
+                "relationship_type": "precedes",
+                "conceptual_bridge": "This act of reverence formally separates the title from the narrative of the sutra, creating a transition into the main discourse."
+              }
+            ],
+            "implicit_concepts": [
+              "Lineage and transmission",
+              "The importance of reverence for the path"
+            ],
+            "pedagogical_strategy": "Formal Invocation. Establishes the sacred context of the text.",
+            "intended_impact_on_reader": "To align the reader's mind with the sacredness of the teaching and foster a receptive, respectful attitude.",
+            "audience_assumptions": "Assumes familiarity with the Buddhist tradition of paying homage before engaging with or transmitting Dharma."
+          }
+        },
+        {
+          "level": "1.3",
+          "title": "གླེང་གཞི། (Introduction/Setting the Scene)",
+          "verses_span": "4-10",
+          "children": [],
+          "summary": {
+            "content_summary": "This section sets the scene for the teaching, fulfilling the traditional 'five perfections' (ཕུན་སུམ་ཚོགས་པ་ལྔ།) that authenticate a sutra: the teacher (Buddha), the teaching itself, the audience (a great assembly of monks and bodhisattvas), the place (Anathapindada's Grove in Shravasti), and the time ('at one time'). It describes the Buddha's daily routine—going for alms, eating, washing his feet, and settling into meditation. The commentary provides rich background on the location and the patron, Anathapindada (མགོན་མེད་ཟས་སྦྱིན་), emphasizing that the Buddha's seemingly mundane actions are performed for the benefit of beings, not out of personal need, as a Buddha is free from hunger and want.",
+            "key_concepts": [
+              "གླེང་གཞི། (introduction/setting)",
+              "མཉན་ཡོད། (Shravasti)",
+              "མགོན་མེད་ཟས་སྦྱིན། (Anathapindada)",
+              "བསོད་སྙོམས། (alms round)",
+              "འཁོར། (assembly/retinue)"
+            ],
+            "transformative_goal": "To illustrate that even the most ordinary actions of a fully enlightened being are expressions of compassionate wisdom and serve as a teaching for others.",
+            "function_in_hierarchy": "Establishes the narrative and historical context for the dialogue that follows, authenticating the teaching and providing a model of enlightened conduct in everyday life.",
+            "inter_node_relationships": [
+              {
+                "relationship_type": "sets the stage for",
+                "conceptual_bridge": "The Buddha's simple, mindful actions and his settling into a state of readiness create the perfect context for Subhuti to pose his profound questions in the following section (2.1)."
+              }
+            ],
+            "implicit_concepts": [
+              "The perfection of conduct",
+              "The compassionate display of a Buddha's activities",
+              "Mindfulness in daily life"
+            ],
+            "pedagogical_strategy": "Narrative Framing. The teaching is embedded within a relatable, real-world setting, grounding the profound philosophical dialogue in the context of the Buddha's daily life.",
+            "intended_impact_on_reader": "To inspire faith in the authenticity of the teaching and to see the potential for profound meaning even in simple, everyday activities.",
+            "audience_assumptions": "Assumes an understanding of the traditional structure of a sutra and the significance of the Buddha's presence and actions."
+          }
+        }
+      ],
+      "summary": {
+        "content_summary": "The preliminary section of the sutra establishes the foundation for the entire teaching. It begins with the title, which the commentary explains as signifying a wisdom that is indestructible and can sever all delusions. This is followed by the translator's homage, a standard act of reverence. The main part of this section is the introduction (གླེང་གཞི།), which sets the scene by describing the Buddha, his assembly of monks and bodhisattvas, the location in Shravasti, and the Buddha's mindful daily routine. The commentary uses this narrative to emphasize that a Buddha's every action, however mundane, is a teaching performed for the benefit of others and is free from ordinary compulsions.",
+        "key_concepts": [
+          "རྡོ་རྗེ་གཅོད་པ། (Vajracchedikā/Diamond Cutter)",
+          "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ། (Prajñāpāramitā)",
+          "གླེང་གཞི། (Introduction)",
+          "འཁོར་ཕུན་སུམ་ཚོགས་པ། (Perfect Assembly)",
+          "སྟོན་པ་ཕུན་སུམ་ཚོགས་པ། (Perfect Teacher)"
+        ],
+        "transformative_goal": "To prepare the reader's mind for the profound teachings to come by establishing the authority, context, and compassionate motivation behind the sutra.",
+        "function_in_hierarchy": "Serves as the formal opening of the sutra, authenticating the teaching according to traditional criteria and setting the narrative and spiritual stage for the central dialogue.",
+        "inter_node_relationships": [
+          {
+            "relationship_type": "provides foundation for",
+            "conceptual_bridge": "This entire preliminary section establishes the 'who, what, where, when, and why' of the teaching, creating the necessary container for the main discourse (དངོས་གཞི།) to unfold."
+          }
+        ],
+        "implicit_concepts": [
+          "Authenticity of scripture",
+          "The sacred in the mundane",
+          "The teacher-disciple relationship"
+        ],
+        "pedagogical_strategy": "Traditional Sutra Opening. It follows a conventional structure to build credibility and orient the reader within the Buddhist canonical framework.",
+        "intended_impact_on_reader": "To instill a sense of reverence, confidence, and receptivity, preparing the reader to receive the subsequent teachings as authoritative and profoundly meaningful.",
+        "audience_assumptions": "Assumes a reader who values scriptural authenticity and the context of a teaching's origin."
+      }
+    },
+    {
+      "level": "2",
+      "title": "དངོས་གཞི། (Main Body)",
+      "verses_span": "11-265",
+      "children": [
+        {
+          "level": "2.1",
+          "title": "ཐོག་མར་ཞུས་ཚུལ། (The Manner of the Initial Request)",
+          "verses_span": "11-16",
+          "children": [],
+          "summary": {
+            "content_summary": "This section describes how Subhuti (རབ་འབྱོར།), after respectfully arranging himself, praises the Buddha for his skillful guidance and care of the bodhisattvas. He then poses the central questions of the sutra: for someone who has entered the Bodhisattva path, 'How should they abide? How should they practice? How should they control the mind?'. The commentary explains that these three questions encompass the entirety of the Mahayana path—the view, the meditation, and the conduct.",
+            "key_concepts": [
+              "ཞུས་ཚུལ། (Manner of Requesting)",
+              "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ། (Bodhisattva Vehicle)",
+              "གནས་པ། (Abiding/The View)",
+              "སྒྲུབ་པ། (Practicing/Meditation)",
+              "སེམས་གཟུང་བ། (Controlling the mind/Conduct)"
+            ],
+            "transformative_goal": "To formulate the fundamental inquiries that drive the entire Bodhisattva path, centering on the integration of wisdom and compassionate action.",
+            "function_in_hierarchy": "Initiates the central dialogue of the sutra. Subhuti's questions act as the crucial prompt for the Buddha to deliver the main teachings (དངོས་གཞི།) that form the rest of the text.",
+            "inter_node_relationships": [
+              {
+                "relationship_type": "prompts",
+                "conceptual_bridge": "These questions directly elicit the sequence of replies from the Buddha (node 2.2), which systematically answer how to abide, practice, and control the mind from the perspective of emptiness."
+              }
+            ],
+            "implicit_concepts": [
+              "The importance of correct inquiry",
+              "The tripartite structure of the path (view, meditation, action)"
+            ],
+            "pedagogical_strategy": "Question-and-Answer Format. This dialogic structure makes the teaching dynamic and responsive, addressing the specific concerns of an advanced practitioner.",
+            "intended_impact_on_reader": "To engage the reader by posing the very questions they might have about the advanced stages of the path, creating anticipation for the Buddha's reply.",
+            "audience_assumptions": "Assumes a reader who is already committed to the Bodhisattva path and is seeking guidance on its core practical and philosophical points."
+          }
+        },
+        {
+          "level": "2.2",
+          "title": "དེའི་ལན་རྣམས་རིམ་པར་བཤད་པ། (The Replies Explained in Sequence)",
+          "verses_span": "17-265",
+          "children": [
+            {
+              "level": "2.2.1",
+              "title": "ལན་གྱི་གནང་བ་དང་དངོས་གཞིའི་དབུ་བསྐུལ་བ། (Granting the Reply and Urging the Main Teaching)",
+              "verses_span": "17-21",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha praises Subhuti for his excellent questions ('ལེགས་སོ། ལེགས་སོ།') and confirms that he does indeed skillfully guide and entrust the bodhisattvas. He then formally agrees to answer, instructing Subhuti and the assembly to listen attentively and hold the teaching in mind. This serves as a formal acceptance of the request and a transition into the substantive teaching.",
+                "key_concepts": [
+                  "ལེགས་སོ། (Excellent!)",
+                  "ཡོངས་སུ་གཏད་པ། (Entrustment)",
+                  "ཡིད་ལ་ཟུངས་ཤིག (Hold it in mind)"
+                ],
+                "transformative_goal": "To establish a receptive and attentive state of mind in the audience, preparing them for the profound and subtle teachings to follow.",
+                "function_in_hierarchy": "Acts as the formal bridge between the question (2.1) and the answer (the rest of 2.2). The Buddha's praise validates the importance of the questions and his instruction to 'listen well' underscores the significance of the coming explanation.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "responds to",
+                    "conceptual_bridge": "This is the direct, formal acceptance of Subhuti's request in node 2.1."
+                  },
+                  {
+                    "relationship_type": "prefaces",
+                    "conceptual_bridge": "This brief section sets the stage for the first part of the detailed answer concerning bodhicitta in node 2.2.2."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The importance of mindful listening",
+                  "The validation of a student's correct inquiry"
+                ],
+                "pedagogical_strategy": "Formal Affirmation and Exhortation. The Buddha first affirms the student and then exhorts the assembly to prepare their minds for the teaching.",
+                "intended_impact_on_reader": "To heighten the reader's attention and convey the importance of the teachings that are about to be revealed.",
+                "audience_assumptions": "Assumes a reader who understands the significance of a Buddha's praise and his call for focused attention."
+              }
+            },
+            {
+              "level": "2.2.2",
+              "title": "ཀུན་རྫོབ་དང་དོན་དམ་སེམས་བསྐྱེད་ཚུལ། (The Correct Way to Generate Bodhichitta, Conventionally and Ultimately)",
+              "verses_span": "22-25",
+              "children": [],
+              "summary": {
+                "content_summary": "This section explains how a bodhisattva should generate the mind of enlightenment (bodhicitta). Conventionally, they should vow to lead all conceivable types of beings to nirvana without any remainder. Ultimately, however, they must understand that in reality, no being is ever led to nirvana, because there is no independently existing 'being' (སེམས་ཅན།) or 'self' (བདག) to be liberated. The commentary clarifies that if a bodhisattva grasps onto the idea of a real self, being, or person, they cannot be called a bodhisattva, as this grasping contradicts the wisdom of selflessness.",
+                "key_concepts": [
+                  "སེམས་བསྐྱེད་པ། (Generating Bodhicitta)",
+                  "སེམས་ཅན། (sentient being)",
+                  "མྱ་ངན་ལས་འདས་པ། (Nirvana)",
+                  "འདུ་ཤེས། (perception/concept)",
+                  "བདག་མེད། (selflessness)"
+                ],
+                "transformative_goal": "To cultivate a state of mind that unites vast compassion (vowing to save all beings) with profound wisdom (understanding no beings truly exist to be saved).",
+                "function_in_hierarchy": "This is the first and foundational part of the Buddha's answer to 'how to abide'. It establishes the core dialectic of the Two Truths (conventional compassion, ultimate wisdom) that underpins the entire Mahayana path.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is the first step of",
+                    "conceptual_bridge": "This teaching on non-conceptual compassion is the foundation upon which the subsequent instructions on non-abiding practice, like giving (2.2.3), are built."
+                  }
+                ],
+                "implicit_concepts": [
+                  "བདེན་གཉིས། (The Two Truths)",
+                  "ཐབས་དང་ཤེས་རབ། (Method and Wisdom)"
+                ],
+                "pedagogical_strategy": "Dialectical Instruction. The teaching presents a seemingly paradoxical instruction—vow to save everyone, while knowing no one is saved—to force the mind beyond conventional, dualistic thinking.",
+                "intended_impact_on_reader": "To challenge the reader's fundamental assumptions about 'self' and 'other', and to introduce the profound union of compassion and emptiness.",
+                "audience_assumptions": "Assumes a basic understanding of the bodhisattva vow and the concept of nirvana, but seeks to deepen it with the wisdom of emptiness."
+              }
+            },
+            {
+              "level": "2.2.3",
+              "title": "དངོས་པོ་ལ་མི་གནས་པར་སྦྱིན་པ་བྱེད་ཚུལ། (The Practice of Giving without Abiding)",
+              "verses_span": "26-30",
+              "children": [],
+              "summary": {
+                "content_summary": "This section elaborates on the practice of giving (སྦྱིན་པ།), the first perfection. The Buddha instructs that a bodhisattva should give without abiding (མི་གནས་པ།) in any concept—not in forms, sounds, smells, tastes, textures, or any mental phenomena (ཆོས།). The commentary explains this as practicing giving free from the conceptual grasping of the 'three spheres' (འཁོར་གསུམ་): the giver, the gift, and the recipient. The merit (བསོད་ནམས།) generated from such non-conceptual giving is described as immeasurable, like the vastness of space.",
+                "key_concepts": [
+                  "སྦྱིན་པ། (Giving/Generosity)",
+                  "མི་གནས་པ། (Not abiding/Not dwelling)",
+                  "མཚན་མར་འཛིན་པ། (Grasping at marks/signs)",
+                  "འཁོར་གསུམ་རྣམ་དག (Purity of the three spheres)",
+                  "བསོད་ནམས་ཀྱི་ཕུང་པོ། (Heap of merit)"
+                ],
+                "transformative_goal": "To transform the practice of giving from a conventional act that reinforces duality into a profound practice that expresses and deepens the realization of emptiness.",
+                "function_in_hierarchy": "Provides a concrete example of 'how to practice' one of the six perfections according to the non-abiding view established in the previous section. It uses the first perfection, giving, as a template for all other practices.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "exemplifies",
+                    "conceptual_bridge": "This teaching on giving demonstrates the practical application of the principle of non-conceptuality introduced in 2.2.2. It shows how the view of 'no-being' translates into the action of 'giving without concepts'."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The inseparability of merit and wisdom",
+                  "The application of emptiness to the six perfections"
+                ],
+                "pedagogical_strategy": "Exemplification and Analogy. It uses the practice of giving as a prime example of non-abiding action and employs the analogy of immeasurable space to illustrate the vastness of the resulting merit.",
+                "intended_impact_on_reader": "To inspire the reader to re-examine their own acts of generosity and other virtues, encouraging them to practice with less attachment to self and outcome, thereby making their practice more powerful.",
+                "audience_assumptions": "Assumes familiarity with the six perfections (ཕར་ཕྱིན་དྲུག), particularly generosity, as a core Buddhist practice."
+              }
+            },
+            {
+              "level": "2.2.4",
+              "title": "གཟུགས་སྐུ་མཚན་དཔེས་བལྟ་བར་མི་བྱ་བ། (The Form Body Should Not Be Seen Through Marks)",
+              "verses_span": "31-35",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks if the Tathāgata can be perceived through the perfection of his physical marks (མཚན་ཕུན་སུམ་ཚོགས་པ།). Subhuti correctly replies no, because what the Buddha has taught as 'the perfection of marks' is, in ultimate reality, 'no perfection of marks'. The Buddha confirms this, stating that wherever there is a perfection of marks, there is deception, and where there is no perfection of marks, there is no deception. The commentary clarifies that this teaches one to see the Tathāgata through his non-conceptual Dharmakāya (ཆོས་སྐུ།), not through his physical form, which, while conventionally real, is ultimately illusory and not the true Buddha.",
+                "key_concepts": [
+                  "མཚན་ཕུན་སུམ་ཚོགས་པ། (Perfection of marks)",
+                  "བརྫུན་པ། (False/Deception)",
+                  "གཟུགས་སྐུ། (Rūpakāya/Form Body)",
+                  "ཆོས་སྐུ། (Dharmakāya/Truth Body)",
+                  "མཚན་མ་མེད་པ། (Markless)"
+                ],
+                "transformative_goal": "To shift the practitioner's focus from external, physical attributes of the Buddha to the inner, formless reality of the Dharmakāya, which is emptiness.",
+                "function_in_hierarchy": "This section refines the practitioner's understanding of the object of refuge. After deconstructing the subject (the practitioner) and the action (the practice), it now deconstructs the ultimate goal/object of veneration (the Buddha), guiding the practitioner away from a materialized conception of Buddhahood.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "extends the principle of",
+                    "conceptual_bridge": "This applies the logic of non-abiding from the previous sections (2.2.2, 2.2.3) to the very being of the Buddha, demonstrating that not even the Buddha's form is an exception to the rule of emptiness."
+                  },
+                  {
+                    "relationship_type": "contrasts_with",
+                    "conceptual_bridge": "It contrasts the conventional view of the Buddha (a being with perfect physical marks) with the ultimate view (the formless Dharmakāya)."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The two bodies of the Buddha (Kāya theory)",
+                  "The danger of subtle spiritual materialism"
+                ],
+                "pedagogical_strategy": "Socratic Dialogue and Negation. The Buddha leads Subhuti to the correct conclusion through a question, then affirms the negation of seeing the Buddha through marks.",
+                "intended_impact_on_reader": "To challenge and purify the reader's concept of the Buddha, preventing them from objectifying Buddhahood and encouraging them to seek the true, formless nature of mind.",
+                "audience_assumptions": "Assumes a reader who venerates the Buddha's physical form but needs to be guided toward understanding his ultimate nature."
+              }
+            },
+            {
+              "level": "2.2.5",
+              "title": "མ་འོངས་པའི་དུས་ན་མདོ་འདི་ལ་དད་པ་སྐྱེད་པའི་ཕན་ཡོན། (The Merit of Generating Faith in this Sutra in a Future Age)",
+              "verses_span": "36-45",
+              "children": [],
+              "summary": {
+                "content_summary": "Subhuti expresses concern about whether beings in a future degenerate age (ལྔ་བརྒྱའི་ཐ་མ།) will be able to generate faith in such profound teachings. The Buddha reassures him, stating that even in that future time, there will be bodhisattvas with great discipline, virtue, and wisdom. These individuals will have cultivated roots of virtue with countless Buddhas, not just one. The Buddha affirms that he sees and knows these future practitioners, and that anyone who generates even a single moment of lucid faith in this sutra will accumulate immeasurable merit. Such individuals, the Buddha states, will not grasp at concepts of self, being, dharma, or no-dharma.",
+                "key_concepts": [
+                  "ལྔ་བརྒྱའི་ཐ་མ། (The final 500-year period/degenerate age)",
+                  "དགེ་བའི་རྩ་བ། (Roots of virtue)",
+                  "དད་པ། (Faith)",
+                  "བསོད་ནམས། (Merit)",
+                  "ཆོས་སུ་འདུ་ཤེས། (Perception of dharma)"
+                ],
+                "transformative_goal": "To instill confidence and encouragement in future practitioners, reassuring them that the path is still accessible and that their efforts are seen and validated by the Buddhas.",
+                "function_in_hierarchy": "Serves to address potential doubt and despair in the audience (both present and future), thereby strengthening their resolve. It also clarifies the prerequisite qualities of those able to truly comprehend this teaching: vast prior merit and a mind free from conceptual grasping.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "builds_on",
+                    "conceptual_bridge": "This section reinforces the importance of the non-conceptual mind (as discussed in 2.2.2 - 2.2.4) by stating that future faithful practitioners will be precisely those who do not grasp at concepts of self or phenomena."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The power of karmic continuity",
+                  "The omniscience of the Buddha",
+                  "The interdependence of faith and wisdom"
+                ],
+                "pedagogical_strategy": "Reassurance and Prophecy. The Buddha addresses a common anxiety about spiritual decline by offering a prophecy that validates the efforts of future disciples and explains the karmic causes for their capacity.",
+                "intended_impact_on_reader": "To inspire confidence, diminish doubt about one's own capacity, and motivate the reader to engage with the sutra by highlighting the immense merit and enlightened validation that comes from doing so.",
+                "audience_assumptions": "Assumes an audience aware of the concept of cosmic and spiritual cycles, including the idea of a 'degenerate age'."
+              }
+            },
+            {
+              "level": "2.2.6",
+              "title": "ཆོས་གྲུ་གཟིངས་ལྟ་བུར་སྤང་བར་བྱ་བ། (The Dharma Should be Abandoned, Like a Raft)",
+              "verses_span": "46-46",
+              "children": [],
+              "summary": {
+                "content_summary": "This section presents the famous analogy of the raft. The Buddha explains that his teachings, the Dharma, are like a raft used to cross a river. Once the other shore (liberation) is reached, the raft itself should be abandoned. He argues that if even the true Dharma is to be let go of, how much more so should that which is not-Dharma be abandoned? The commentary stresses that this is not a nihilistic dismissal of the teachings, but a caution against clinging to them as an ultimate, independently existing reality, especially after they have served their purpose of delivering one to enlightenment.",
+                "key_concepts": [
+                  "གཟིངས་ལྟ་བུ། (Like a raft)",
+                  "ཆོས་སྤང་བ། (Abandoning the Dharma)",
+                  "ཐབས། (Method/Means)",
+                  "ཆོས་མ་ཡིན་པ། (Non-Dharma)"
+                ],
+                "transformative_goal": "To cultivate ultimate non-attachment, even to the sacred teachings themselves, preventing the path from becoming a final object of grasping.",
+                "function_in_hierarchy": "This serves as a radical deconstructive step, applying the principle of non-grasping to the very tool of liberation. It represents a peak of the teaching on non-abiding, ensuring no subtle refuge is taken in the concepts of the path.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "radicalizes",
+                    "conceptual_bridge": "This takes the non-grasping taught in previous sections to its logical conclusion. If one should not grasp at self, beings, or even the Buddha's form, then one must also not grasp at the teachings that reveal this."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The instrumental nature of the Dharma",
+                  "The distinction between provisional and ultimate truth",
+                  "Spiritual anti-foundationalism"
+                ],
+                "pedagogical_strategy": "Metaphorical Instruction. The powerful and intuitive simile of the raft makes a highly sophisticated philosophical point about non-attachment immediately accessible.",
+                "intended_impact_on_reader": "To provoke a sense of intellectual and spiritual release, freeing the reader from the burden of reifying the teachings and encouraging a more fluid, instrumental approach to the path.",
+                "audience_assumptions": "Assumes a reader who reveres the Dharma and might be at risk of clinging to it as a fixed, absolute truth."
+              }
+            },
+            {
+              "level": "2.2.7",
+              "title": "སངས་རྒྱས་པ་དང་ཆོས་བསྟན་པ་དོན་དམ་པར་མེད་པ། (Attaining Buddhahood and Teaching the Dharma Do Not Ultimately Exist)",
+              "verses_span": "47-51",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks if he has attained any dharma called 'supreme, perfect enlightenment' or taught any dharma. Subhuti, understanding the Buddha's intent, replies that there is no such dharma to be attained or taught. The commentary explains this from the perspective of the ultimate truth (དོན་དམ།): the reality the Buddha realized (Dharmakāya) is ineffable, ungraspable, and beyond concepts of 'attainment' or 'teaching'. It is neither a dharma nor a non-dharma. This is because all phenomena are ultimately unconditioned (འདུས་མ་བྱས།) and free from conceptual proliferation.",
+                "key_concepts": [
+                  "བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ། (Anuttara-samyak-saṃbodhi)",
+                  "གཟུང་དུ་མ་མཆིས། (Ungraspable)",
+                  "བརྗོད་དུ་མ་མཆིས། (Ineffable)",
+                  "འདུས་མ་བྱས། (Unconditioned)",
+                  "འཕགས་པའི་གང་ཟག (Noble persons/Āryas)"
+                ],
+                "transformative_goal": "To deconstruct the very concepts of 'attainment' and 'teaching' as ultimate realities, leading the mind toward the direct experience of the ineffable nature of enlightenment.",
+                "function_in_hierarchy": "This section deepens the deconstruction begun in 2.2.6. After showing the path is to be abandoned, it now shows that the goal (enlightenment) and the act of its transmission (teaching) are themselves empty of inherent existence.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "deepens",
+                    "conceptual_bridge": "This builds directly on the raft analogy (2.2.6). If the Dharma (raft) is to be abandoned, it is because the 'other shore' (enlightenment) is not a 'place' or 'thing' that can be possessed or described with conventional language."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The ineffability of the absolute",
+                  "The emptiness of the goal of the path",
+                  "The distinction between the Buddha's conventional speech and ultimate realization"
+                ],
+                "pedagogical_strategy": "Direct Negation through Dialogue. The Buddha uses direct questions to lead Subhuti (and the reader) to negate the ultimate reality of attainment and teaching.",
+                "intended_impact_on_reader": "To free the reader from striving after a reified concept of 'enlightenment,' pointing instead toward a non-dual, non-conceptual realization.",
+                "audience_assumptions": "Assumes a practitioner who is focused on the goal of 'attaining Buddhahood' and needs to have this conceptual goal dismantled."
+              }
+            },
+            {
+              "level": "2.2.8",
+              "title": "རིན་ཆེན་གྱིས་སྦྱིན་པ་བྱིན་པ་ལས་མདོ་འདི་སྤྱོད་པའི་བསོད་ནམས་ཆེ་བ། (The Merit of Practicing the Sutra is Greater Than Giving a Universe of Jewels)",
+              "verses_span": "52-57",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha again uses a comparison to illustrate the supreme value of wisdom. He states that the merit from filling an entire trichiliocosm with the seven precious jewels and giving it away is far surpassed by the merit of upholding even a four-line verse from this sutra and explaining it to others. The commentary clarifies that this is because all Buddhas and their supreme enlightenment arise from this Perfection of Wisdom. The text reiterates that what is called a 'heap of merit' or 'Buddha-dharmas' are so-called precisely because they are, in essence, no-heap and no-dharmas.",
+                "key_concepts": [
+                  "བསོད་ནམས་ཀྱི་ཕུང་པོ། (Heap of merit)",
+                  "སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན། (Trichiliocosm/Great thousand-fold world system)",
+                  "རིན་པོ་ཆེ་སྣ་བདུན། (Seven precious jewels)",
+                  "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ། (Perfection of Wisdom)",
+                  "སངས་རྒྱས་ཀྱི་ཆོས། (Buddha-dharmas)"
+                ],
+                "transformative_goal": "To cultivate a profound appreciation for the supreme value of wisdom (ཤེས་རབ།) over and above all other forms of merit, such as material generosity (ཟང་ཟིང་གི་སྦྱིན་པ།).",
+                "function_in_hierarchy": "This section serves to powerfully motivate the practitioner to engage with the sutra's content. By using a hyperbolic comparison of merit, it emphasizes that understanding emptiness is the most valuable and meritorious activity one can undertake.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "reinforces",
+                    "conceptual_bridge": "This reinforces the sutra's central theme of wisdom's supremacy. It provides the 'why' behind the difficult deconstructive teachings of the previous sections (2.2.6, 2.2.7): because this wisdom is the very source of Buddhahood, its value is incalculable."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The hierarchy of virtues (wisdom as supreme)",
+                  "The generative power of understanding emptiness"
+                ],
+                "pedagogical_strategy": "Hyperbolic Comparison of Merit. This strategy uses vast, unimaginable numbers and quantities to create a stark contrast and highlight the supreme worth of the Dharma of emptiness.",
+                "intended_impact_on_reader": "To inspire immense diligence and joy in studying, contemplating, and sharing these teachings, understanding them to be the most precious 'gift' possible.",
+                "audience_assumptions": "Assumes a reader who understands and values the concept of accumulating merit (བསོད་ནམས།) but needs to refine their understanding of what constitutes the highest form of merit."
+              }
+            },
+            {
+              "level": "2.2.9",
+              "title": "ཉན་ཐོས་ཀྱི་འབྲས་བུ་བཞི་དོན་དམ་པར་ཐོབ་པ་མེད་པ། (The Four Fruits of the Shravaka Path are Not Ultimately Attained)",
+              "verses_span": "58-71",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha systematically questions whether those who have attained the four fruits of the Shravaka (Hearer) path—Stream-enterer (རྒྱུན་དུ་ཞུགས།), Once-returner (ལན་ཅིག་ཕྱིར་འོང་།), Non-returner (ཕྱིར་མི་འོང་།), and Arhat (དགྲ་བཅོམ་པ།)—would think 'I have attained this fruit'. In each case, Subhuti answers that they would not, because there is no fixed, real dharma called 'Stream-entry' etc., to be entered or attained. To think so would be to grasp at a self, being, soul, or person. Subhuti, an Arhat himself, testifies that he does not think 'I am an Arhat', and that if he did, the Buddha would not have praised him as the foremost in dwelling without afflictions, a state which arises from not dwelling on anything.",
+                "key_concepts": [
+                  "རྒྱུན་དུ་ཞུགས། (Stream-enterer)",
+                  "ལན་ཅིག་ཕྱིར་འོང་། (Once-returner)",
+                  "ཕྱིར་མི་འོང་། (Non-returner)",
+                  "དགྲ་བཅོམ་པ། (Arhat)",
+                  "འབྲས་བུ། (Fruit/Result)",
+                  "བདག་ཏུ་འཛིན་པ། (Grasping at a self)"
+                ],
+                "transformative_goal": "To dismantle the practitioner's attachment to spiritual accomplishments and status, showing that true attainment is characterized by the absence of any sense of 'I' who attains.",
+                "function_in_hierarchy": "This section extends the deconstruction of attainment from the Mahayana context (Buddhahood) to the Shravaka path. It demonstrates that the principle of emptiness of attainment is a universal truth across all Buddhist paths, thereby preventing any spiritual hierarchy from becoming an object of grasping.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "applies principle to",
+                    "conceptual_bridge": "This applies the logic of 'no attainment' from section 2.2.7 to the specific, well-defined stages of the Hearer's path, showing its universal applicability."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The emptiness of spiritual progress",
+                  "The unity of the fundamental insight across different yānas",
+                  "True attainment is egoless"
+                ],
+                "pedagogical_strategy": "Systematic Deconstruction via Dialogue. The Buddha proceeds methodically through the four stages, using a repetitive question-and-answer format to drive home the single, powerful point of non-attainment.",
+                "intended_impact_on_reader": "To foster humility and release the reader from spiritual pride or anxiety about 'levels' and 'attainments,' encouraging a focus on the selfless nature of the path itself.",
+                "audience_assumptions": "Assumes a reader familiar with the established framework of the 'four fruits' of the Hinayana path and who might be tempted to reify them."
+              }
+            },
+            {
+              "level": "2.2.10",
+              "title": "སངས་རྒྱས་མར་མེ་མཛད་ལས་དོན་དམ་པར་ཆོས་བླངས་པ་མེད་པ། (Ultimately, No Dharma Was Received From Dipamkara Buddha)",
+              "verses_span": "72-73",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks Subhuti if he, in his past life as a bodhisattva, received any actual dharma from the previous Buddha, Dipamkara (མར་མེ་མཛད།). Subhuti correctly answers that no dharma was ultimately received. The commentary explains this by referencing the Buddha's past life when he attained the 'great patience regarding the non-arising of phenomena' (མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་). At that moment, he realized that all phenomena, including the act of receiving a teaching or a prophecy, are empty of inherent existence. Therefore, there was no real 'thing' to be received from Dipamkara Buddha.",
+                "key_concepts": [
+                  "མར་མེ་མཛད། (Dipamkara Buddha)",
+                  "ཆོས་བླངས་པ། (Receiving the Dharma)",
+                  "མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ། (Patience regarding the non-arising of phenomena)",
+                  "ལུང་བསྟན་པ། (Prophecy)"
+                ],
+                "transformative_goal": "To understand that even the most sacred moments of transmission and prophecy on the path are, from an ultimate perspective, empty of inherent reality.",
+                "function_in_hierarchy": "This section uses a specific, pivotal event from the Buddha's own history to exemplify the principle of non-attainment. It serves as powerful evidence that even the Buddha himself realized and embodied this profound view on his path to enlightenment.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "exemplifies through personal history",
+                    "conceptual_bridge": "This makes the abstract principle of 'no attainment' (from 2.2.7 and 2.2.9) concrete and authoritative by grounding it in the Buddha's own past realization under Dipamkara Buddha."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The emptiness of lineage transmission",
+                  "The consistency of the Dharma across lifetimes and Buddhas"
+                ],
+                "pedagogical_strategy": "Autobiographical Exemplification. The Buddha uses his own past life story as a teaching tool to illustrate a key philosophical point.",
+                "intended_impact_on_reader": "To inspire deep faith by showing that the Buddha taught from his own direct experience, and to help the reader apply the teaching of emptiness to their own sense of receiving teachings and empowerments.",
+                "audience_assumptions": "Assumes familiarity with the Jataka tales or the story of the Buddha's path over many lifetimes, particularly his encounter with Dipamkara."
+              }
+            },
+            {
+              "level": "2.2.11",
+              "title": "བྱང་སེམས་ཀྱིས་ཞིང་བཀོད་པ་དོན་དམ་པར་མི་སྒྲུབ་པ། (A Bodhisattva Does Not Ultimately Establish Buddha-Field Adornments)",
+              "verses_span": "74-78",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha states that if a bodhisattva were to say, 'I will establish the adornments of a buddha-field (ཞིང་བཀོད་པ།),' they would be speaking falsely. This is because what are called 'buddha-field adornments' are taught by the Tathāgata as 'no-adornments.' Therefore, a bodhisattva should generate a mind that does not abide in anything—not in form, sound, or any other phenomenon. The commentary explains that buddha-fields, like everything else, are composites arising from causes and conditions and are thus like illusions, lacking any ultimate, independent reality.",
+                "key_concepts": [
+                  "ཞིང་བཀོད་པ། (Buddha-field adornments)",
+                  "མི་གནས་པར་སེམས་བསྐྱེད་པ། (Generating a non-abiding mind)",
+                  "སྒྱུ་མ་ལྟ་བུ། (Like an illusion)"
+                ],
+                "transformative_goal": "To extend the practice of non-abiding to the very goal of creating a purified environment, preventing the reification of a 'pure land' as an external, solid reality.",
+                "function_in_hierarchy": "This section applies the principle of emptiness to the 'environment' or result of a bodhisattva's practice, complementing the previous deconstruction of the practitioner, the practice, the attainment, and the teacher. It closes a potential loophole for conceptual grasping.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "applies principle to",
+                    "conceptual_bridge": "This extends the non-abiding mind (from 2.2.3 and 2.2.6) to the context of a bodhisattva's aspiration to purify a world-system. Just as one gives without abiding, one creates a pure land without abiding in the concept of 'pure land'."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The emptiness of environment (སྣོད།)",
+                  "The mind as the source of pure and impure realms",
+                  "The aspirational yet non-reifying nature of vows"
+                ],
+                "pedagogical_strategy": "Direct Instruction and Negation. The Buddha makes a direct statement about what constitutes false speech for a bodhisattva and explains it through the 'is/is not' dialectic ('adornments are no-adornments').",
+                "intended_impact_on_reader": "To guide the reader away from a materialistic view of pure lands and toward understanding them as manifestations of a purified mind, which itself does not abide in concepts of purity or impurity.",
+                "audience_assumptions": "Assumes the reader is familiar with the Mahayana concept of bodhisattvas creating and purifying buddha-fields (ཞིང་ཁམས།)."
+              }
+            },
+            {
+              "level": "2.2.12",
+              "title": "ལུས་རི་རབ་ཙམ་དུ་ཆེ་ཡང་དོན་ལ་ལུས་མ་ཡིན་པ། (Though a Body Be as Large as Mt. Meru, It is Not a Real Body)",
+              "verses_span": "79-82",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha presents a hypothetical: if a person had a body as large as Mount Meru, would that body be great? Subhuti agrees that it would be great, but then clarifies, based on the Buddha's teaching, that this 'great body' is so-called precisely because it is ultimately 'no-body' or 'no-substance' (དངོས་པོ་མ་མཆིས་པ།). The commentary explains that this illustrates the emptiness of all forms, regardless of size. A body, great or small, is a composite of parts and lacks any indivisible, inherent essence.",
+                "key_concepts": [
+                  "ལུས། (Body)",
+                  "རི་རབ། (Mount Meru)",
+                  "ཆེ་བ། (Great)",
+                  "དངོས་པོ་མ་མཆིས་པ། (Without substance/Not a thing)"
+                ],
+                "transformative_goal": "To overcome the intuitive grasping at physical form and size as indicators of reality, and to see all bodies as empty of inherent existence.",
+                "function_in_hierarchy": "This serves as a powerful, imaginative illustration of the emptiness of form. It uses an extreme example (a body the size of a mountain) to show that the principles of composition and non-self apply universally, regardless of scale.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "illustrates",
+                    "conceptual_bridge": "This provides a vivid analogy for the principle of the emptiness of the Buddha's form (2.2.4) and the emptiness of the buddha-field's adornments (2.2.11), showing that all forms, sacred or mundane, large or small, are empty."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The fallacy of scale",
+                  "The universality of the emptiness of form",
+                  "Analysis of composite phenomena"
+                ],
+                "pedagogical_strategy": "Hypothetical Analogy. The Buddha uses a striking, larger-than-life image to make the philosophical point about the nature of form more memorable and impactful.",
+                "intended_impact_on_reader": "To disrupt the reader's habitual perception that equates size and solidity with reality, encouraging them to apply the analysis of emptiness to their own body and the physical world.",
+                "audience_assumptions": "Assumes familiarity with Buddhist cosmology, including Mount Meru as the cosmic axis and a symbol of greatness."
+              }
+            },
+            {
+              "level": "2.2.13",
+              "title": "ཆོས་བཤད་པའི་ཕན་ཡོན་བསམ་གྱིས་མི་ཁྱབ་པ། (The Inconceivable Merit of Explaining the Dharma)",
+              "verses_span": "83-88",
+              "children": [],
+              "summary": {
+                "content_summary": "This section once again compares the merit of material giving with the merit of wisdom. The Buddha states that if someone were to fill world systems as numerous as the sands of as many Ganges rivers as there are sands in one Ganges with jewels and give them away, the merit would be immense. However, the merit of someone who grasps even a four-line verse from this teaching and explains it to others is infinitely greater. This emphasizes that the act of sharing the wisdom of emptiness is the most powerful way to generate merit.",
+                "key_concepts": [
+                  "གངྒཱའི་ཀླུང་། (Ganges River)",
+                  "བྱེ་མ། (Grains of sand)",
+                  "བསོད་ནམས། (Merit)",
+                  "ཆོས་ཀྱི་རྣམ་གྲངས། (Dharma discourse)",
+                  "ཚིག་བཞི་པའི་ཚིགས་སུ་བཅད་པ། (A four-line gatha/verse)"
+                ],
+                "transformative_goal": "To inspire practitioners not only to understand the Dharma for themselves but to actively share it with others, recognizing this as the supreme form of generosity.",
+                "function_in_hierarchy": "This section functions as another powerful exhortation to cherish, practice, and propagate the sutra. The use of a nested, exponentially large number (sands of sands of Ganges) serves to make the supremacy of wisdom-merit utterly beyond doubt.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "escalates the argument of",
+                    "conceptual_bridge": "This section dramatically escalates the merit comparison made in 2.2.8. Whereas the earlier section used a single trichiliocosm, this one uses an almost unimaginable number of world-systems to make the same point with even greater force."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The merit of teaching",
+                  "The Bodhisattva's responsibility to share the Dharma"
+                ],
+                "pedagogical_strategy": "Exponential Hyperbole. The teaching employs a mind-bogglingly large number to create an unforgettable impression of the value of sharing even a small part of this wisdom teaching.",
+                "intended_impact_on_reader": "To generate a powerful motivation to teach and share the Dharma, seeing it as the most beneficial action one can perform.",
+                "audience_assumptions": "Assumes a reader who is now convinced of the value of this teaching and is being urged to take the next step: propagation."
+              }
+            },
+            {
+              "level": "2.2.14",
+              "title": "མདོ་འདི་གནས་པའི་ས་ཕྱོགས་མཆོད་རྟེན་ལྟ་བུར་འགྱུར་བ། (The Place Where this Sutra Abides Becomes Like a Stupa)",
+              "verses_span": "89-89",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha declares that any place where this Dharma discourse—even just a four-line verse of it—is taught or recited becomes a sacred shrine (མཆོད་རྟེན།) for the entire world, including gods, humans, and asuras. The commentary notes that this indicates the profound sanctity of the teaching itself. By extension, a person who truly internalizes these teachings becomes a living shrine, and the place they inhabit becomes a sacred site, worthy of veneration, because the Buddha or a great teacher is effectively present there through the presence of the Dharma.",
+                "key_concepts": [
+                  "ས་ཕྱོགས། (Place/region)",
+                  "མཆོད་རྟེན། (Stupa/shrine)",
+                  "མཆོད་པའི་རྟེན། (Object of worship)",
+                  "བླ་མ། (Guru/teacher)"
+                ],
+                "transformative_goal": "To understand that the sacred is not confined to physical structures but is present wherever the living Dharma is practiced and taught.",
+                "function_in_hierarchy": "This section sanctifies the very act of engaging with the text. It elevates the sutra from a mere collection of words to a living presence of the Buddha, thereby increasing the reader's reverence and sense of responsibility.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is a consequence of",
+                    "conceptual_bridge": "Because the merit of this teaching is so vast (as explained in 2.2.13), the physical location where it is present naturally becomes a sacred field of merit, like a stupa."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The Dharma as the Buddha's true body",
+                  "The sacredness of the practice environment",
+                  "The practitioner as an embodiment of the sacred"
+                ],
+                "pedagogical_strategy": "Sanctification. The teaching bestows a sacred quality upon the text and its practitioner, thereby encouraging its preservation and veneration.",
+                "intended_impact_on_reader": "To inspire the reader to treat the text and the place of their practice with great respect, viewing them as being in the actual presence of the Buddha.",
+                "audience_assumptions": "Assumes a reader who understands and reveres the cultural and spiritual significance of a stupa as a sacred monument."
+              }
+            },
+            {
+              "level": "2.2.15",
+              "title": "མདོ་འདིའི་མིང་དང་གཟུང་ཚུལ། (The Name of this Sutra and How to Uphold It)",
+              "verses_span": "90-94",
+              "children": [],
+              "summary": {
+                "content_summary": "Subhuti asks for the name of this Dharma discourse and how it should be remembered. The Buddha names it the 'Prajñāpāramitā' (ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ།), the Perfection of Wisdom. He immediately adds the characteristic dialectical explanation: it is called the 'Perfection of Wisdom' precisely because, from an ultimate standpoint, the Tathāgata has taught 'no-perfection of wisdom'. The commentary clarifies that the name is given conventionally to the teaching (རྗོད་བྱེད།) which points to the subject matter (བརྗོད་བྱ།), the actual perfection of wisdom, which itself is empty.",
+                "key_concepts": [
+                  "མིང་། (Name)",
+                  "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ། (Prajñāpāramitā/Perfection of Wisdom)",
+                  "གཟུང་བ། (To hold/uphold)",
+                  "ཕ་རོལ་ཏུ་ཕྱིན་པ་མེད་པ། (No-perfection)"
+                ],
+                "transformative_goal": "To learn to uphold the teachings without reifying them, using the name and concepts of the path while simultaneously understanding their ultimate emptiness.",
+                "function_in_hierarchy": "This section formally names the sutra, which is a key structural element. It uses the act of naming to reinforce the core teaching of the Two Truths—conventionally it has a name and function, but ultimately it is empty.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "clarifies the identity of",
+                    "conceptual_bridge": "After extolling the sutra's virtues (2.2.13, 2.2.14), this section gives it a formal name, but immediately applies the 'diamond-cutter' logic to the name itself."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Nominalism (the nature of names and concepts)",
+                  "The self-deconstructing nature of the Prajñāpāramitā teachings"
+                ],
+                "pedagogical_strategy": "Naming and Deconstruction. The teaching provides a conventional label ('Prajñāpāramitā') and then immediately deconstructs it to prevent the name itself from becoming an object of attachment.",
+                "intended_impact_on_reader": "To train the reader's mind in the simultaneous use and deconstruction of spiritual language, fostering a sophisticated understanding of the Two Truths.",
+                "audience_assumptions": "Assumes the reader is now prepared to apply the principle of emptiness even to the name of the teaching they are receiving."
+              }
+            },
+            {
+              "level": "2.2.16",
+              "title": "འཇིག་རྟེན་གྱི་ཁམས་དང་རྡུལ་ཕྲ་རབ་དོན་དམ་པར་མ་གྲུབ་པ། (World-Systems and Particles Are Not Ultimately Established)",
+              "verses_span": "95-99",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks if the particles of earth (སའི་རྡུལ།) in a great world system are many. Subhuti agrees but clarifies that the Tathāgata taught they are 'no-particles', and hence they are called 'particles'. Similarly, the 'world system' is called so because it is 'no-system'. The commentary explains this by applying Madhyamaka analysis: a world system is merely a collection of particles, and particles themselves can be endlessly divided and have no partless, ultimate reality. Therefore, both the micro (particle) and macro (world-system) levels of reality lack inherent existence.",
+                "key_concepts": [
+                  "སའི་རྡུལ། (Particles of earth)",
+                  "རྡུལ་ཕྲ་རབ། (Atom/subtlest particle)",
+                  "འཇིག་རྟེན་གྱི་ཁམས། (World-system)",
+                  "ཚོགས་པ། (Collection/Aggregate)"
+                ],
+                "transformative_goal": "To deconstruct the apparent solidity of the physical world, from the smallest particles to the largest cosmic systems, and realize its composite and empty nature.",
+                "function_in_hierarchy": "This section applies the 'diamond-cutter' analysis to the fabric of the physical cosmos, demonstrating that the emptiness taught previously applies not just to mental concepts but to the material world itself.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "applies analysis to",
+                    "conceptual_bridge": "This extends the analysis of form seen in the 'body like Mt. Meru' (2.2.12) to a more systematic, philosophical deconstruction of matter itself."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The doctrine of atomism (and its refutation)",
+                  "The relationship between part and whole",
+                  "The emptiness of matter"
+                ],
+                "pedagogical_strategy": "Analytical Deconstruction. The teaching moves from macrocosm (world system) to microcosm (particle) to show that neither has an independent, ultimate foundation.",
+                "intended_impact_on_reader": "To undermine the reader's innate realism and attachment to the physical world by revealing its lack of a solid, fundamental ground.",
+                "audience_assumptions": "Assumes a reader who perceives the physical world as solid and real, and possibly familiar with philosophical ideas about atoms as ultimate building blocks."
+              }
+            },
+            {
+              "level": "2.2.17",
+              "title": "མཚན་སོ་གཉིས་ཀྱིས་དེ་བཞིན་གཤེགས་པར་བལྟ་བར་མི་བྱ་བ། (The Tathagata Should Not Be Seen Through the Thirty-Two Marks)",
+              "verses_span": "100-102",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks again if the Tathāgata can be perceived through his thirty-two major marks. Subhuti again refutes this, explaining that these marks are taught by the Tathāgata as 'no-marks' and are thus conventionally named 'the thirty-two marks'. This repetition emphasizes the point that the Buddha's true nature is not his physical manifestation. The commentary points out that this is to distinguish the Buddha from a universal monarch (འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ།), who may also possess the marks, but lacks the inner realization of the Dharmakāya.",
+                "key_concepts": [
+                  "མཚན་སུམ་ཅུ་རྩ་གཉིས། (Thirty-two major marks)",
+                  "སྐྱེས་བུ་ཆེན་པོ། (Great Being/Mahāpuruṣa)",
+                  "མཚན་མ་མཆིས་པ། (No-marks)"
+                ],
+                "transformative_goal": "To prevent the practitioner from mistaking the external, physical signs of an enlightened being for enlightenment itself.",
+                "function_in_hierarchy": "This section repeats and reinforces the teaching from 2.2.4, serving to drive the point home with added force and a new angle (distinction from a chakravartin). The repetition itself is a pedagogical tool to break down stubborn conceptual habits.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "repeats and reinforces",
+                    "conceptual_bridge": "This is a deliberate repetition of the theme from node 2.2.4, indicating the critical importance of not reifying the Buddha's physical form."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The difference between outer signs and inner realization",
+                  "The non-ultimacy of the Sambhogakāya/Nirmāṇakāya"
+                ],
+                "pedagogical_strategy": "Repetition for Emphasis. The sutra revisits this key point to ensure it is not missed, a common technique in oral traditions for highlighting core tenets.",
+                "intended_impact_on_reader": "To definitively sever any lingering attachment to seeing Buddhahood as an external, physical accomplishment.",
+                "audience_assumptions": "Assumes the reader might still be clinging to the idea of the Buddha's marks as being ultimately real, despite the earlier teaching."
+              }
+            },
+            {
+              "level": "2.2.18",
+              "title": "ཚིགས་བཅད་བཞི་པ་བསྟན་པའི་ཕན་ཡོན། (The Merit of Teaching a Four-Line Gatha)",
+              "verses_span": "103-103",
+              "children": [],
+              "summary": {
+                "content_summary": "This section presents another powerful merit comparison. The Buddha states that the merit of teaching even a four-line verse from this sutra to others vastly outweighs the merit of a person who gives away their own body as many times as there are grains of sand in the Ganges. The commentary explains that this highlights the supremacy of the gift of Dharma over any form of material or physical sacrifice, as wisdom is the direct cause of liberation for oneself and others, whereas physical sacrifice is not.",
+                "key_concepts": [
+                  "ལུས་གཏོང་བ། (Giving one's body)",
+                  "ཆོས་ཀྱི་སྦྱིན་པ། (The gift of Dharma)",
+                  "བསོད་ནམས། (Merit)",
+                  "ཕན་ཡོན། (Benefit/Merit)"
+                ],
+                "transformative_goal": "To understand that the highest form of generosity and sacrifice is sharing the wisdom that leads to liberation.",
+                "function_in_hierarchy": "This section further elevates the status and importance of the Prajñāpāramitā teaching. It uses the most extreme form of physical giving (one's own body, countless times) as a benchmark to demonstrate the unparalleled value of sharing wisdom.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "escalates the argument of",
+                    "conceptual_bridge": "This comparison builds on previous merit discussions (2.2.8, 2.2.13) by using an even more personally costly form of giving—one's own life—as the point of contrast, thus maximizing the perceived value of teaching the Dharma."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The hierarchy of generosity",
+                  "The bodhisattva's compassionate action"
+                ],
+                "pedagogical_strategy": "Extreme Contrast. The sutra contrasts the ultimate physical sacrifice with the gift of wisdom to create a profound impact and underscore the latter's superior value.",
+                "intended_impact_on_reader": "To inspire a deep commitment to sharing the Dharma as the most meaningful and beneficial act possible.",
+                "audience_assumptions": "Assumes a reader who reveres the ideal of selfless sacrifice and is being taught that the highest form of this is the gift of truth."
+              }
+            },
+            {
+              "level": "2.2.19",
+              "title": "རབ་འབྱོར་གྱིས་ཆོས་ཀྱི་ཟབ་དོན་ལ་མོས་པ་བརྗོད་པ། (Subhuti Expresses His Faith in the Profound Meaning of the Dharma)",
+              "verses_span": "104-112",
+              "children": [],
+              "summary": {
+                "content_summary": "Moved by the profound teaching, Subhuti weeps and expresses his amazement. He declares that since attaining his own wisdom-eye, he has never heard such a discourse. He states that any being who hears this and generates a true, non-conceptual perception (ཡང་དག་པར་འདུ་ཤེས།) is truly wonderful. This 'true perception', he explains, is actually 'no-perception'. He minimizes his own understanding, saying the truly wonderful ones will be the future beings who hear, accept, and practice this teaching without grasping at a self, being, or any concept, because to be a Buddha is to be free from all concepts.",
+                "key_concepts": [
+                  "མཆི་མ་ཕྱུང་། (Shedding tears)",
+                  "ངོ་མཚར། (Wonderful/Amazing)",
+                  "ཡེ་ཤེས་ཀྱི་སྤྱན། (Wisdom eye)",
+                  "ཡང་དག་པར་འདུ་ཤེས། (True perception)",
+                  "འདུ་ཤེས་མེད་པ། (No-perception)"
+                ],
+                "transformative_goal": "To model the ideal student's response to profound Dharma: a combination of emotional impact (tears), intellectual understanding (realizing true perception is no-perception), and profound humility.",
+                "function_in_hierarchy": "This section serves as a pivotal emotional and intellectual response from the primary interlocutor. Subhuti's reaction validates the profundity of the teaching and his explanation further clarifies its meaning, acting as a student's confirmation of having understood the teacher's point.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "responds to",
+                    "conceptual_bridge": "Subhuti's emotional and insightful response is a direct reaction to the preceding teachings, especially the radical deconstruction of practice and attainment."
+                  },
+                  {
+                    "relationship_type": "prefigures",
+                    "conceptual_bridge": "His praise for future practitioners who will not be afraid of this teaching sets the stage for the Buddha's next statement in 2.2.20."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The role of faith (མོས་པ།) and emotion in the path",
+                  "The ideal relationship between teacher and student",
+                  "Humility as a sign of wisdom"
+                ],
+                "pedagogical_strategy": "Modeling the Response. Subhuti's actions and words provide a model for how a practitioner should receive and integrate these profound teachings.",
+                "intended_impact_on_reader": "To validate the reader's own potential feelings of being overwhelmed by the Dharma, while also providing a clear model of how to channel that feeling into deeper insight and humility.",
+                "audience_assumptions": "Assumes a reader who might be wondering how to properly react to such a profound and challenging teaching."
+              }
+            },
+            {
+              "level": "2.2.20",
+              "title": "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ་ནི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མ་ཡིན་པ། (The Supreme Perfection is Not a Perfection)",
+              "verses_span": "113-115",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha affirms Subhuti's insight. He states that beings who hear this teaching and are not terrified or frightened are truly wonderful. He then explains why: this 'supreme perfection' (ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ།) was taught by the Tathāgata, and what the Tathāgata taught as the supreme perfection was also taught by countless past Buddhas as 'no-perfection'. Therefore, it is conventionally called the 'supreme perfection'.",
+                "key_concepts": [
+                  "མི་སྐྲག་པ། (Not being frightened)",
+                  "ཕ་རོལ་ཏུ་ཕྱིན་པ་དམ་པ། (The supreme perfection)",
+                  "དེ་བཞིན་གཤེགས་པས་གསུངས་པ། (Taught by the Tathagata)"
+                ],
+                "transformative_goal": "To understand that the true perfection of wisdom lies in fearlessly embracing the non-dual truth that it is ultimately 'no-perfection'.",
+                "function_in_hierarchy": "This section names the teaching as the 'supreme perfection' while simultaneously deconstructing that very name. It links the current teaching to the teachings of all past Buddhas, establishing its timeless and universal nature.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "affirms and elaborates on",
+                    "conceptual_bridge": "The Buddha confirms Subhuti's statement from 2.2.19 about wonderful future beings, and explains that their fearlessness is the hallmark of understanding the 'supreme perfection' which is no-perfection."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Fearlessness as a sign of realization",
+                  "The continuity of the Dharma through all Buddhas"
+                ],
+                "pedagogical_strategy": "Affirmation and Dialectical Definition. The Buddha affirms Subhuti's point and then defines the 'supreme perfection' using the characteristic 'is/is not' logic of the sutra.",
+                "intended_impact_on_reader": "To encourage fearlessness in the face of emptiness and to feel connected to a timeless lineage of enlightened teaching.",
+                "audience_assumptions": "Assumes a reader who might feel intimidated by the radical nature of the teachings and needs reassurance."
+              }
+            },
+            {
+              "level": "2.2.21",
+              "title": "བཟོད་པའི་ཕར་ཕྱིན་དང་ཀ་ལིང་ཀའི་རྒྱལ་པོའི་གཏམ། (The Perfection of Patience and the Story of the King of Kalinga)",
+              "verses_span": "116-126",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha uses his own past life as the ascetic 'Forebearer of Patience' (བཟོད་པ་སྨྲ་བ།) to illustrate the perfection of patience (བཟོད་པའི་ཕར་ཕྱིན།). He recounts how, when the King of Kalinga dismembered his body, he felt no perception of a self, being, soul, or person, and thus no anger or ill-will arose. He states that the 'perfection of patience' is so-called because it is 'no-perfection'. He concludes that a bodhisattva must abandon all perceptions and generate the non-abiding mind of enlightenment. This section teaches that true patience is rooted in the realization of selflessness and is not mere endurance.",
+                "key_concepts": [
+                  "བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ། (Perfection of Patience)",
+                  "ཀ་ལིང་ཀའི་རྒྱལ་པོ། (King of Kalinga)",
+                  "བདག་ཏུ་འདུ་ཤེས། (Perception of a self)",
+                  "གནོད་སེམས། (Malice/ill-will)",
+                  "འདུ་ཤེས་ཐམས་ཅད་རྣམ་པར་སྤངས་ཏེ། (Abandoning all perceptions)"
+                ],
+                "transformative_goal": "To transform the understanding of patience from a dualistic struggle against harm into a natural expression of wisdom that sees no self to be harmed and no other to inflict harm.",
+                "function_in_hierarchy": "This section provides a powerful, narrative illustration for the perfection of patience, one of the six perfections. It serves as a dramatic case study of how the view of non-self (taught in 2.2.2) translates into unshakable virtuous conduct even under extreme duress.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "exemplifies",
+                    "conceptual_bridge": "This story is a prime example of the non-abiding mind in action. Just as one should practice giving without concepts (2.2.3), one should practice patience without the concepts of 'self' or 'aggressor'."
+                  },
+                  {
+                    "relationship_type": "is a specific instance of",
+                    "conceptual_bridge": "The Perfection of Patience is presented as another specific instance of the 'supreme perfection' which is no-perfection, as discussed in 2.2.20."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The inseparability of patience and wisdom",
+                  "The power of non-self in overcoming afflictive emotions"
+                ],
+                "pedagogical_strategy": "Exemplification through Dramatic Narrative. The Buddha uses a visceral and memorable story from his own past to demonstrate the practical power of realizing emptiness.",
+                "intended_impact_on_reader": "To inspire the reader to practice patience not as a form of suppression, but by working to undermine the root of anger—the perception of a solid, vulnerable self.",
+                "audience_assumptions": "Assumes a reader who values the virtue of patience but may understand it in a more conventional, dualistic sense."
+              }
+            },
+            {
+              "level": "2.2.22",
+              "title": "དེ་བཞིན་གཤེགས་པས་བསྟན་པའི་ཆོས་བདེན་རྫུན་གཉིས་ཀ་མ་ཡིན་པ། (The Dharma Taught by the Tathagata is Neither True Nor False)",
+              "verses_span": "127-127",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha makes a definitive statement about the nature of his speech: the Tathāgata speaks what is true (ཡང་དག་པར་གསུང་བ།), what is real (བདེན་པར་གསུང་བ།), and what is as-it-is (དེ་བཞིན་ཉིད་དུ་གསུང་བ།). He does not speak falsely. However, the dharma that he has realized and taught is neither true nor false. The commentary interprets this to mean that from a conventional standpoint, the Buddha's words are reliable and correspond to reality. From an ultimate standpoint, the reality they point to transcends the dualistic categories of 'true' and 'false,' which are conceptual fabrications.",
+                "key_concepts": [
+                  "ཡང་དག་པར་གསུང་བ། (Speaking truthfully/actually)",
+                  "བདེན་པར་གསུང་བ། (Speaking the truth)",
+                  "དེ་བཞིན་ཉིད། (Tathātā/Suchness)",
+                  "བདེན་པ། (True)",
+                  "རྫུན་པ། (False)"
+                ],
+                "transformative_goal": "To develop a sophisticated understanding of the Buddha's teachings that can hold both their conventional reliability and their ultimate transcendence of conceptual dualities.",
+                "function_in_hierarchy": "This section serves as a crucial clarification to prevent misunderstanding. After so much deconstruction ('no-dharma', 'no-attainment'), the Buddha here safeguards against a nihilistic interpretation by affirming the trustworthiness of his conventional teachings, while simultaneously maintaining their ultimate, non-dual nature.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "clarifies",
+                    "conceptual_bridge": "This statement prevents the preceding teachings (e.g., 2.2.7 'no dharma is taught') from being interpreted as meaning the Buddha's words are meaningless or untrue. It frames them within the Two Truths."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The Two Truths (བདེན་གཉིས།)",
+                  "The reliability of the Buddha's conventional speech",
+                  "The limitations of language"
+                ],
+                "pedagogical_strategy": "Dialectical Safeguard. The Buddha makes a seemingly paradoxical statement to protect the teaching from the extreme interpretations of eternalism (that the Dharma is an ultimate truth) and nihilism (that the Dharma is false).",
+                "intended_impact_on_reader": "To foster trust in the Buddha's teachings as a reliable guide, while simultaneously reminding the reader that the ultimate reality they point to is beyond the words themselves.",
+                "audience_assumptions": "Assumes a reader who might be confused by the constant negation and needs a framework (the Two Truths) to make sense of it."
+              }
+            },
+            {
+              "level": "2.2.23",
+              "title": "བདེན་མེད་རྟོགས་མ་རྟོགས་ཀྱི་ཁྱད་པར། (The Difference Between Practicing With and Without Understanding Emptiness)",
+              "verses_span": "128-129",
+              "children": [],
+              "summary": {
+                "content_summary": "This section presents two powerful similes contrasting a bodhisattva who practices while grasping at reality versus one who does not. A bodhisattva who gives while 'falling into substance' (དངོས་པོར་ལྷུང་བ།) is like a person with sight entering a dark place, able to see nothing. In contrast, a bodhisattva who gives without falling into substance is like a person with sight seeing all kinds of forms clearly when the sun has risen. The commentary explains that 'falling into substance' is grasping at inherent existence (བདེན་འཛིན།), which is the darkness of ignorance, while not falling into it is practicing with the light of the wisdom realizing emptiness.",
+                "key_concepts": [
+                  "དངོས་པོར་ལྷུང་བ། (Falling into substance/reification)",
+                  "མིག་དང་ལྡན་པ། (One with sight)",
+                  "མུན་པ། (Darkness)",
+                  "ཉི་མ་ཤར་བ། (The sun having risen)",
+                  "ཤེས་རབ། (Wisdom)"
+                ],
+                "transformative_goal": "To vividly understand that all virtuous practices performed without the wisdom of emptiness are essentially 'blind' and cannot lead to true liberation, whereas those conjoined with wisdom are 'sighted' and effective.",
+                "function_in_hierarchy": "This provides a clear, metaphorical summary of the practical implications of the entire sutra's teaching. It distills the complex philosophy into a simple, binary choice: practice with the blindness of ignorance or with the sight of wisdom.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "illustrates the practical outcome of",
+                    "conceptual_bridge": "This section shows the functional difference between the two approaches to practice deconstructed throughout the sutra. It answers the implicit question: 'What is the real-world difference between practicing with and without this wisdom?'"
+                  },
+                  {
+                    "relationship_type": "is a precursor to",
+                    "conceptual_bridge": "This analogy is directly related to the famous verse in other Prajñāpāramitā texts about the first five perfections being blind without the sixth (wisdom)."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The five blind perfections",
+                  "Wisdom as the 'eye' of the path"
+                ],
+                "pedagogical_strategy": "Contrasting Similes. The teaching uses the powerful and intuitive contrast between light/darkness and sight/blindness to make the crucial role of wisdom unforgettable.",
+                "intended_impact_on_reader": "To create a strong resolve to unite all practices with the wisdom of emptiness, understanding that without it, one's efforts on the path are fundamentally misguided.",
+                "audience_assumptions": "Assumes a reader engaged in virtuous practices who needs to understand the essential ingredient that makes them liberating."
+              }
+            },
+            {
+              "level": "2.2.24",
+              "title": "མདོ་འདི་འཛིན་པའི་བསོད་ནམས་བསམ་གྱིས་མི་ཁྱབ་པ། (The Inconceivable Merit of Upholding the Sutra)",
+              "verses_span": "130-137",
+              "children": [],
+              "summary": {
+                "content_summary": "This section once again extols the inconceivable merit of engaging with the sutra. The Buddha states he knows and sees any future person who upholds this text. He then makes another grand comparison: the merit of giving one's own body countless times over eons is surpassed by the merit of hearing this teaching and not rejecting it. The merit is described as 'immeasurable, inconceivable, unequaled, and boundless'. The Buddha explains that this teaching is intended for those who have entered the supreme vehicle, and that by upholding it, they will carry the Buddha's enlightenment on their shoulders, meaning they will swiftly attain it.",
+                "key_concepts": [
+                  "བསམ་གྱིས་མི་ཁྱབ་པ། (Inconceivable)",
+                  "མཚུངས་པ་མེད་པ། (Unequaled)",
+                  "རྣམ་པར་སྨིན་པ། (Ripened result/karmic maturation)",
+                  "ཐེག་པ་མཆོག (Supreme Vehicle)",
+                  "བྱང་ཆུབ་ཕྲག་པ་ལ་ཐོགས། (Carrying enlightenment on one's shoulder)"
+                ],
+                "transformative_goal": "To generate an unshakable conviction in the profound power and value of the Prajñāpāramitā, seeing it as the most direct and potent means to enlightenment.",
+                "function_in_hierarchy": "This is another major section of exhortation and encouragement. It serves to elevate the sutra's status to the pinnacle of the Mahayana, explicitly stating it is for practitioners of the 'supreme vehicle' and that its result is inconceivable.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "reiterates and amplifies",
+                    "conceptual_bridge": "This section revisits and amplifies the themes of merit comparison from 2.2.8, 2.2.13, and 2.2.18, using the most powerful language yet ('inconceivable,' 'unequaled') to describe the results."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The hierarchy of teachings",
+                  "The karmic potency of wisdom"
+                ],
+                "pedagogical_strategy": "Cumulative Praise and Exhortation. The sutra piles on layers of praise and merit comparisons, creating an overwhelming sense of the text's importance.",
+                "intended_impact_on_reader": "To inspire a feeling of awe and a deep sense of fortune for having encountered such a teaching, thereby motivating total commitment to its practice.",
+                "audience_assumptions": "Assumes a reader who is now ready to accept this sutra as the pinnacle of the Buddha's teachings."
+              }
+            },
+            {
+              "level": "2.2.25",
+              "title": "མདོ་འདི་མི་ལེན་པའི་གང་ཟག (Those Unable to Accept this Sutra)",
+              "verses_span": "138-140",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha explains why some are unable to appreciate this teaching. Those who are attached to lesser aspirations (དམན་པ་ལ་མོས་པ།) or who grasp at a view of a self (བདག་ཏུ་ལྟ་བ།), a being, a soul, or a person, cannot hear, accept, or comprehend this sutra. For them, the commentary notes, the opportunity is absent because their foundational views are in direct opposition to the sutra's core message of selflessness. The section concludes by reiterating that any place where this sutra is taught becomes a sacred stupa for the world.",
+                "key_concepts": [
+                  "དམན་པ་ལ་མོས་པ། (Those with lesser aspirations)",
+                  "བདག་ཏུ་ལྟ་བ། (View of a self)",
+                  "མཉན་པར་མི་ནུས། (Unable to hear/accept)",
+                  "གནས་མེད་པ། (No opportunity/basis)"
+                ],
+                "transformative_goal": "To help the practitioner understand the cognitive and karmic obstacles that prevent the understanding of emptiness, thereby encouraging them to abandon self-grasping views.",
+                "function_in_hierarchy": "This section functions as a 'negative definition', clarifying who the teaching is for by explaining who it is not for. It identifies the primary obstacle to understanding Prajñāpāramitā: the ingrained habit of self-grasping.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "provides the inverse of",
+                    "conceptual_bridge": "This is the flip side of the previous section (2.2.24), which described those who *can* uphold the teaching. This section describes those who *cannot*, defining the audience by contrast."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Karmic capacity for wisdom",
+                  "The incompatibility of self-view and emptiness"
+                ],
+                "pedagogical_strategy": "Clarification by Contrast. The teaching defines the ideal audience by describing its opposite, thereby highlighting the prerequisite mental state for understanding.",
+                "intended_impact_on_reader": "To encourage self-reflection on one's own attachments and views, and to reinforce the understanding that letting go of self-view is the key to accessing this profound Dharma.",
+                "audience_assumptions": "Assumes a reader who may wonder why such profound teachings are not universally understood or accepted."
+              }
+            },
+            {
+              "level": "2.2.26",
+              "title": "མདོ་འདི་སྤྱད་པས་ལས་སྒྲིབ་འབྱང་བ། (Purifying Karmic Obscurations by Practicing this Sutra)",
+              "verses_span": "141-141",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha explains a seemingly paradoxical point: those who uphold this sutra may face hardship or be reviled. He clarifies that this is not a negative sign. Rather, it is the karmic result of past negative actions, which would have led to rebirth in lower realms, ripening in this life as minor hardships instead. By undergoing these difficulties while practicing the sutra, their heavy past karma is purified (འབྱང་བར་འགྱུར།), and they will swiftly attain Buddhahood. The commentary explains this as the power of the antidote (the wisdom of emptiness) purifying past negativity.",
+                "key_concepts": [
+                  "མནར་བ། (To be tormented/suffer hardship)",
+                  "མི་དགེ་བའི་ལས། (Unvirtuous karma)",
+                  "ངན་སོང༌། (Lower realms)",
+                  "ལས་འབྱང་བ། (Purifying karma)",
+                  "གཉེན་པོ། (Antidote)"
+                ],
+                "transformative_goal": "To transform one's perspective on hardship encountered on the path, viewing it not as failure but as a sign of powerful purification.",
+                "function_in_hierarchy": "This section addresses a potential point of doubt or discouragement for practitioners: 'If this teaching is so powerful, why am I still suffering?' It provides a sophisticated karmic framework for understanding adversity as a positive part of the path.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "resolves a potential contradiction",
+                    "conceptual_bridge": "This reconciles the immense merit of the sutra (taught in previous sections) with the potential for practitioners to experience suffering, reframing suffering as purification."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The ripening of karma",
+                  "The power of dedicating merit",
+                  "Transforming adverse conditions into the path (ལམ་འཁྱེར།)"
+                ],
+                "pedagogical_strategy": "Re-framing Adversity. The teaching takes a common source of doubt (suffering) and re-frames it as evidence of the practice's effectiveness.",
+                "intended_impact_on_reader": "To foster resilience and joyful perseverance (བརྩོན་འགྲུས།) in the face of obstacles, seeing them as opportunities for purification rather than as reasons for despair.",
+                "audience_assumptions": "Assumes a reader familiar with the basic laws of karma who might be troubled by the appearance of negative results despite their virtuous practice."
+              }
+            },
+            {
+              "level": "2.2.27",
+              "title": "གྲངས་མེད་པའི་མཆོད་པ་ལས་མདོ་འདི་སྤྱོད་པའི་བསོད་ནམས་ཆེ་བ། (The Merit of Practicing the Sutra Outweighs Innumerable Offerings)",
+              "verses_span": "142-145",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha makes his most powerful statement on the sutra's merit. He states that in countless past eons, he made offerings to 84 quintillion Buddhas, and the merit from that is vastly inferior to the merit of a person in the final degenerate age who upholds and practices this sutra. The merit of the latter, he says, cannot be conceived in terms of hundreds, thousands, or any number, analogy, or comparison. He concludes that if he were to fully state the merit, ordinary beings would become crazed and their minds disturbed. This is because the teaching and its result are both inconceivable (བསམ་གྱིས་མི་ཁྱབ་པ།).",
+                "key_concepts": [
+                  "བསྐལ་པ་གྲངས་མེད་པ། (Countless eons)",
+                  "མཉེས་པར་བྱས། (To please/make offerings)",
+                  "བསོད་ནམས་ཀྱི་ཕུང་པོ། (Heap of merit)",
+                  "བསམ་གྱིས་མི་ཁྱབ་པ། (Inconceivable)"
+                ],
+                "transformative_goal": "To generate an ultimate, unshakable faith in the Prajñāpāramitā as the heart-essence of the path of all Buddhas, surpassing all other forms of practice and merit accumulation.",
+                "function_in_hierarchy": "This is the climactic section on merit and encouragement. By using the Buddha's own vast history of merit accumulation as a benchmark and declaring it inferior, the sutra establishes the absolute supremacy of this specific teaching.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is the culmination of",
+                    "conceptual_bridge": "This section is the final and most powerful in a series of merit comparisons (2.2.8, 2.2.13, 2.2.18, 2.2.24), bringing the argument for the sutra's value to its absolute peak."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The one vehicle (Ekayāna)",
+                  "The heart-essence of the Buddhas' teachings"
+                ],
+                "pedagogical_strategy": "Climactic Hyperbole and Appeal to Inconceivability. The teaching uses the Buddha's own personal history and an appeal to that which is beyond conception to establish the final, ultimate value of the text.",
+                "intended_impact_on_reader": "To evoke a state of awe and profound reverence, and to stop the conceptual mind from trying to measure or limit the power of this wisdom.",
+                "audience_assumptions": "Assumes the reader has followed the escalating arguments and is now ready for the final, definitive statement on the sutra's value."
+              }
+            },
+            {
+              "level": "2.2.28",
+              "title": "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཞུགས་པའི་དྲི་བ་བསྐྱར་བ། (Repetition of the Question on Entering the Bodhisattva Path)",
+              "verses_span": "146-150",
+              "children": [],
+              "summary": {
+                "content_summary": "Subhuti repeats his initial question: 'For one who has entered the Bodhisattva path, how should they abide, how should they practice, how should they control the mind?' The Buddha repeats his initial answer: they should vow to liberate all beings, while knowing that ultimately no being is liberated, because to hold a concept of a 'being' is to not be a bodhisattva. The commentary notes that this repetition is not redundant. The first instance was for those on the path of accumulation, while this repetition is for those at a higher stage, near or on the path of seeing, reinforcing the same core principle at a deeper level of practice.",
+                "key_concepts": [
+                  "བསྐྱར་བ། (Repetition)",
+                  "བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ། (Bodhisattva Vehicle)",
+                  "གནས་པ། (Abiding)",
+                  "སྒྲུབ་པ། (Practicing)",
+                  "སེམས་ཅན་དུ་འདུ་ཤེས། (Perception of a being)"
+                ],
+                "transformative_goal": "To understand that the core principles of non-conceptual compassion and wisdom are not just for beginners but are the very heart of the path at all stages, needing to be revisited and deepened continuously.",
+                "function_in_hierarchy": "This repetition serves as a structural refrain, bringing the discourse back to its central theme and demonstrating that the answer remains the same regardless of the practitioner's level. It functions as a re-grounding and deepening of the foundational teaching.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "repeats and deepens",
+                    "conceptual_bridge": "This section deliberately circles back to the initial question and answer of 2.1 and 2.2.2, framing the extensive teachings in between as elaborations of this single, core point."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The spiral nature of the path (revisiting themes at deeper levels)",
+                  "The unchanging core of Mahayana practice"
+                ],
+                "pedagogical_strategy": "Cyclical Repetition/Refrain. The sutra uses repetition as a pedagogical device to emphasize the centrality of a key idea and to show its relevance across different stages of the path.",
+                "intended_impact_on_reader": "To reinforce the primary teaching and prevent the reader from thinking they have 'moved beyond' the basics. It encourages a return to the foundational view with deeper understanding.",
+                "audience_assumptions": "Assumes a reader who has followed the entire discourse and is now being reminded of its fundamental starting point."
+              }
+            },
+            {
+              "level": "2.2.29",
+              "title": "སངས་རྒྱས་མར་མེ་མཛད་ལས་ཆོས་མ་ཐོབ་པའི་སྐོར་བསྐྱར་བ། (Repetition on Attaining Nothing from Dipamkara)",
+              "verses_span": "151-157",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha once again asks if he attained any real dharma of supreme enlightenment from Dipamkara Buddha, and Subhuti again confirms he did not. The Buddha elaborates: if he had attained a real, existent dharma, Dipamkara would not have given him the prophecy of future Buddhahood. It was precisely because he realized that no dharma is ultimately attained that he was prophesied to become 'Shakyamuni'. This is because 'Tathāgata' is a term for the suchness (དེ་བཞིན་ཉིད།) of all dharmas, which is emptiness.",
+                "key_concepts": [
+                  "མར་མེ་མཛད། (Dipamkara Buddha)",
+                  "ལུང་བསྟན་པ། (Prophecy)",
+                  "ཤཱཀྱ་ཐུབ་པ། (Shakyamuni)",
+                  "དེ་བཞིན་ཉིད། (Tathātā/Suchness)",
+                  "ཚིག་བླ་དྭགས། (Mere designation)"
+                ],
+                "transformative_goal": "To fully integrate the understanding that the realization of emptiness is the very condition for, not the content of, enlightenment and its prophecy.",
+                "function_in_hierarchy": "This repetition of the Dipamkara story (from 2.2.10) serves to explicitly link the state of 'no-attainment' with the cause for receiving a prophecy of Buddhahood. It clarifies the causal relationship between emptiness and the path's progression.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "repeats and clarifies the logic of",
+                    "conceptual_bridge": "This revisits the story from 2.2.10 but adds a crucial causal link: 'Because I attained nothing, I was prophesied.' It explains the 'why' behind the earlier statement."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The realization of emptiness as the cause for progress",
+                  "The meaning of the name 'Tathāgata'"
+                ],
+                "pedagogical_strategy": "Repetition with Elaboration. The sutra repeats a key story but adds a new layer of causal explanation to deepen the reader's understanding.",
+                "intended_impact_on_reader": "To shift the reader's goal from 'attaining something' to 'realizing nothing is attained,' seeing the latter as the true path to enlightenment.",
+                "audience_assumptions": "Assumes the reader recalls the earlier Dipamkara story and is ready for a more subtle explanation of its logic."
+              }
+            },
+            {
+              "level": "2.2.30",
+              "title": "ཆོས་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་ཆོས་ཡིན་པ། (All Dharmas are the Buddha's Dharma)",
+              "verses_span": "158-166",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha states that anyone who says the Tathāgata has attained supreme enlightenment speaks falsely, because there is no such dharma to be attained. The dharma he has realized is neither true nor false. For this reason, the Tathāgata has said that 'all dharmas are Buddha-dharmas'. This is explained to mean that since 'all dharmas' are ultimately 'no-dharmas' (i.e., empty), they are all equal in their empty nature, and this empty nature is the essence of the Buddha's realization. This is illustrated with the simile of a great body, which is called 'great' precisely because it is ultimately 'no-body'.",
+                "key_concepts": [
+                  "ཆོས་ཐམས་ཅད། (All dharmas)",
+                  "སངས་རྒྱས་ཀྱི་ཆོས། (Buddha-dharmas)",
+                  "ཆོས་མེད་པ། (No-dharma)",
+                  "མཉམ་པ། (Equal/Sameness)"
+                ],
+                "transformative_goal": "To see the nature of Buddhahood not as something separate from phenomena, but as the direct realization of the empty, equal nature of all phenomena.",
+                "function_in_hierarchy": "This section makes a profound synthesizing statement, equating the empty nature of all phenomena with the very nature of Buddhahood. It moves the discourse from deconstruction to a non-dual affirmation of the identity of samsara and nirvana in their ultimate nature.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "synthesizes",
+                    "conceptual_bridge": "This teaching synthesizes the earlier points about 'no-attainment' (2.2.29) and 'no-dharma' by concluding that because all dharmas are 'no-dharmas' (empty), they are all equally 'Buddha-dharma' (the object of a Buddha's realization)."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The non-duality of phenomena and emptiness",
+                  "The immanence of the Dharmakāya"
+                ],
+                "pedagogical_strategy": "Unifying Proclamation. The teaching makes a bold, unifying statement ('All dharmas are Buddha-dharmas') and then explains its meaning through the lens of emptiness.",
+                "intended_impact_on_reader": "To dissolve the perceived boundary between ordinary phenomena and the enlightened state, encouraging the reader to seek the nature of Buddhahood within the nature of all things.",
+                "audience_assumptions": "Assumes a reader who is now ready for a more direct, non-dual formulation of the relationship between reality and enlightenment."
+              }
+            },
+            {
+              "level": "2.2.31",
+              "title": "བྱང་སེམས་ཀྱིས་སེམས་ཅན་བཀྲོལ་བ་མེད་པ། (A Bodhisattva Liberates No Beings)",
+              "verses_span": "167-172",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha states that if a bodhisattva says 'I will liberate sentient beings,' they should not be called a bodhisattva. The reason is that there is no real dharma called 'bodhisattva'. Therefore, the Tathāgata teaches that all dharmas are without a being, a soul, or a person. The commentary points out that this again emphasizes that the compassionate activity of liberating others must be performed with the wisdom that sees no truly existing 'liberator' and no truly existing 'being to be liberated'.",
+                "key_concepts": [
+                  "སེམས་ཅན་ཡོངས་སུ་མྱ་ངན་ལས་འདའ། (To lead beings to nirvana)",
+                  "བྱང་ཆུབ་སེམས་དཔའ་ཞེས་མི་བྱ། (Should not be called a bodhisattva)",
+                  "སེམས་ཅན་མེད་པ། (No being)",
+                  "གང་ཟག་མེད་པ། (No person)"
+                ],
+                "transformative_goal": "To perfectly unify the intention of compassionate action with the realization of emptiness, allowing for effective, selfless activity.",
+                "function_in_hierarchy": "This section serves as a concise and powerful recapitulation of the sutra's very first teaching point (from 2.2.2). Its placement here, after numerous elaborations, functions as a reminder of the foundational importance of this non-dual view for a bodhisattva.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "recaps and concludes the theme of",
+                    "conceptual_bridge": "This brings the lengthy discussion back to its starting point: the non-conceptual generation of bodhicitta. It functions as a concluding statement on the nature of the bodhisattva."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The paradox of compassionate action",
+                  "The selflessness of the bodhisattva"
+                ],
+                "pedagogical_strategy": "Cyclical Restatement. The sutra returns to a core theme to demonstrate its persistent importance throughout the path.",
+                "intended_impact_on_reader": "To ensure the fundamental principle of acting without reifying 'self' or 'other' is firmly established as the cornerstone of bodhisattva practice.",
+                "audience_assumptions": "Assumes the reader has followed the argument and is now receiving a final, definitive restatement of the bodhisattva's core view."
+              }
+            },
+            {
+              "level": "2.2.32",
+              "title": "བྱང་སེམས་ཀྱིས་ཞིང་བཀོད་པ་མི་བསྒྲུབ་པ། (A Bodhisattva Does Not Establish Buddha-Field Adornments)",
+              "verses_span": "173-176",
+              "children": [],
+              "summary": {
+                "content_summary": "This section reiterates that a bodhisattva who says 'I will establish buddha-field adornments' should not be considered as such, because these 'adornments' are taught as 'no-adornments'. The text then adds a new, crucial point: a bodhisattva who has faith that 'all dharmas are selfless' (ཆོས་རྣམས་ནི་བདག་མེད་པ།) is named a 'great bodhisattva' by the Tathāgata. The commentary emphasizes that this explicit faith in both the selflessness of persons and the selflessness of phenomena is the defining characteristic of a true Mahayana practitioner.",
+                "key_concepts": [
+                  "ཞིང་བཀོད་པ། (Buddha-field adornments)",
+                  "ཆོས་རྣམས་ནི་བདག་མེད་པ། (All dharmas are selfless)",
+                  "མོས་པ། (Faith/Conviction)",
+                  "བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ། (Great Bodhisattva)"
+                ],
+                "transformative_goal": "To identify and cultivate the defining view of a Mahayana practitioner: a firm conviction in the two types of selflessness.",
+                "function_in_hierarchy": "This section both repeats a previous point (from 2.2.11) for emphasis and introduces the positive definition of a 'great bodhisattva' as one who has faith in selflessness. This shifts from a purely deconstructive to a more descriptive and affirming tone.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "repeats and positively defines",
+                    "conceptual_bridge": "This section reiterates the point about 'no-adornments' from 2.2.11 but then provides the positive counterpart: what makes one a true bodhisattva is not the rejection of adornments, but the positive conviction (མོས་པ།) in selflessness."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The two selflessnesses (བདག་མེད་གཉིས།)",
+                  "The importance of view (ལྟ་བ།) in defining a practitioner"
+                ],
+                "pedagogical_strategy": "Repetition and Positive Definition. The teaching repeats a negation and follows it with a positive affirmation to provide a complete picture.",
+                "intended_impact_on_reader": "To provide the reader with a clear benchmark for their own practice: the cultivation of firm faith in the twofold selflessness.",
+                "audience_assumptions": "Assumes a reader who is now ready to move from simply negating concepts to positively identifying the core view they must cultivate."
+              }
+            },
+            {
+              "level": "2.2.33",
+              "title": "སངས་རྒྱས་ཀྱི་སྤྱན་ལྔ། (The Five Eyes of the Buddha)",
+              "verses_span": "177-187",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks Subhuti if the Tathāgata possesses the five types of eyes: the physical eye (ཤའི་སྤྱན།), the divine eye (ལྷའི་སྤྱན།), the wisdom eye (ཤེས་རབ་ཀྱི་སྤྱན།), the Dharma eye (ཆོས་ཀྱི་སྤྱན།), and the Buddha eye (སངས་རྒྱས་ཀྱི་སྤྱན།). Subhuti confirms that he possesses all five. The commentary explains their functions: the physical eye sees forms; the divine eye sees the births and deaths of beings; the wisdom eye sees emptiness; the Dharma eye sees all the various teachings; and the Buddha eye sees all aspects of reality simultaneously and perfectly.",
+                "key_concepts": [
+                  "ཤའི་སྤྱན། (Fleshly Eye)",
+                  "ལྷའི་སྤྱན། (Divine Eye)",
+                  "ཤེས་རབ་ཀྱི་སྤྱན། (Wisdom Eye)",
+                  "ཆོས་ཀྱི་སྤྱན། (Dharma Eye)",
+                  "སངས་རྒྱས་ཀྱི་སྤྱན། (Buddha Eye)"
+                ],
+                "transformative_goal": "To generate faith in the Buddha's omniscience and his perfect, multi-faceted perception of reality, both conventional and ultimate.",
+                "function_in_hierarchy": "This section establishes the Buddha's cognitive authority. After having deconstructed reality, the sutra now affirms the Buddha's perfect capacity to perceive that reality in all its complexity. This builds faith that the preceding teachings originate from a truly omniscient source.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "establishes the authority for",
+                    "conceptual_bridge": "By detailing the Buddha's perfect ways of seeing, this section provides the epistemological foundation for his teachings on emptiness. It answers the implicit question: 'How does the Buddha know all this?'"
+                  }
+                ],
+                "implicit_concepts": [
+                  "Omniscience (རྣམ་མཁྱེན།)",
+                  "The different capacities of knowing",
+                  "The cognitive perfection of a Buddha"
+                ],
+                "pedagogical_strategy": "Categorization and Affirmation. The teaching lists the five distinct perceptual faculties of a Buddha to give a comprehensive picture of his omniscience.",
+                "intended_impact_on_reader": "To inspire deep confidence and awe in the Buddha's cognitive power, reinforcing the conviction that his teachings are a perfect and complete map of reality.",
+                "audience_assumptions": "Assumes a reader who might be wondering about the source and authority of the Buddha's profound statements."
+              }
+            },
+            {
+              "level": "2.2.34",
+              "title": "སངས་རྒྱས་ཀྱིས་སེམས་ཅན་ཀུན་གྱི་སེམས་མཁྱེན་པ། (The Buddha Knows the Minds of All Beings)",
+              "verses_span": "188-193",
+              "children": [],
+              "summary": {
+                "content_summary": "Building on his omniscience, the Buddha states that he knows the various and distinct streams of thought (སེམས་ཀྱི་རྒྱུན།) of every being in countless world systems. However, he immediately adds that these 'streams of thought' have been taught by the Tathāgata as 'no-streams'. This is because past thought is gone, future thought has not yet come, and present thought cannot be pinpointed or grasped (དམིགས་སུ་མེད།). The commentary explains this as the application of emptiness to consciousness itself, showing that the mind, like all other phenomena, is a ceaseless, ungraspable flow without an inherent essence.",
+                "key_concepts": [
+                  "སེམས་ཀྱི་རྒྱུན། (Stream of mind/thought)",
+                  "དམིགས་སུ་མེད། (Ungraspable/unfindable)",
+                  "འདས་པའི་སེམས། (Past mind)",
+                  "མ་འོངས་པའི་སེམས། (Future mind)",
+                  "ད་ལྟར་བྱུང་བའི་སེམས། (Present mind)"
+                ],
+                "transformative_goal": "To deconstruct the apparent solidity and continuity of one's own mind, realizing that consciousness is an empty, impermanent, and ungraspable process.",
+                "function_in_hierarchy": "This section applies the 'diamond-cutter' wisdom directly to the subjective mind of the practitioner. After deconstructing the external world and objects of practice, it now turns the analysis inward to the nature of the mind itself, which is a pivotal step in meditation.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is an application of",
+                    "conceptual_bridge": "This is a specific application of the Buddha's omniscience (established in 2.2.33). Because he possesses the five eyes, he can see all minds, and what he sees is their ultimate emptiness."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The emptiness of consciousness",
+                  "Temporal analysis of mind",
+                  "The nature of thought"
+                ],
+                "pedagogical_strategy": "Temporal Deconstruction. The teaching analyzes the mind by breaking it down into past, present, and future, and showing that none can be found to exist substantially. This is a classic analytical meditation technique.",
+                "intended_impact_on_reader": "To encourage the reader to apply this analysis to their own flow of thoughts, thereby reducing attachment to mental states and realizing the empty nature of their own mind.",
+                "audience_assumptions": "Assumes a reader who identifies strongly with their thoughts and feelings and needs a method to see their insubstantial nature."
+              }
+            },
+            {
+              "level": "2.2.35",
+              "title": "བསོད་ནམས་དང་གཟུགས་སྐུ་དོན་དམ་པར་མེད་པ། (Merit and the Rupakaya Do Not Ultimately Exist)",
+              "verses_span": "194-204",
+              "children": [],
+              "summary": {
+                "content_summary": "This section contains another repetition of key themes to drive them home. The Buddha repeats the comparison of the merit of giving a universe of jewels, and Subhuti affirms its greatness. The Buddha then states that if a 'heap of merit' were truly a heap, the Tathāgata would not have called it so. This logic is then applied to the Buddha's Form Body (གཟུགས་སྐུ།) and his perfect marks (མཚན།): they are called 'the complete Form Body' and 'the perfection of marks' precisely because they are ultimately not a complete body or a perfection of marks. The commentary states this repetition is for the benefit of higher-level practitioners on the path of purification.",
+                "key_concepts": [
+                  "བསོད་ནམས་ཀྱི་ཕུང་པོ། (Heap of merit)",
+                  "གཟུགས་ཀྱི་སྐུ། (Rūpakāya/Form Body)",
+                  "མཚན་ཕུན་སུམ་ཚོགས་པ། (Perfection of marks)",
+                  "ཡོངས་སུ་གྲུབ་པ། (Perfectly accomplished)"
+                ],
+                "transformative_goal": "To relentlessly undermine any remaining tendency to reify concepts, even the most sacred ones like merit and the Buddha's form, by repeatedly applying the 'is/is not' dialectic.",
+                "function_in_hierarchy": "This section serves as a powerful recapitulation of several core themes: the emptiness of merit, the emptiness of the Buddha's form, and the emptiness of his marks. The repetition acts as a powerful contemplative drill to break through ingrained conceptual habits.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "reiterates and combines",
+                    "conceptual_bridge": "This section brings together themes that were previously discussed separately (e.g., merit in 2.2.8, the Form Body in 2.2.4) and applies the same deconstructive logic to all of them in a single, condensed passage."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The self-emptiness of all concepts",
+                  "The importance of repetition in contemplative training"
+                ],
+                "pedagogical_strategy": "Thematic Recapitulation and Repetition. The sutra deliberately repeats its core negations to ensure they are fully internalized.",
+                "intended_impact_on_reader": "To strengthen the reader's facility with the Madhyamaka dialectic and to make the non-conceptual view second nature.",
+                "audience_assumptions": "Assumes a reader who has followed the argument thus far but needs reinforcement to overcome deep-seated habits of reification."
+              }
+            },
+            {
+              "level": "2.2.36",
+              "title": "སངས་རྒྱས་ཀྱིས་ཆོས་མ་བསྟན་པ། (The Buddha Has Taught No Dharma)",
+              "verses_span": "205-209",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks Subhuti not to think that he has the thought, 'I have taught the Dharma.' He states that anyone who says the Tathāgata has taught the Dharma slanders him, by grasping at what is non-existent. The reason is that a 'teaching of the Dharma' is ultimately unfindable. The commentary explains this in the context of the ultimate truth: in the state of non-dual realization, there is no duality of a 'teacher,' a 'teaching,' and an 'audience.' All such distinctions dissolve. To claim the Buddha ultimately taught a 'thing' called the Dharma is to misunderstand his realization and misrepresent him.",
+                "key_concepts": [
+                  "ཆོས་བསྟན་པ། (Teaching the Dharma)",
+                  "སྐུར་བ། (Slander/Misrepresentation)",
+                  "ལོག་པར་ཟིན་པ། (Grasping wrongly)",
+                  "དམིགས་པར་འགྱུར་བའི་ཆོས་མེད་པ། (No findable dharma)"
+                ],
+                "transformative_goal": "To transcend the dualistic framework of communication (speaker, speech, listener) and approach the silent, non-dual nature of the Dharma itself.",
+                "function_in_hierarchy": "This is one of the most radical deconstructive statements in the sutra, negating the very act of its own transmission. It serves to point beyond the words of the sutra to the ineffable reality it indicates, preventing the reader from clinging to the discourse itself.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is the logical conclusion of",
+                    "conceptual_bridge": "This follows from 'abandoning the raft' (2.2.6) and 'no attainment' (2.2.7). If the Dharma is a raft to be abandoned and there is no ultimate attainment, then from the ultimate perspective, no 'Dharma' has been taught or received."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The silence of the Āryas",
+                  "The ultimate ineffability of truth"
+                ],
+                "pedagogical_strategy": "Radical Negation. The teaching negates its own activity to point to a reality beyond language and concepts.",
+                "intended_impact_on_reader": "To provoke a profound cognitive shift, moving from intellectual understanding of the words to an appreciation for the silent, direct realization they point towards.",
+                "audience_assumptions": "Assumes a reader who is highly advanced and ready to let go of even the concept of the teaching itself."
+              }
+            },
+            {
+              "level": "2.2.37",
+              "title": "མདོ་འདི་ལ་ཡིད་ཆེས་པའི་སེམས་ཅན་གྱི་ངོ་བོ། (The Nature of Beings Who Have Faith in this Sutra)",
+              "verses_span": "210-213",
+              "children": [],
+              "summary": {
+                "content_summary": "Subhuti asks if, in the future, there will be beings who genuinely believe this teaching. The Buddha replies that such beings are 'not beings' and also 'not non-beings'. This is because what the Tathāgata calls 'sentient beings' are, from an ultimate perspective, 'no-beings'. The commentary explains that this is a concise restatement of the core teaching on emptiness and the Two Truths. Conventionally, there are beings who will have faith; ultimately, these beings lack any inherent, independent existence.",
+                "key_concepts": [
+                  "ཡིད་ཆེས་པ། (To believe/have faith)",
+                  "སེམས་ཅན། (Sentient being)",
+                  "སེམས་ཅན་མེད་པ། (No-being)",
+                  "བདེན་གཉིས། (Two Truths)"
+                ],
+                "transformative_goal": "To master the application of the Two Truths to the concept of 'beings', seeing both their conventional existence and ultimate emptiness simultaneously.",
+                "function_in_hierarchy": "This section functions as another reinforcement of the central dialectic, applying it to the very audience of the sutra. It prevents the reader from reifying 'beings who have faith' as a special, inherently existing category.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "reiterates",
+                    "conceptual_bridge": "This directly echoes the logic from the first teaching on bodhicitta (2.2.2), which stated one should vow to save all beings while knowing there are no beings to be saved."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The emptiness of the practitioner",
+                  "The conventional reality of faith"
+                ],
+                "pedagogical_strategy": "Concise Dialectical Restatement. The teaching summarizes its core philosophical stance on the nature of beings in a very brief, potent exchange.",
+                "intended_impact_on_reader": "To solidify the reader's understanding of how to view themselves and others through the lens of the Two Truths.",
+                "audience_assumptions": "Assumes the reader is now very familiar with the sutra's characteristic 'is/is not' formulation."
+              }
+            },
+            {
+              "level": "2.2.38",
+              "title": "ཆོས་རྣམས་མཉམ་པ་དང་བྱང་ཆུབ་སྟོང་པ། (All Dharmas are Equal and Bodhi is Empty)",
+              "verses_span": "214-222",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha states that there is not the slightest dharma to be found in supreme, perfect enlightenment (བྱང་ཆུབ།); therefore it is called 'supreme, perfect enlightenment'. Furthermore, this dharma is 'equal' (མཉམ་པ།), with nothing higher or lower. It is this equality with selflessness, being-lessness, soul-lessness, and person-lessness that is realized through all wholesome dharmas (དགེ་བའི་ཆོས།). Yet 'wholesome dharmas' are so-called because the Tathāgata has taught them as 'no-dharmas'. The section ends with another merit-comparison, weighing the gift of jewel-filled universes against teaching a four-line verse of this Prajñāpāramitā.",
+                "key_concepts": [
+                  "ཆོས་མཉམ་པ། (Equality of dharmas)",
+                  "བྱང་ཆུབ། (Bodhi/Enlightenment)",
+                  "ཅུང་ཟད་ཀྱང་མི་དམིགས། (Not the slightest thing is found)",
+                  "དགེ་བའི་ཆོས། (Wholesome dharmas)"
+                ],
+                "transformative_goal": "To realize the empty and equal nature of all phenomena, which is itself the essence of enlightenment, and to understand that this realization is the fruit of practicing conventional virtues.",
+                "function_in_hierarchy": "This is a highly synthetic section that brings together multiple key themes: the emptiness of the goal (bodhi), the empty nature of all phenomena (dharmas), their ultimate equality, and the conventional necessity of wholesome practices. It presents a complete, albeit paradoxical, picture of the path and fruit.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "synthesizes and unifies",
+                    "conceptual_bridge": "This passage links the emptiness of enlightenment (from 2.2.7), the emptiness of all dharmas (from 2.2.30), and the necessity of conventional practice (from 2.2.3, etc.) into a single, cohesive, non-dual vision."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The non-duality of path and fruit",
+                  "The perfection of wisdom as the realization of sameness (མཉམ་པ་ཉིད།)"
+                ],
+                "pedagogical_strategy": "Complex Synthesis. The teaching weaves together several deconstructive threads into a single, profound statement about the nature of reality and enlightenment.",
+                "intended_impact_on_reader": "To provide a holistic view where the practice of conventional virtues leads to the realization of the ultimate equality and emptiness of all things, which is enlightenment.",
+                "audience_assumptions": "Assumes a highly attentive reader who can follow the integration of multiple complex themes."
+              }
+            },
+            {
+              "level": "2.2.39",
+              "title": "དེ་བཞིན་གཤེགས་པས་སེམས་ཅན་མི་བཀྲོལ་བ། (The Tathagata Does Not Liberate Beings)",
+              "verses_span": "223-228",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks if one should think he has the thought, 'I have liberated beings'. He instructs Subhuti not to hold such a view, as there are no beings for the Tathāgata to liberate. If he were to think he liberated a being, he would be grasping at a self, a being, a soul, and a person. The Buddha clarifies that what he calls 'grasping at a self' is taught as 'no-grasping', yet it is grasped by ordinary, childish beings (བྱིས་པ་སོ་སོའི་སྐྱེ་བོ།). And these 'ordinary beings' are so-called because they are ultimately 'no-beings'.",
+                "key_concepts": [
+                  "སེམས་ཅན་བཀྲོལ་བ། (To liberate beings)",
+                  "བདག་ཏུ་འཛིན་པ། (Grasping at a self)",
+                  "འཛིན་པ་མེད་པ། (No-grasping)",
+                  "བྱིས་པ་སོ་སོའི་སྐྱེ་བོ། (Childish, ordinary beings)"
+                ],
+                "transformative_goal": "To understand that the compassionate activity of a Buddha is completely free from the dualistic conception of a 'savior' and 'one to be saved', arising spontaneously from wisdom.",
+                "function_in_hierarchy": "This section deconstructs the concept of the Buddha as an external 'agent' of liberation. It mirrors the deconstruction of the bodhisattva's role (in 2.2.2 and 2.2.31) and applies it to the ultimate level of a fully enlightened Buddha, completing the theme of selfless action.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is the ultimate expression of",
+                    "conceptual_bridge": "This is the ultimate expression of the principle of selfless action first introduced with the bodhisattva in 2.2.2. It shows that even a perfect Buddha acts without any reification of self or other."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The spontaneous activity of a Buddha (ལྷུན་གྲུབ།)",
+                  "The distinction between an enlightened being's perception and an ordinary being's perception"
+                ],
+                "pedagogical_strategy": "Clarification of Enlightened Activity. The teaching clarifies the nature of a Buddha's compassionate work, distinguishing it from an ordinary, ego-based conception of helping.",
+                "intended_impact_on_reader": "To inspire a vision of compassionate action that is completely free from ego, and to understand the profound difference between how a Buddha sees the world and how ordinary beings do.",
+                "audience_assumptions": "Assumes a reader who might conceive of the Buddha as an external, powerful agent and needs this view refined."
+              }
+            },
+            {
+              "level": "2.2.40",
+              "title": "ཆོས་སྐུ་ནི་ཆོས་ཉིད་ལས་བལྟ་དགོས་པ་ལས་མཚན་ལས་མི་བལྟ་བ། (The Dharmakaya is Seen Through the Dharma-nature, Not Marks)",
+              "verses_span": "229-236",
+              "children": [],
+              "summary": {
+                "content_summary": "This section contains the famous verse distinguishing the Buddha's physical body from his true nature. The Buddha first reiterates that one should not see him through his marks, as even a universal monarch (འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ།) has them. He then proclaims: 'Those who saw me by my form, and those who knew me by my voice, have entered a mistaken path; such people do not see me.' The true Buddhas are to be seen from the Dharmatā (ཆོས་ཉིད།), and the guides' true body is the Dharmakāya (ཆོས་སྐུ།). This Dharmatā, being the nature of reality, cannot be 'known' by conceptual mind. The commentary emphasizes that grasping at form or sound is a false path that obscures the vision of the true, empty nature of the Buddha.",
+                "key_concepts": [
+                  "གཟུགས་སུ་མཐོང་། (Seeing as form)",
+                  "སྒྲར་ཤེས་པ། (Knowing by voice)",
+                  "ཆོས་ཉིད། (Dharmatā/Dharma-nature)",
+                  "ཆོས་སྐུ། (Dharmakāya/Truth Body)",
+                  "རྣམ་པར་ཤེས་མི་ནུས། (Cannot be known conceptually)"
+                ],
+                "transformative_goal": "To make a decisive shift from a devotional practice based on external forms to an insight practice aimed at realizing the formless, ineffable Dharmakāya as the true Buddha.",
+                "function_in_hierarchy": "This is the climactic teaching on the nature of the Buddha, providing the definitive statement on how to correctly 'see' the Tathāgata. It serves as the ultimate refutation of all materialistic or reified views of enlightenment.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is the definitive statement on",
+                    "conceptual_bridge": "This section provides the most direct and poetic answer to the questions about the Buddha's marks raised in 2.2.4 and 2.2.17. It explicitly states that such perception is a 'mistaken path'."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The three bodies of the Buddha (Trikāya)",
+                  "The limits of conceptual knowledge",
+                  "The distinction between devotion and insight"
+                ],
+                "pedagogical_strategy": "Authoritative Proclamation in Verse. The teaching shifts into powerful, direct verse to deliver its most crucial and memorable point about the nature of seeing the Buddha.",
+                "intended_impact_on_reader": "To cause a radical reorientation of the reader's spiritual search, turning them away from external signs and toward the investigation of the nature of reality itself.",
+                "audience_assumptions": "Assumes a reader who may be deeply devoted to the physical image or voice of the Buddha and needs a direct instruction to look deeper."
+              }
+            },
+            {
+              "level": "2.2.41",
+              "title": "ཆོས་རྣམས་ཆད་པར་ལྟ་བ་དགག་པ། (Refuting the View of Annihilation regarding Dharmas)",
+              "verses_span": "237-238",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha cautions Subhuti not to think that the realization of emptiness means that dharmas are 'annihilated' or 'destroyed' (རྣམ་པར་བཤིག་པའམ། ཆད་པར་བཏགས་པ།). He explicitly states that a bodhisattva on the path does not hold a view of the destruction or annihilation of any dharma. The commentary explains that this is a critical safeguard against the nihilistic interpretation of emptiness. Realizing emptiness does not mean destroying conventional phenomena; it means understanding their lack of inherent existence while they still appear conventionally.",
+                "key_concepts": [
+                  "རྣམ་པར་བཤིག་པ། (Destroyed/Annihilated)",
+                  "ཆད་པར་ལྟ་བ། (View of nihilism/annihilation)",
+                  "སྒྲོ་སྐུར་གྱི་མཐའ། (The extremes of eternalism and nihilism)"
+                ],
+                "transformative_goal": "To establish a correct understanding of emptiness that avoids the pitfall of nihilism, thereby securing a balanced Middle Way view.",
+                "function_in_hierarchy": "This section serves as an essential 'antidote' or 'correction'. After the powerful deconstructions in the preceding sections (especially 2.2.40), this instruction is necessary to prevent the reader from falling into the extreme of nihilism. It clarifies what emptiness is *not*.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "safeguards against misinterpretation of",
+                    "conceptual_bridge": "After the radical statement in 2.2.40 that the form-body is not the Buddha, this section immediately corrects the potential misunderstanding that this implies the form-body is nothing at all. It steers the view back to the Middle Way."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The Middle Way (དབུ་མའི་ལམ།)",
+                  "The non-contradiction of appearance and emptiness"
+                ],
+                "pedagogical_strategy": "Direct Precautionary Instruction. The Buddha directly warns against a specific wrong view, acting as a guide to ensure the practitioner does not stray from the path.",
+                "intended_impact_on_reader": "To instill a clear and balanced view of emptiness, freeing the reader from the fear of nihilism and enabling them to appreciate the conventional reality of phenomena.",
+                "audience_assumptions": "Assumes a reader who, after hearing so much negation, might naturally wonder if the teaching is advocating for the total non-existence of everything."
+              }
+            },
+            {
+              "level": "2.2.42",
+              "title": "སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ་པའི་ཕན་ཡོན། (The Merit of Attaining Patience Regarding Non-Arising)",
+              "verses_span": "239-239",
+              "children": [],
+              "summary": {
+                "content_summary": "This section presents another merit comparison, stating that the merit of a bodhisattva who attains 'patience regarding the non-arising of dharmas' (སྐྱེ་བ་མེད་པ་ལ་བཟོད་པ་ཐོབ།) is infinitely greater than the merit of one who gives away universes filled with jewels. The commentary explains that this 'patience' is a direct, non-conceptual realization of emptiness, a high-level attainment on the bodhisattva path (specifically, the eighth bhūmi). Its merit is supreme because it is a direct confrontation with ultimate reality, the very cause of liberation, whereas material giving is a conventional, indirect cause.",
+                "key_concepts": [
+                  "སྐྱེ་བ་མེད་པ། (Non-arising)",
+                  "བཟོད་པ། (Patience/acceptance/forbearance)",
+                  "བདག་མེད་པ། (Selflessness)",
+                  "བསོད་ནམས། (Merit)"
+                ],
+                "transformative_goal": "To aspire to the direct, non-conceptual realization of emptiness, understanding it as the most powerful and meritorious attainment on the path.",
+                "function_in_hierarchy": "This section highlights the specific attainment that results from correctly understanding and practicing the sutra's teachings. It gives a name to the realization ('patience regarding non-arising') and clarifies its supreme status on the path.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "describes the fruit of",
+                    "conceptual_bridge": "This section describes the high-level result of internalizing the sutra's teachings. The entire discourse on emptiness and non-grasping leads to this state of 'patience regarding non-arising'."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The Bodhisattva Bhūmis (ས།)",
+                  "The distinction between conceptual understanding and non-conceptual realization"
+                ],
+                "pedagogical_strategy": "Highlighting a Key Attainment. The teaching singles out a specific, advanced realization and extols its merit to motivate practitioners toward this goal.",
+                "intended_impact_on_reader": "To provide a clear goal for advanced practice—the attainment of non-conceptual patience—and to reinforce the supreme value of insight-based practice.",
+                "audience_assumptions": "Assumes a reader familiar with the Mahayana path structure and the idea of progressive stages of realization."
+              }
+            },
+            {
+              "level": "2.2.43",
+              "title": "བྱང་སེམས་ཀྱིས་བསོད་ནམས་མི་གཟུང་བ། (A Bodhisattva Does Not Grasp at Merit)",
+              "verses_span": "240-242",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha states that a bodhisattva should not grasp at their heap of merit. Subhuti, feigning misunderstanding, asks, 'Should a bodhisattva not accept merit at all?' The Buddha clarifies: they should accept it (གཟུང་མོད།), but not grasp it wrongly (ལོག་པར་མི་བཟུང་།). Therefore it is called 'accepting'. The commentary explains this is another application of the Two Truths: conventionally, merit is accumulated and accepted as a cause for enlightenment. Ultimately, one must not grasp at it as an inherently real 'thing' one possesses. This prevents both the nihilistic rejection of merit and the eternalistic reification of it.",
+                "key_concepts": [
+                  "བསོད་ནམས་ཀྱི་ཕུང་པོ། (Heap of merit)",
+                  "ཡོངས་སུ་གཟུང་བ། (To grasp/accept)",
+                  "ལོག་པར་མི་བཟུང་། (Not to grasp wrongly)",
+                  "རྟག་ལྟ། (View of eternalism)",
+                  "ཆད་ལྟ། (View of nihilism)"
+                ],
+                "transformative_goal": "To learn how to engage in virtuous, merit-accumulating activities without attachment or reification, embodying the Middle Way in practice.",
+                "function_in_hierarchy": "This section serves as another crucial clarification, applying the Middle Way view to the concept of karma and merit. It resolves the apparent paradox of being told to accumulate merit while also being told everything is empty.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "clarifies the practice of",
+                    "conceptual_bridge": "After extolling the vast merit of practice (2.2.42), this section immediately clarifies how to relate to that merit: accept it conventionally, but do not grasp it ultimately."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The Middle Way (དབུ་མའི་ལམ།)",
+                  "The emptiness of karma and its results"
+                ],
+                "pedagogical_strategy": "Clarification through Feigned Misunderstanding. Subhuti's question allows the Buddha to explicitly address a potential point of confusion and articulate a nuanced, Middle Way position.",
+                "intended_impact_on_reader": "To provide a practical guide for how to relate to one's own spiritual progress and accomplishments—with appreciation but without attachment.",
+                "audience_assumptions": "Assumes a reader who is actively trying to accumulate merit and might be confused about how this relates to the teaching of emptiness."
+              }
+            },
+            {
+              "level": "2.2.44",
+              "title": "དེ་བཞིན་གཤེགས་པ་འགྲོ་འོང་མི་མཛད་པ། (The Tathagata Does Not Come or Go)",
+              "verses_span": "243-245",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha states that anyone who says the Tathāgata comes, goes, stands, sits, or lies down does not understand his teaching. This is because the name 'Tathāgata' (དེ་བཞིན་གཤེགས་པ།) means one who has not gone anywhere from anywhere, nor come from anywhere. The commentary explains that from the perspective of the ultimate Dharmakāya, which is like space, there is no movement, coming, or going. The Buddha's physical movements are conventional appearances, like a reflection in a mirror or a mirage, without any ultimate, substantial reality of motion.",
+                "key_concepts": [
+                  "དེ་བཞིན་གཤེགས་པ། (Tathāgata: 'Thus-gone' or 'Thus-come')",
+                  "འགྲོ་འོང་། (Coming and going)",
+                  "ཆོས་སྐུ། (Dharmakāya)",
+                  "ནམ་མཁའ་ལྟ་བུ། (Like space)"
+                ],
+                "transformative_goal": "To understand the profound stillness and placelessness of the Buddha's ultimate nature, the Dharmakāya, and to see all his physical activities as empty appearances.",
+                "function_in_hierarchy": "This section deconstructs the concepts of location and movement as applied to an enlightened being. It uses etymological play on the name 'Tathāgata' to reveal a profound truth about the nature of enlightenment.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is a logical extension of",
+                    "conceptual_bridge": "This extends the teaching that the Buddha is not his physical form (2.2.40) to the activities of that form. If the body is not the real Buddha, then its movements are not the Buddha's real movements."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The placelessness of the Dharmakāya",
+                  "The illusory nature of time and space"
+                ],
+                "pedagogical_strategy": "Etymological Deconstruction. The teaching uses the meaning of the Buddha's own title, 'Tathāgata,' as a springboard for a teaching on the emptiness of movement.",
+                "intended_impact_on_reader": "To shift the reader's perception from seeing the Buddha as a historical person moving in space to understanding Buddhahood as a timeless, spaceless reality.",
+                "audience_assumptions": "Assumes a reader who thinks of the Buddha in conventional terms as a person who lived and moved in the world."
+              }
+            },
+            {
+              "level": "2.2.45",
+              "title": "འཇིག་རྟེན་གྱི་ཁམས་རིལ་པོར་འཛིན་པ་མེད་པ། (There is No Grasping of a World-System as a Whole)",
+              "verses_span": "246-253",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks if a world-system ground into the finest atomic dust would constitute a great 'collection of particles' (རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས།). Subhuti agrees, but clarifies that this 'collection of particles' is taught as 'no-collection', and the 'world system' as 'no-system'. If it were a real system, it would be a case of 'grasping a composite as one' (རིལ་པོར་འཛིན་པ།). The Buddha then states that this 'grasping a composite as one' is itself taught as 'no-grasping' and is merely a conventional expression (ཐ་སྙད།), though ordinary beings reify it. The commentary explains this as a refutation of the idea that a collection of parts (particles) forms a truly existing whole (world-system).",
+                "key_concepts": [
+                  "རྡུལ་ཕྲ་རབ་ཀྱི་ཚོགས། (A collection of particles)",
+                  "འཇིག་རྟེན་གྱི་ཁམས། (World-system)",
+                  "རིལ་པོར་འཛིན་པ། (Grasping a composite as one/as a single entity)",
+                  "ཐ་སྙད། (Conventional expression)"
+                ],
+                "transformative_goal": "To deconstruct the reification of 'wholes' or composite objects, realizing that they are nothing more than conceptual designations imposed upon a collection of parts, which themselves are empty.",
+                "function_in_hierarchy": "This section provides a detailed analysis of the relationship between parts and wholes, a classic Madhyamaka argument against inherent existence. It refines the earlier deconstruction of the physical world (2.2.16) with more precise philosophical terminology.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "provides the philosophical reasoning for",
+                    "conceptual_bridge": "This section explains the logic behind the statement in 2.2.16 that world-systems are 'no-systems'. The reason is that they are not 'single things' (རིལ་པོ།) but are merely designated upon collections of parts."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The fallacy of composition",
+                  "Mere designation (མིང་ཙམ།)",
+                  "The emptiness of composite phenomena"
+                ],
+                "pedagogical_strategy": "Analytical Deconstruction of Composites. The teaching breaks down the concept of a 'whole' to show it has no reality apart from its parts, and that the parts themselves are not ultimate.",
+                "intended_impact_on_reader": "To equip the reader with a powerful analytical tool to deconstruct their perception of all composite objects (tables, chairs, bodies, worlds) and see their merely designated, conventional reality.",
+                "audience_assumptions": "Assumes a reader ready for a more technical philosophical argument about the nature of objects."
+              }
+            },
+            {
+              "level": "2.2.46",
+              "title": "བདག་ཏུ་ལྟ་བ་ནི་ལྟ་བ་མ་ཡིན་པ། (The View of a Self is Not a View of a Self)",
+              "verses_span": "254-257",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks: if someone were to say that the Tathāgata teaches a 'view of a self' (བདག་ཏུ་ལྟ་བ།), a view of a being, etc., would they be speaking correctly? Subhuti answers no, because what the Tathāgata has referred to as a 'view of a self' he has taught as 'no-view'. The commentary clarifies that the Buddha only speaks of such views in order to refute them. He names the disease in order to prescribe the cure; he does not endorse the disease. Therefore, such views are conventionally named 'view of a self', etc., but they are not part of his own teaching.",
+                "key_concepts": [
+                  "བདག་ཏུ་ལྟ་བ། (View of a self)",
+                  "སེམས་ཅན་དུ་ལྟ་བ། (View of a being)",
+                  "ལྟ་བ་མ་མཆིས་པ། (No-view)"
+                ],
+                "transformative_goal": "To understand that when the Buddha speaks of mistaken views, he does so to identify and refute them, not to affirm their existence as valid positions.",
+                "function_in_hierarchy": "This section serves as a crucial meta-commentary on the Buddha's own method. It clarifies that the mention of wrong views throughout the sutra is for the purpose of deconstruction, not endorsement, thereby preventing the reader from misinterpreting the Buddha's words.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "clarifies the purpose of",
+                    "conceptual_bridge": "This explains the pedagogical purpose behind the Buddha's repeated mention of 'perception of a self,' 'view of a being,' etc., throughout the text. It confirms these are the targets of negation, not tenets of his system."
+                  }
+                ],
+                "implicit_concepts": [
+                  "Refutative methodology",
+                  "The distinction between mentioning a view and holding a view"
+                ],
+                "pedagogical_strategy": "Meta-Commentary on Method. The Buddha comments on his own teaching style to ensure it is understood correctly.",
+                "intended_impact_on_reader": "To develop a more sophisticated way of reading the text, understanding that the Buddha's language is often used strategically to dismantle the very concepts it names.",
+                "audience_assumptions": "Assumes a reader who might be confused about why the Buddha speaks so often about views he ultimately rejects."
+              }
+            },
+            {
+              "level": "2.2.47",
+              "title": "དངོས་གཞིའི་དོན་བསྡུ་བ། (Conclusion of the Main Teaching)",
+              "verses_span": "258-261",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha provides a concluding instruction for the bodhisattva. He summarizes that a bodhisattva should 'know all dharmas, see all dharmas, and have faith in all dharmas' in this way (i.e., as empty). However, they should do so without establishing a perception of dharmas (ཆོས་སུ་འདུ་ཤེས།). The commentary explains 'knowing' as arising from hearing (ཐོས།), 'seeing' as arising from contemplation (བསམ།), and 'having faith' as arising from meditation (བསྒོམ།). The reason one should not establish a perception of dharmas is that this 'perception of dharmas' is taught by the Tathāgata as 'no-perception'.",
+                "key_concepts": [
+                  "ཤེས་པར་བྱ། (Should be known)",
+                  "བལྟ་བར་བྱ། (Should be seen)",
+                  "མོས་པར་བྱ། (Should have faith in)",
+                  "ཆོས་སུ་འདུ་ཤེས་པ། (Perception of dharmas)",
+                  "ཐོས་བསམ་སྒོམ། (Hearing, Contemplating, Meditating)"
+                ],
+                "transformative_goal": "To integrate the wisdom of emptiness into the entire arc of spiritual development—from initial study to final realization—without ever reifying the objects of that development.",
+                "function_in_hierarchy": "This section serves as the final, summary instruction on the path, explicitly linking the threefold process of hearing, contemplating, and meditating to the non-conceptual view that has been the sutra's central theme. It answers 'how to practice' in a final, conclusive way.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "concludes and summarizes",
+                    "conceptual_bridge": "This passage directly answers the initial questions from 2.1 ('how to abide, practice, control the mind') in a final, synthesized form, framing the answer in terms of the classic three wisdoms."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The three prajñās (ཤེས་རབ་གསུམ།)",
+                  "The integration of study and practice"
+                ],
+                "pedagogical_strategy": "Final Summary Instruction. The teaching concludes by providing a clear, actionable summary of the entire path from the perspective of emptiness.",
+                "intended_impact_on_reader": "To provide a clear, practical framework for how to engage with all phenomena through the progressive stages of learning, analysis, and direct experience, while maintaining the core view of non-grasping.",
+                "audience_assumptions": "Assumes the reader is seeking a final, encapsulating instruction on how to apply the sutra's teachings."
+              }
+            },
+            {
+              "level": "2.2.48",
+              "title": "མཐའ་མའི་བསོད་ནམས་ཀྱི་དོན། (The Final Teaching on Merit)",
+              "verses_span": "262-262",
+              "children": [],
+              "summary": {
+                "content_summary": "In the sutra's final merit comparison, the Buddha states that the merit of a bodhisattva who fills countless world systems with the seven precious jewels and gives them away is far surpassed by the merit of someone who writes down, holds, reads, masters, and extensively teaches others even a four-line verse from this Perfection of Wisdom sutra. This serves as the final, definitive statement on the supreme value of practicing and propagating the wisdom of emptiness.",
+                "key_concepts": [
+                  "བསོད་ནམས། (Merit)",
+                  "འཇིག་རྟེན་གྱི་ཁམས། (World-system)",
+                  "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ། (Prajñāpāramitā)",
+                  "རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན། (Extensively and perfectly teaches)"
+                ],
+                "transformative_goal": "To leave the practitioner with an indelible impression of the unparalleled value of engaging with and sharing the wisdom of emptiness.",
+                "function_in_hierarchy": "This is the concluding statement on merit, reprising the theme for the last time to provide a final, powerful encouragement to the reader to value, practice, and share this teaching above all else.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "is the final iteration of",
+                    "conceptual_bridge": "This is the last in a series of merit comparisons that punctuate the sutra (2.2.8, 2.2.13, 2.2.18, 2.2.27, 2.2.42), serving as a final, memorable exhortation."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The synergy of wisdom and compassion (teaching others)",
+                  "The enduring legacy of the Dharma"
+                ],
+                "pedagogical_strategy": "Final Merit Comparison. The sutra ends its main teaching with a final, powerful reminder of its own supreme value.",
+                "intended_impact_on_reader": "To inspire a lifelong commitment to the Prajñāpāramitā as the most beneficial practice for oneself and others.",
+                "audience_assumptions": "Assumes a reader who is now fully convinced and is receiving a final encouragement."
+              }
+            },
+            {
+              "level": "2.2.49",
+              "title": "ཆོས་ཇི་ལྟར་སྟོན་པ། (How to Teach the Dharma)",
+              "verses_span": "263-264",
+              "children": [],
+              "summary": {
+                "content_summary": "The Buddha asks, 'How should one teach this perfectly and extensively?' He answers his own question with a final paradox: 'Just as one does not teach it perfectly and extensively, in that way it is taught perfectly and extensively.' The commentary explains that this means one should teach conventionally, with clear words and meaning, while simultaneously understanding that ultimately, the truth being pointed to is beyond words, concepts, and the duality of 'teaching'. To teach with this non-dual understanding is to teach perfectly.",
+                "key_concepts": [
+                  "ཡང་དག་པར་རབ་ཏུ་སྟོན། (To teach perfectly and extensively)",
+                  "མི་སྟོན་པ། (Not to teach)",
+                  "ཐ་སྙད། (Convention)",
+                  "དོན་དམ། (Ultimate)"
+                ],
+                "transformative_goal": "To understand how to communicate the Dharma effectively on a conventional level while never losing sight of the ultimate, ineffable nature of the truth being communicated.",
+                "function_in_hierarchy": "This serves as the ultimate instruction on pedagogy itself. After being told to teach the Dharma (2.2.48), the practitioner is now told *how* to teach it—from a non-dual perspective. It is the final application of the 'is/is not' dialectic to the act of transmission.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "provides the method for",
+                    "conceptual_bridge": "This directly follows the instruction in 2.2.48 to teach the Dharma by explaining the correct view from which to teach it."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The skillful means of a teacher",
+                  "The paradox of communication"
+                ],
+                "pedagogical_strategy": "Final Paradoxical Instruction. The sutra concludes its instructions with a final, mind-bending paradox that encapsulates the core tension between conventional language and ultimate reality.",
+                "intended_impact_on_reader": "To inspire a skillful, nuanced approach to sharing the Dharma, free from both dogmatic reification and nihilistic silence.",
+                "audience_assumptions": "Assumes a reader who is not only a practitioner but potentially a future teacher of these principles."
+              }
+            },
+            {
+              "level": "2.2.50",
+              "title": "འདུས་བྱས་དཔེ་དགུའི་སྒོ་ནས་མཇུག་བསྡུ་བ། (Conclusion with the Nine Similes for Conditioned Things)",
+              "verses_span": "265-265",
+              "children": [],
+              "summary": {
+                "content_summary": "This final verse concludes the main teaching by presenting nine similes: a star, a visual distortion, a lamp, an illusion, dew, a bubble, a dream, a flash of lightning, and a cloud. The Buddha instructs that all conditioned phenomena (འདུས་བྱས།) should be viewed in this way. The commentary explains that these similes illustrate the impermanent, false, dependent, and insubstantial nature of all experience, serving as a final, powerful contemplative instruction for integrating the wisdom of emptiness into every moment of perception.",
+                "key_concepts": [
+                  "སྐར་མ། (Star)",
+                  "སྒྱུ་མ། (Illusion)",
+                  "རྨི་ལམ། (Dream)",
+                  "འདུས་བྱས། (Conditioned phenomena)",
+                  "དཔེ་དགུ། (The nine similes)"
+                ],
+                "transformative_goal": "To internalize the understanding of the illusory and impermanent nature of all experiences, thereby cutting the root of attachment to conditioned existence and maintaining the view of emptiness in post-meditation.",
+                "function_in_hierarchy": "Serves as the ultimate contemplative summary and capstone for the entire sutra. It synthesizes the core teaching on emptiness into a practical, poetic, and memorable set of images for ongoing practice.",
+                "inter_node_relationships": [
+                  {
+                    "relationship_type": "synthesizes and summarizes with imagery",
+                    "conceptual_bridge": "This verse encapsulates the entire preceding philosophical discussion on the non-reality of phenomena (e.g., 2.2.16, 2.2.45), offering a practical, imagistic method for daily contemplation. It is the 'view' (ལྟ་བ།) that is to be applied."
+                  }
+                ],
+                "implicit_concepts": [
+                  "The unity of view and conduct",
+                  "The importance of post-meditation practice (རྗེས་ཐོབ།)",
+                  "The application of emptiness to everyday life"
+                ],
+                "pedagogical_strategy": "Poetic and Metaphorical Synthesis. The teaching shifts from dialectical argument to a concluding set of evocative metaphors, making the profound view accessible and easy to recall.",
+                "intended_impact_on_reader": "To inspire a profound sense of renunciation and non-attachment by vividly illustrating the ephemeral nature of reality, leaving the reader with a powerful final contemplative tool.",
+                "audience_assumptions": "Assumes the reader has followed the preceding arguments about emptiness and now needs a method to integrate this understanding into their moment-to-moment perception of the world."
+              }
+            }
+          ],
+          "summary": {
+            "content_summary": "This extensive central section constitutes the Buddha's detailed response to Subhuti's foundational questions about the Bodhisattva path. The teaching unfolds through a systematic deconstruction of all conceivable objects of grasping, from the practitioner's own self to the ultimate goal of Buddhahood. Key themes include: generating bodhicitta without reifying 'beings'; practicing the perfections (paramitas), especially giving, without conceptual attachment to the 'three spheres'; understanding the Buddha's true body as the formless Dharmakāya, not his physical marks; and realizing that all phenomena, from cosmic world-systems to the tiniest particles, are ultimately empty of inherent existence (རང་བཞིན།). The commentary consistently frames this dialectic through the lens of the Two Truths (བདེན་གཉིས།), showing how conventional activity (ཐ་སྙད།) is not negated but is perfected through the understanding of ultimate reality (དོན་དམ།). The entire section is punctuated by exhortations highlighting the supreme, inconceivable merit of understanding and sharing this wisdom, culminating in the final, synthesizing instruction to view all conditioned things as ephemeral as a dream or a flash of lightning.",
+            "key_concepts": [
+              "བདེན་གཉིས། (Two Truths)",
+              "སྟོང་པ་ཉིད། (Emptiness)",
+              "སེམས་བསྐྱེད། (Bodhicitta)",
+              "ཕར་ཕྱིན། (Perfections/Paramitas)",
+              "མཚན་མར་འཛིན་པ། (Grasping at marks)",
+              "མི་གནས་པ། (Non-abiding)",
+              "ཆོས་སྐུ། (Dharmakāya)",
+              "འཁོར་གསུམ་རྣམ་དག (Purity of the three spheres)"
+            ],
+            "transformative_goal": "To guide the practitioner in dismantling every form of subtle conceptual grasping (བདེན་འཛིན།) related to the path—practitioner, practice, and goal—in order to arrive at a state of non-abiding wisdom (མི་གནས་པའི་ཡེ་ཤེས།) where compassionate action and profound insight are naturally and effortlessly united.",
+            "function_in_hierarchy": "This is the main body and heart of the sutra, providing the core philosophical arguments and practical instructions that directly answer Subhuti's initial query. It systematically applies the 'diamond-like' wisdom to every conceivable aspect of the Mahayana path, demonstrating the universal applicability of emptiness.",
+            "inter_node_relationships": [
+              {
+                "relationship_type": "is the answer to",
+                "conceptual_bridge": "The entirety of this section is the Buddha's detailed, multi-faceted reply to the questions posed by Subhuti in node 2.1."
+              },
+              {
+                "relationship_type": "is framed by",
+                "conceptual_bridge": "The detailed teachings within are framed by the opening question (2.1) and the concluding summary of the audience's reaction (3)."
+              }
+            ],
+            "implicit_concepts": [
+              "The progressive deconstruction of reality",
+              "The inseparability of method and wisdom (ཐབས་ཤེས་ཟུང་འཇུག)",
+              "The self-deconstructing nature of language and concepts"
+            ],
+            "pedagogical_strategy": "Systematic Dialectical Deconstruction via Dialogue. The Buddha leads Subhuti (and the reader) through a structured process of questioning and negating all possible objects of attachment, interspersed with exhortations, narrative examples, and powerful similes.",
+            "intended_impact_on_reader": "To systematically strip away layers of conceptual attachment and reification, leading to a direct, non-conceptual insight into the nature of reality, and to inspire unshakable confidence in this path as the supreme way to enlightenment.",
+            "audience_assumptions": "Assumes a reader committed to the Mahayana path who is ready to engage in a rigorous and profound deconstruction of their most cherished spiritual concepts and goals."
+          }
+        }
+      ],
+      "summary": {
+        "content_summary": "The main body of the sutra unfolds as a dialogue between the Buddha and the elder Subhuti. It begins with Subhuti's seminal questions on how a bodhisattva should abide, practice, and control the mind. The Buddha's response forms the vast majority of the text, systematically applying the 'diamond-like wisdom' to deconstruct all objects of attachment. The teachings cover the correct, non-conceptual way to generate bodhicitta, the practice of the perfections (especially giving) without reifying a giver, gift, or recipient, the understanding of the Buddha's true body as the formless Dharmakāya, and the ultimate emptiness of all phenomena, including the Dharma itself. The commentary consistently interprets these challenging points through the Madhyamaka framework of the Two Truths, showing that conventional reality is affirmed but its ultimate, inherent existence is denied. This section repeatedly emphasizes the supreme merit of understanding this wisdom, culminating in the famous nine similes for viewing all conditioned existence as illusory.",
+        "key_concepts": [
+          "དངོས་གཞི། (Main Body)",
+          "ཞུས་ལན། (Question and Answer)",
+          "སྟོང་པ་ཉིད། (Emptiness)",
+          "བདག་མེད། (Selflessness)",
+          "མི་གནས་པའི་མྱང་འདས། (Non-abiding Nirvana)",
+          "ཕར་ཕྱིན། (Paramita/Perfection)"
+        ],
+        "transformative_goal": "To eradicate subtle, conceptual grasping (བདེན་འཛིན།) at its root by demonstrating the ultimate non-reality of all phenomena, including the path and its goal, thereby liberating the mind into a state of non-abiding wisdom.",
+        "function_in_hierarchy": "Constitutes the core teaching of the sutra, systematically elaborating on the 'diamond-cutter' wisdom that was introduced in the title. It directly addresses the foundational questions of the Mahayana path posed in the introductory section.",
+        "inter_node_relationships": [
+          {
+            "relationship_type": "is initiated by",
+            "conceptual_bridge": "The entire main body is a response to the questions asked by Subhuti in the initial request (2.1)."
+          },
+          {
+            "relationship_type": "is framed by",
+            "conceptual_bridge": "The main teaching is framed by the preliminary section (1), which sets the scene, and the concluding section (3), which describes the joyful reception of the teaching."
+          }
+        ],
+        "implicit_concepts": [
+          "The unity of conventional practice and ultimate view",
+          "The necessity of deconstructing all conceptual frameworks"
+        ],
+        "pedagogical_strategy": "Progressive Deconstruction through Dialogue. The text uses a question-and-answer format to systematically dismantle one object of attachment after another, moving from the self to the world, to the path, and finally to enlightenment itself.",
+        "intended_impact_on_reader": "To guide the reader through a profound intellectual and contemplative process of letting go, resulting in a radical shift in perception and a deep, abiding confidence in the path of non-attachment.",
+        "audience_assumptions": "A serious practitioner of the Mahayana path who is ready to confront and deconstruct their most fundamental assumptions about reality."
+      }
+    },
+    {
+      "level": "3",
+      "title": "མཇུག་གི་རིམ་པ། (Conclusion)",
+      "verses_span": "266-266",
+      "children": [],
+      "summary": {
+        "content_summary": "This final section describes the reaction of the entire assembly to the Buddha's discourse. The elder Subhuti, along with all the monks, nuns, laymen, laywomen, and the worldly beings including gods, humans, and asuras, were filled with joy. They rejoiced in the Buddha's teaching and praised what he had said. This concludes the narrative of the sutra proper, indicating the successful transmission and joyful reception of the Dharma.",
+        "key_concepts": [
+          "ཡི་རང་། (Rejoicing)",
+          "མངོན་པར་བསྟོད་དོ། (Praised/Extolled)",
+          "འཁོར་རྣམ་པ་བཞི། (The fourfold assembly)",
+          "མཇུག་གི་རིམ་པ། (Concluding sequence)"
+        ],
+        "transformative_goal": "To model the appropriate response to hearing the profound Dharma—joyful acceptance and appreciation—and to formally conclude the teaching.",
+        "function_in_hierarchy": "Serves as the formal conclusion to the sutra's narrative, showing the positive impact of the teaching on the assembled audience and providing a sense of closure.",
+        "inter_node_relationships": [
+          {
+            "relationship_type": "concludes",
+            "conceptual_bridge": "This section follows the final teaching verse (2.2.50) and describes the audience's reaction, thereby formally closing the main discourse (2)."
+          }
+        ],
+        "implicit_concepts": [
+          "The power of Dharma to inspire joy",
+          "The successful transmission of wisdom"
+        ],
+        "pedagogical_strategy": "Narrative Conclusion. The sutra ends by returning to the narrative frame, describing the positive outcome of the teaching event.",
+        "intended_impact_on_reader": "To leave the reader with a feeling of joyful resolution and to inspire them to share in the assembly's appreciation for the teaching they have just received.",
+        "audience_assumptions": "A reader who has followed the teaching and is now part of the 'assembly' rejoicing in its conclusion."
+      }
+    },
+    {
+      "level": "4",
+      "title": "ཕྱིས་སུ་བསྣན་པའི་ཁག (Later Additions as per Commentary)",
+      "verses_span": "267-270",
+      "children": [],
+      "summary": {
+        "content_summary": "This section contains elements that the commentary identifies as likely later additions to the original sutra text. These include the formal colophon stating 'The Sutra... is complete', a dharani or mantra (ཨོཾ་ན་ཏ་ད་ཏི་ཏ།...), a note claiming that reciting this mantra once is equivalent to reading the sutra 90,000 times, and the standard 'dependent arising' verse (ཡེ་དྷརྨཱ...). The commentary explicitly voices skepticism about the dharani and its associated claim, suggesting they were added by someone other than the original author/translator, while still acknowledging they are not without some benefit.",
+        "key_concepts": [
+          "སྙིང་པོའི་སྔགས། (Heart-essence mantra/dharani)",
+          "ཕྱིས་སུ་བསྣན་པ། (Later addition)",
+          "རྟེན་འབྲེལ་སྙིང་པོ། (Heart of Dependent Arising verse)",
+          "མཇུག་བྱང། (Colophon)"
+        ],
+        "transformative_goal": "To provide supplementary liturgical elements for the practitioner, such as a mantra for recitation and a concluding verse for sealing the virtue of the practice.",
+        "function_in_hierarchy": "Functions as a liturgical appendix to the main sutra. These elements are not part of the core narrative or philosophical argument but were likely added over time to facilitate the text's use in ritual and devotional contexts.",
+        "inter_node_relationships": [
+          {
+            "relationship_type": "appended to",
+            "conceptual_bridge": "These verses and mantras follow the formal conclusion of the sutra's narrative (3), serving as additional material for ritual practice rather than as part of the original discourse."
+          }
+        ],
+        "implicit_concepts": [
+          "The evolution of texts in a living tradition",
+          "The integration of sutra and tantra (mantra) practices"
+        ],
+        "pedagogical_strategy": "Liturgical Supplementation. This section adds practical elements for recitation and ritual that supplement the primary act of reading and contemplating the text.",
+        "intended_impact_on_reader": "To provide the reader with additional tools for practice and to connect the merit of reading the sutra with the recitation of a mantra.",
+        "audience_assumptions": "Assumes a practitioner who is part of a tradition where mantra recitation and other liturgical elements are a common part of engaging with sutra texts."
+      }
+    }
+  ]
