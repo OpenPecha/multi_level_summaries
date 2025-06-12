@@ -103,4 +103,6 @@ Please provide the full outline tree for the root text, as structured by the com
 
 7. Nested structures should be represented using the `children` array. If an item has no further subdivisions, its children array should be empty.
 
+8. The hierarchical outline can extend up to 10 levels deep to accommodate highly detailed commentaries.
+
 Please generate the JSON outline.
