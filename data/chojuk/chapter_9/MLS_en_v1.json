@@ -1,7 +1,7 @@
 [
     {
-      "level": "chapter",
-      "number": "1",
+      "level": "chapter-9",
+      "number": "9",
       "title": "ཤེས་རབ་ཀྱི་ལེའུ། (Chapter on Wisdom)",
       "verses_span": "1-168",
       "summary": {
@@ -35,7 +35,7 @@
       "children": [
         {
           "level": "section",
-          "number": "1.1",
+          "number": "9.1",
           "title": "ཤེས་རབ་བསྐྱེད་པ་མདོར་བསྟན་པ། (Brief Explanation of Generating Wisdom)",
           "verses_span": "1-2",
           "summary": {
@@ -49,9 +49,9 @@
             "function_in_hierarchy": "This section serves as the chapter's thesis statement, framing wisdom not as one perfection among equals, but as the central purpose for which all other practices are undertaken. It provides the core motivation for the extensive and complex analysis that follows.",
             "inter_node_relationships": [
               {
-                "related_node_id": "1.2",
+                "related_node_id": "9.2",
                 "relationship_type": "introduces_and_justifies",
-                "conceptual_bridge": "By establishing *why* wisdom is essential (to end suffering), it sets the stage for the detailed explanation of *what* that wisdom is and *how* to cultivate it in the subsequent section (1.2)."
+                "conceptual_bridge": "By establishing *why* wisdom is essential (to end suffering), it sets the stage for the detailed explanation of *what* that wisdom is and *how* to cultivate it in the subsequent section (9.2)."
               }
             ],
             "implicit_concepts": [
@@ -66,7 +66,7 @@
         },
         {
           "level": "section",
-          "number": "1.2",
+          "number": "9.2",
           "title": "དེ་རྒྱས་པར་བཤད་པ། (Detailed Explanation of That)",
           "verses_span": "3-168",
           "summary": {
@@ -79,15 +79,15 @@
               "བདག་མེད་གཉིས། (Two Types of Selflessness)"
             ],
             "transformative_goal": "To guide the practitioner from a theoretical understanding of emptiness to a direct, non-conceptual realization through rigorous analysis and meditation, resulting in the complete transformation of their being.",
-            "function_in_hierarchy": "This section forms the main body of the chapter, systematically unpacking the brief statement made in 1.1. It provides the philosophical foundation, the practical methodology, and the resultant state of the perfection of wisdom.",
+            "function_in_hierarchy": "This section forms the main body of the chapter, systematically unpacking the brief statement made in 9.1. It provides the philosophical foundation, the practical methodology, and the resultant state of the perfection of wisdom.",
             "inter_node_relationships": [
               {
-                "related_node_id": "1.1",
+                "related_node_id": "9.1",
                 "relationship_type": "elaborates_on",
-                "conceptual_bridge": "This section fulfills the promise of section 1.1 by explaining in detail what the 'wisdom that ends suffering' actually is and how it is to be cultivated."
+                "conceptual_bridge": "This section fulfills the promise of section 9.1 by explaining in detail what the 'wisdom that ends suffering' actually is and how it is to be cultivated."
               },
               {
-                "related_node_id": "1.2.1, 1.2.2, 1.2.3",
+                "related_node_id": "9.2.1, 9.2.2, 9.2.3",
                 "relationship_type": "is_composed_of",
                 "conceptual_bridge": "The overall explanation of wisdom is logically structured into three parts: establishing the view, the method of meditation, and the resulting function, which are detailed in its child nodes."
               }
@@ -103,7 +103,7 @@
           "children": [
             {
               "level": "subsection",
-              "number": "1.2.1",
+              "number": "9.2.1",
               "title": "ལྟ་བས་གཏན་ལ་ཕབ་པ། (Establishing Through View)",
               "verses_span": "3-89",
               "summary": {
@@ -116,12 +116,12 @@
                   "ཉན་ཐོས། (Śrāvaka)"
                 ],
                 "transformative_goal": "To lead the reader to a precise and unshakable intellectual understanding of emptiness by systematically eliminating all incorrect or incomplete views.",
-                "function_in_hierarchy": "This serves as the foundational theoretical part of the chapter. It provides the intellectual clarity and conviction necessary to undertake the meditative practices described in the next subsection (1.2.2). Without establishing the correct view first, meditation would be misguided.",
+                "function_in_hierarchy": "This serves as the foundational theoretical part of the chapter. It provides the intellectual clarity and conviction necessary to undertake the meditative practices described in the next subsection (9.2.2). Without establishing the correct view first, meditation would be misguided.",
                 "inter_node_relationships": [
                   {
-                    "related_node_id": "1.2.2",
+                    "related_node_id": "9.2.2",
                     "relationship_type": "provides_foundation_for",
-                    "conceptual_bridge": "The intellectual certainty established here in 1.2.1 ('Establishing the View') is the necessary prerequisite for the experiential practice detailed in 1.2.2 ('Practicing Through Meditation')."
+                    "conceptual_bridge": "The intellectual certainty established here in 9.2.1 ('Establishing the View') is the necessary prerequisite for the experiential practice detailed in 9.2.2 ('Practicing Through Meditation')."
                   }
                 ],
                 "implicit_concepts": [
@@ -135,11 +135,11 @@
               "children": [
                 {
                   "level": "subsubsection",
-                  "number": "1.2.1.1",
+                  "number": "9.2.1.1",
                   "title": "བདེན་གཉིས་རྣམ་པར་བཞག་པ། (The Presentation of the Two Truths)",
                   "verses_span": "3-7",
                   "summary": {
-                    "content_summary": "This section introduces the foundational framework of the Two Truths. It first makes the division (1.2.1.1.1) between conventional truth (saṃvṛti-satya) and ultimate truth (paramārtha-satya). It then provides their definitions (1.2.1.1.2): ultimate truth is beyond the conceptual mind, while the mind and its objects constitute the conventional. Finally, it identifies the perceivers of these truths (1.2.1.1.3), distinguishing between ordinary worldly beings and yogic practitioners, noting that higher levels of yogic insight refute the perceptions of lower levels.",
+                    "content_summary": "This section introduces the foundational framework of the Two Truths. It first makes the division (9.2.1.1.1) between conventional truth (saṃvṛti-satya) and ultimate truth (paramārtha-satya). It then provides their definitions (9.2.1.1.2): ultimate truth is beyond the conceptual mind, while the mind and its objects constitute the conventional. Finally, it identifies the perceivers of these truths (9.2.1.1.3), distinguishing between ordinary worldly beings and yogic practitioners, noting that higher levels of yogic insight refute the perceptions of lower levels.",
                     "key_concepts": [
                       "བདེན་གཉིས། (Two Truths)",
                       "ཀུན་རྫོབ། (Conventional)",
@@ -151,9 +151,9 @@
                     "function_in_hierarchy": "This short but crucial section lays the cornerstone for the entire chapter's argument. All subsequent analysis of emptiness and refutation of other views is predicated on this distinction between the conventional and ultimate perspectives.",
                     "inter_node_relationships": [
                       {
-                        "related_node_id": "1.2.1.2",
+                        "related_node_id": "9.2.1.2",
                         "relationship_type": "is_the_basis_for",
-                        "conceptual_bridge": "The framework of the Two Truths established here is the tool used in the next section (1.2.1.2) to resolve disputes. Objections are shown to be invalid because they conflate the two levels of truth."
+                        "conceptual_bridge": "The framework of the Two Truths established here is the tool used in the next section (9.2.1.2) to resolve disputes. Objections are shown to be invalid because they conflate the two levels of truth."
                       }
                     ],
                     "implicit_concepts": [
@@ -167,7 +167,7 @@
                   "children": [
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.1.1",
+                      "number": "9.2.1.1.1",
                       "title": "བདེན་གཉིས་ཀྱི་དབྱེ་བ། (The Division of the Two Truths)",
                       "verses_span": "3-3",
                       "summary": {
@@ -181,9 +181,9 @@
                         "function_in_hierarchy": "This is the initial premise upon which the entire chapter's philosophical argument is built. It introduces the two key terms and the primary distinction that will be used to deconstruct all other views.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.1.2",
+                            "related_node_id": "9.2.1.1.2",
                             "relationship_type": "is_defined_by",
-                            "conceptual_bridge": "Having established the division into two truths, the next verse (1.2.1.1.2) will proceed to define what distinguishes them."
+                            "conceptual_bridge": "Having established the division into two truths, the next verse (9.2.1.1.2) will proceed to define what distinguishes them."
                           }
                         ],
                         "implicit_concepts": [
@@ -198,7 +198,7 @@
                     },
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.1.2",
+                      "number": "9.2.1.1.2",
                       "title": "བདེན་གཉིས་ཀྱི་མཚན་ཉིད། (The Definition of the Two Truths)",
                       "verses_span": "4-4",
                       "summary": {
@@ -213,14 +213,14 @@
                         "function_in_hierarchy": "This verse provides the specific criterion for distinguishing the two truths introduced in the previous verse. It makes the critical point that ultimate truth is non-conceptual, which is a core tenet of Madhyamaka philosophy.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.1.1",
+                            "related_node_id": "9.2.1.1.1",
                             "relationship_type": "defines",
-                            "conceptual_bridge": "This verse gives the defining characteristic (mtshan nyid) of the two categories established in 1.2.1.1.1, moving from simple division to functional definition."
+                            "conceptual_bridge": "This verse gives the defining characteristic (mtshan nyid) of the two categories established in 9.2.1.1.1, moving from simple division to functional definition."
                           },
                           {
-                            "related_node_id": "1.2.1.1.3",
+                            "related_node_id": "9.2.1.1.3",
                             "relationship_type": "is_realized_by",
-                            "conceptual_bridge": "Since ultimate truth is beyond ordinary mind, the next verse (1.2.1.1.3) will explain who can and cannot access these different levels of reality."
+                            "conceptual_bridge": "Since ultimate truth is beyond ordinary mind, the next verse (9.2.1.1.3) will explain who can and cannot access these different levels of reality."
                           }
                         ],
                         "implicit_concepts": [
@@ -235,7 +235,7 @@
                     },
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.1.3",
+                      "number": "9.2.1.1.3",
                       "title": "བདེན་གཉིས་གཏན་ལ་འབེབ་པའི་གང་ཟག (The Individuals Who Ascertain the Two Truths)",
                       "verses_span": "5-7",
                       "summary": {
@@ -250,14 +250,14 @@
                         "function_in_hierarchy": "This completes the initial presentation of the Two Truths by grounding them in the experience of different types of perceivers. It establishes the principle that 'truth' is relative to the observer's capacity, and it provides the rationale for the subsequent refutation of lower philosophical views by higher ones.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.1.2",
+                            "related_node_id": "9.2.1.1.2",
                             "relationship_type": "explains_the_implication_of",
-                            "conceptual_bridge": "Since 1.2.1.1.2 established that ultimate truth is beyond the ordinary mind, this section explains who (yogis) can access it and how their view differs from that of ordinary people."
+                            "conceptual_bridge": "Since 9.2.1.1.2 established that ultimate truth is beyond the ordinary mind, this section explains who (yogis) can access it and how their view differs from that of ordinary people."
                           },
                           {
-                            "related_node_id": "1.2.1.2",
+                            "related_node_id": "9.2.1.2",
                             "relationship_type": "provides_justification_for",
-                            "conceptual_bridge": "The principle that a higher view refutes a lower one, established here, is the operating principle for the entire next section (1.2.1.2), where various disputes are resolved from the Madhyamaka perspective."
+                            "conceptual_bridge": "The principle that a higher view refutes a lower one, established here, is the operating principle for the entire next section (9.2.1.2), where various disputes are resolved from the Madhyamaka perspective."
                           }
                         ],
                         "implicit_concepts": [
@@ -274,7 +274,7 @@
                 },
                 {
                   "level": "subsubsection",
-                  "number": "1.2.1.2",
+                  "number": "9.2.1.2",
                   "title": "དེ་ལ་རྩོད་པ་སྤོང་བ། (Dispelling Disputes Regarding That [the Two Truths])",
                   "verses_span": "8-51",
                   "summary": {
@@ -287,17 +287,17 @@
                           "རང་རིག (Svasaṃvedana/Self-cognizing consciousness)"
                     ],
                     "transformative_goal": "To free the practitioner's mind from clinging to any form of substantialist or essentialist view, whether of external objects or internal consciousness, thereby removing the subtle intellectual obstacles to realizing emptiness.",
-                    "function_in_hierarchy": "This is the core dialectical section of the chapter. It puts the theory of the Two Truths (from 1.2.1.1) into practice by using it as a tool to deconstruct competing philosophical systems. This refutation is essential before meditation (1.2.2) can be effectively undertaken.",
+                    "function_in_hierarchy": "This is the core dialectical section of the chapter. It puts the theory of the Two Truths (from 9.2.1.1) into practice by using it as a tool to deconstruct competing philosophical systems. This refutation is essential before meditation (9.2.2) can be effectively undertaken.",
                     "inter_node_relationships": [
                       {
-                        "related_node_id": "1.2.1.1",
+                        "related_node_id": "9.2.1.1",
                         "relationship_type": "applies_the_principle_of",
-                        "conceptual_bridge": "This section uses the Two Truths framework established in 1.2.1.1 to show how other schools either conflate the two truths or reify some aspect of conventional reality as ultimate."
+                        "conceptual_bridge": "This section uses the Two Truths framework established in 9.2.1.1 to show how other schools either conflate the two truths or reify some aspect of conventional reality as ultimate."
                       },
                       {
-                        "related_node_id": "1.2.1.3",
+                        "related_node_id": "9.2.1.3",
                         "relationship_type": "clears_the_path_for",
-                        "conceptual_bridge": "By refuting all lower views, this section demonstrates their inadequacy, which in turn serves as the justification for establishing the Mahayana view as supreme in the following section (1.2.1.3)."
+                        "conceptual_bridge": "By refuting all lower views, this section demonstrates their inadequacy, which in turn serves as the justification for establishing the Mahayana view as supreme in the following section (9.2.1.3)."
                       }
                     ],
                     "implicit_concepts": [
@@ -311,7 +311,7 @@
                   "children": [
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.2.1",
+                      "number": "9.2.1.2.1",
                       "title": "འཇིག་རྟེན་ཕལ་པའི་རྩོད་སྤོང༌། (Dispelling Disputes of the Ordinary Worldly Person)",
                       "verses_span": "8-10",
                       "summary": {
@@ -326,12 +326,12 @@
                         "function_in_hierarchy": "This serves as the first and most basic level of refutation, tackling the naive realism that is the default view for most people. It's the entry point into the more sophisticated philosophical analysis that follows.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.1.3",
+                            "related_node_id": "9.2.1.1.3",
                             "relationship_type": "illustrates_the_conflict_from",
-                            "conceptual_bridge": "This section demonstrates the conflict between the 'ordinary person' and the 'yogi' that was introduced in 1.2.1.1.3, showing how the yogi's view challenges the ordinary person's assumptions."
+                            "conceptual_bridge": "This section demonstrates the conflict between the 'ordinary person' and the 'yogi' that was introduced in 9.2.1.1.3, showing how the yogi's view challenges the ordinary person's assumptions."
                           },
                           {
-                            "related_node_id": "1.2.1.2.2",
+                            "related_node_id": "9.2.1.2.2",
                             "relationship_type": "is_a_prelude_to",
                             "conceptual_bridge": "After addressing the non-philosophical, commonsense view, the text moves on to engage with the more structured philosophical views of the Shravakas in the next section."
                           }
@@ -348,7 +348,7 @@
                     },
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.2.2",
+                      "number": "9.2.1.2.2",
                       "title": "ཉན་ཐོས་ཀྱི་རྩོད་སྤོང༌། (Dispelling Disputes of the Shravakas)",
                       "verses_span": "11-29",
                       "summary": {
@@ -364,12 +364,12 @@
                         "function_in_hierarchy": "This represents a significant step up in philosophical subtlety from the previous section. It refutes the first major Buddhist philosophical alternative to Madhyamaka, clearing away the belief in any fundamental, irreducible 'building blocks' of reality, which is a key obstacle to realizing pervasive emptiness.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.2.1",
+                            "related_node_id": "9.2.1.2.1",
                             "relationship_type": "deepens_the_refutation_of",
                             "conceptual_bridge": "While the previous section refuted naive realism, this one refutes a more sophisticated, philosophical realism (atomism) held by other Buddhists, showing that even their view relies on unexamined conventions."
                           },
                           {
-                            "related_node_id": "1.2.1.2.3",
+                            "related_node_id": "9.2.1.2.3",
                             "relationship_type": "prepares_for",
                             "conceptual_bridge": "After refuting the realism of external objects, the argument naturally progresses to refuting the realism of the internal mind, which is the position of the Chittamatrins addressed in the next section."
                           }
@@ -386,7 +386,7 @@
                     },
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.2.3",
+                      "number": "9.2.1.2.3",
                       "title": "སེམས་ཙམ་པ་རྣམས་ཀྱི་རྩོད་སྤོང༌། (Dispelling Disputes of the Chittamatrins)",
                       "verses_span": "30-51",
                       "summary": {
@@ -401,14 +401,14 @@
                         "function_in_hierarchy": "This is the most subtle refutation in the subsection, tackling the idealist view that is philosophically closest to Madhyamaka. By dismantling the belief in an ultimately real mind, it completes the deconstruction of all possible 'foundations' for reality, leaving only interdependent, empty appearances.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.2.2",
+                            "related_node_id": "9.2.1.2.2",
                             "relationship_type": "is_the_logical_conclusion_of",
                             "conceptual_bridge": "Having refuted the reality of external objects (the Shravaka view), the argument now turns inward to refute the reality of the perceiving subject (the Chittamatra view), thus deconstructing both poles of experience."
                           },
                           {
-                            "related_node_id": "1.2.2",
+                            "related_node_id": "9.2.2",
                             "relationship_type": "provides_the_final_view_for",
-                            "conceptual_bridge": "By refuting even the mind as ultimately real, this section establishes the complete view of emptiness of both self and phenomena, which is the subject of the meditation in the next major section (1.2.2)."
+                            "conceptual_bridge": "By refuting even the mind as ultimately real, this section establishes the complete view of emptiness of both self and phenomena, which is the subject of the meditation in the next major section (9.2.2)."
                           }
                         ],
                         "implicit_concepts": [
@@ -425,7 +425,7 @@
                 },
                 {
                   "level": "subsubsection",
-                  "number": "1.2.1.3",
+                  "number": "9.2.1.3",
                   "title": "ཐེག་ཆེན་མཆོག་ཏུ་བསྒྲུབ་པ། (Establishing the Mahayana as Supreme)",
                   "verses_span": "52-89",
                   "summary": {
@@ -441,14 +441,14 @@
                     "function_in_hierarchy": "This section serves as a positive affirmation and consolidation of the Madhyamaka view after the preceding dialectical refutations. It shifts from tearing down other views to building up the case for the Mahayana path, providing the practitioner with strong reasons to commit to it.",
                     "inter_node_relationships": [
                       {
-                        "related_node_id": "1.2.1.2",
+                        "related_node_id": "9.2.1.2",
                         "relationship_type": "provides_the_positive_alternative_to",
-                        "conceptual_bridge": "After demonstrating the flaws in other systems in 1.2.1.2, this section presents the Mahayana as the superior and complete solution to the problem of suffering and ignorance."
+                        "conceptual_bridge": "After demonstrating the flaws in other systems in 9.2.1.2, this section presents the Mahayana as the superior and complete solution to the problem of suffering and ignorance."
                       },
                       {
-                        "related_node_id": "1.2.2",
+                        "related_node_id": "9.2.2",
                         "relationship_type": "motivates",
-                        "conceptual_bridge": "By establishing the Mahayana path of emptiness as supreme and essential, it provides the powerful motivation needed to engage in the difficult meditative analysis described in the next section (1.2.2)."
+                        "conceptual_bridge": "By establishing the Mahayana path of emptiness as supreme and essential, it provides the powerful motivation needed to engage in the difficult meditative analysis described in the next section (9.2.2)."
                       }
                     ],
                     "implicit_concepts": [
@@ -463,7 +463,7 @@
                   "children": [
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.3.1",
+                      "number": "9.2.1.3.1",
                       "title": "ལམ་སྟོང་ཉིད་ལ་རྩོད་པ་སྤོང་བ། (Dispelling Disputes Regarding Emptiness, the Path - Commentary Title: ལམ་སྟོང་ཉིད་ལ་རྩོད་པ་སྤོང་བ།)",
                       "verses_span": "52-59",
                       "summary": {
@@ -478,9 +478,9 @@
                         "function_in_hierarchy": "This section explains the 'how' of the path. It provides the psychological and contemplative rationale for why meditating on emptiness is effective, bridging the gap between intellectual view and transformative practice. It shows that emptiness is not just a description of reality, but a potent tool for mental purification.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.2",
+                            "related_node_id": "9.2.1.2",
                             "relationship_type": "answers_a_practical_objection_to",
-                            "conceptual_bridge": "After the philosophical refutations in 1.2.1.2, this section addresses the practical concern of 'How does this actually work to solve my problems?' It explains the process of mental re-habituation."
+                            "conceptual_bridge": "After the philosophical refutations in 9.2.1.2, this section addresses the practical concern of 'How does this actually work to solve my problems?' It explains the process of mental re-habituation."
                           }
                         ],
                         "implicit_concepts": [
@@ -496,7 +496,7 @@
                     },
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.3.2",
+                      "number": "9.2.1.3.2",
                       "title": "འབྲས་བུ་གཞན་དོན་ལ་རྩོད་པ་སྤོང་བ། (Dispelling Disputes Regarding the Result, the Benefit of Others - Commentary Title: འབྲས་བུ་གཞན་དོན་ལ་རྩོད་པ་སྤོང་བ།)",
                       "verses_span": "60-67",
                       "summary": {
@@ -511,7 +511,7 @@
                         "function_in_hierarchy": "This section clarifies the nature of the 'result' of the path (`phala`). It explains how the ultimate state of Buddhahood, which is one of peace and non-conceptuality, can simultaneously be a source of boundless, spontaneous benefit for others.",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.3.1",
+                            "related_node_id": "9.2.1.3.1",
                             "relationship_type": "explains_the_result_of",
                             "conceptual_bridge": "While the previous section explained the *path* (meditating on emptiness), this section explains the *result* of that path (effortless, compassionate activity of a Buddha)."
                           }
@@ -528,7 +528,7 @@
                     },
                     {
                       "level": "subsubsubsection",
-                      "number": "1.2.1.3.3",
+                      "number": "9.2.1.3.3",
                       "title": "ལུང་ཐེག་ཆེན་བཀར་བསྒྲུབ་པ། (Establishing the Mahayana Scriptures as Authoritative)",
                       "verses_span": "68-81",
                       "summary": {
@@ -544,12 +544,12 @@
                         "function_in_hierarchy": "This section provides the scriptural and logical validation for the entire Mahayana path presented in the text. After explaining the view (emptiness) and the result (Buddhahood), it addresses the crucial question of authority: 'Why should we believe these teachings?'",
                         "inter_node_relationships": [
                           {
-                            "related_node_id": "1.2.1.3.1",
+                            "related_node_id": "9.2.1.3.1",
                             "relationship_type": "validates_the_source_of",
-                            "conceptual_bridge": "This section validates the scriptural source (`lung`) for the teachings on emptiness that were presented as the path in 1.2.1.3.1."
+                            "conceptual_bridge": "This section validates the scriptural source (`lung`) for the teachings on emptiness that were presented as the path in 9.2.1.3.1."
                           },
                           {
-                            "related_node_id": "1.2.1.3.4",
+                            "related_node_id": "9.2.1.3.4",
                             "relationship_type": "is_a_prerequisite_for",
                             "conceptual_bridge": "Accepting the Mahayana scriptures as authoritative (this section) is a prerequisite for accepting their core message that emptiness is the ultimate antidote, which is the topic of the next section."
                           }
@@ -566,6 +566,7 @@
                     },
                     {
                       "level": "subsubsubsection",
+                      "number": "9.2.1.3.4",
                       "number": "1.2.1.3.4",
                       "title": "ལམ་སྟོང་ཉིད་གཉེན་པོར་སྒྲུབ་པ། (Establishing Emptiness, the Path, as the Antidote)",
                       "verses_span": "82-89",
