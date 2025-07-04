@@ -91,7 +91,7 @@ if __name__ == "__main__":
     chapter_dirs = list(Path("./data/chojuk").iterdir())
     chapter_dirs.sort()
 
-    for chapter_dir in chapter_dirs[1:2]:
+    for chapter_dir in chapter_dirs:
         chapter_outline_file = chapter_dir / "outline_bo.json"
         output_file_name = chapter_dir / "updated_outline_with_verses_bo.json"
     
